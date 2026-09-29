@@ -1,0 +1,548 @@
+[
+  {
+    "link_id": 18,
+    "title": "Enhanced OCV Estimation in LiFePO4 Batteries: A Novel Statistical Approach Leveraging Real-Time Knee/Elbow Detection",
+    "type": "Article",
+    "date": "May 2025"
+  },
+  {
+    "link_id": 23,
+    "title": "Depression Detection from Three-Channel Resting-State EEG Using a Hybrid Conv1D and Spectral–Statistical Fusion Model",
+    "type": "Article",
+    "date": "Feb 2026"
+  },
+  {
+    "link_id": 28,
+    "title": "Deception Detection from Five-Channel Wearable EEG on LieWaves: A Reproducible Baseline for Subject-Dependent and Subject-Independent Evaluation",
+    "type": "Article",
+    "date": "Feb 2026"
+  },
+  {
+    "link_id": 30,
+    "title": "A TinyML-Driven Edge Computing Framework for State of Health Estimation of Second-Life Li-Ion Battery",
+    "type": "Preprint",
+    "date": "Jan 2026"
+  },
+  {
+    "link_id": 33,
+    "title": "Real-Time Environmental Parameter Monitoring and Temperature Forecasting Using a Custom IoT Weather Station and Linear Regression",
+    "type": "Conference Paper",
+    "date": "Oct 2025"
+  },
+  {
+    "link_id": 37,
+    "title": "Performance Evaluation of Wavelet and Adaptive Filters for ECG Denoising in the LabVIEW Environment",
+    "type": "Conference Paper",
+    "date": "Oct 2025"
+  },
+  {
+    "link_id": 39,
+    "title": "Classification Method Based on Thevenin Model and Partial Discharge Voltage Profiles for Battery State of Health Estimation",
+    "type": "Conference Paper",
+    "date": "Oct 2025"
+  },
+  {
+    "link_id": 40,
+    "title": "Energy-Aware A* Path Planning for Indoor Automated Guided Vehicles",
+    "type": "Conference Paper",
+    "date": "Oct 2025"
+  },
+  {
+    "link_id": 43,
+    "title": "Modular Mobile Robotic Platform for Smart City and Indoor Service Applications",
+    "type": "Chapter",
+    "date": "Sep 2025"
+  },
+  {
+    "link_id": 45,
+    "title": "Embedded Power Management and State-of-Charge Estimation in Modular Robotic Platforms: Experimental Validation and Web-Based Monitoring",
+    "type": "Chapter",
+    "date": "Sep 2025"
+  },
+  {
+    "link_id": 46,
+    "title": "Lithium-Ion battery state of health estimation enhanced with faults indicator",
+    "type": "Conference Paper",
+    "date": "Sep 2025"
+  },
+  {
+    "link_id": 47,
+    "title": "Hardware-Accelerated SMV Subscriber: Energy Quality Pre-Processed Metrics and Analysis",
+    "type": "Article",
+    "date": "Aug 2025"
+  },
+  {
+    "link_id": 50,
+    "title": "Digital Solutions for Smart Logistics: a Synthesis of Ai- and Iot-Based Architectural Paradigms",
+    "type": "Conference Paper",
+    "date": "Jun 2025"
+  },
+  {
+    "link_id": 54,
+    "title": "High-Speed SMVs Subscriber Design for FPGA Architectures",
+    "type": "Article",
+    "date": "May 2025"
+  },
+  {
+    "link_id": 55,
+    "title": "IoT-Based Real-Time Electrocardiogram Monitoring and Recording System",
+    "type": "Conference Paper",
+    "date": "Nov 2024"
+  },
+  {
+    "link_id": 59,
+    "title": "Digital Stethoscope with Signal Processing Capabilities for IoMT Applications",
+    "type": "Chapter",
+    "date": "Oct 2024"
+  },
+  {
+    "link_id": 61,
+    "title": "ANALYSIS OF BIDIRECTIONAL DC-DC POWER CONVERTERS FOR SCREENING SYSTEMS OF RETIRED BATTERIES",
+    "type": "Article",
+    "date": "Sep 2024"
+  },
+  {
+    "link_id": 62,
+    "title": "Development of a Laboratory Testbed for Cybersecurity Evaluation of Distribution Substations Using Open Source Tools",
+    "type": "Conference Paper",
+    "date": "Jun 2024"
+  },
+  {
+    "link_id": 65,
+    "title": "Optimising Urban Waste Management Through Smart Monitoring Systems: A Case Study in Enhancing Efficiency and Sustainability",
+    "type": "Article",
+    "date": "Jun 2024"
+  },
+  {
+    "link_id": 67,
+    "title": "Intelligent Trash Level Detection for Sustainable Urban Waste Management",
+    "type": "Article",
+    "date": "Jun 2024"
+  },
+  {
+    "link_id": 68,
+    "title": "SYSTÈME INTELLIGENT POUR LA RÉDUCTION DE LA CONSOMMATION ÉLECTRIQUE EN VEILLE DES ÉQUIPEMENTS MÉNAGERS",
+    "type": "Article",
+    "date": "Dec 2023"
+  },
+  {
+    "link_id": 72,
+    "title": "A NEW HYBRID MODEL TO EVALUATE THE LOSS OF LIFE OF POWER TRANSFORMERS",
+    "type": "Article",
+    "date": "Oct 2023"
+  },
+  {
+    "link_id": 75,
+    "title": "Performance Analysis of MQTT Over Websocket for IoT Applications",
+    "type": "Article",
+    "date": "Sep 2023"
+  },
+  {
+    "link_id": 76,
+    "title": "Labview for IoT Applications",
+    "type": "Article",
+    "date": "Sep 2023"
+  },
+  {
+    "link_id": 77,
+    "title": "Single-Wire Control and Fault Detection for Automotive Exterior Lighting Systems",
+    "type": "Article",
+    "date": "Jul 2023"
+  },
+  {
+    "link_id": 79,
+    "title": "INDOOR 3D SCANNING AND NAVIGATION SYSTEM FOR AN AUTOMATED GUIDED VEHICLE",
+    "type": "Article",
+    "date": "Jul 2023"
+  },
+  {
+    "link_id": 81,
+    "title": "Guidelines for Developing a Power-Grid Cybersecurity Database in Europe",
+    "type": "Conference Paper",
+    "date": "Jun 2023"
+  },
+  {
+    "link_id": 83,
+    "title": "Power Transformers Loss Of Life Evaluation Using Winding Insulation Resistance Calculation Model",
+    "type": "Conference Paper",
+    "date": "Jun 2023"
+  },
+  {
+    "link_id": 85,
+    "title": "Statistical Analysis of Capacity Loss for Stored Batteries",
+    "type": "Conference Paper",
+    "date": "Jun 2023"
+  },
+  {
+    "link_id": 89,
+    "title": "Design and Implementation of an Experimental Model for the Control and Telemonitoring of a 27.5kV High Voltage Bipolar Circuit Breaker with Vacuum Switching",
+    "type": "Conference Paper",
+    "date": "Jun 2023"
+  },
+  {
+    "link_id": 91,
+    "title": "Design and implementation of a multi-battery, multi-chemistry state of health screening system",
+    "type": "Conference Paper",
+    "date": "Jun 2023"
+  },
+  {
+    "link_id": 93,
+    "title": "Microgrid Cyber Security Enhancement Considerations",
+    "type": "Conference Paper",
+    "date": "Mar 2023"
+  },
+  {
+    "link_id": 95,
+    "title": "An Indoor Air Quality Score Computation and System",
+    "type": "Conference Paper",
+    "date": "Mar 2023"
+  },
+  {
+    "link_id": 96,
+    "title": "First Steps Towards the Design of a multi-Chemistry, multi-Battery State of Health Screening System",
+    "type": "Conference Paper",
+    "date": "Mar 2023"
+  },
+  {
+    "link_id": 97,
+    "title": "Power LED efficiency for automotive headlights",
+    "type": "Article",
+    "date": "Jan 2023"
+  },
+  {
+    "link_id": 98,
+    "title": "A Multipurpose Video Immersion Laboratory",
+    "type": "Conference Paper",
+    "date": "Nov 2022"
+  },
+  {
+    "link_id": 100,
+    "title": "A Statistical Comparative Study For Detecting Outliers In Electrical Data",
+    "type": "Conference Paper",
+    "date": "Jun 2022"
+  },
+  {
+    "link_id": 102,
+    "title": "Energy Evaluation of Bugs vs Birds Path Planning Strategies for Robots",
+    "type": "Conference Paper",
+    "date": "Jun 2022"
+  },
+  {
+    "link_id": 104,
+    "title": "A Flexibility Market Platform for Electricity System Operators Using Blockchain Technology",
+    "type": "Article",
+    "date": "Jan 2022"
+  },
+  {
+    "link_id": 109,
+    "title": "Air Quality Monitoring and Control System for a Hospital Room",
+    "type": "Conference Paper",
+    "date": "Nov 2021"
+  },
+  {
+    "link_id": 111,
+    "title": "Development Approach Model for Automotive Headlights with Mixed Delivery Methodologies over APQP Backbone",
+    "type": "Article",
+    "date": "Nov 2021"
+  },
+  {
+    "link_id": 113,
+    "title": "A Survey of Condition Monitoring Systems Operation in Romanian Transmission Substations",
+    "type": "Conference Paper",
+    "date": "Oct 2021"
+  },
+  {
+    "link_id": 114,
+    "title": "Studying the impact of Dynamic Line Rating on the Romanian Power Transmission Grid",
+    "type": "Conference Paper",
+    "date": "Jun 2021"
+  },
+  {
+    "link_id": 116,
+    "title": "Solution for Wireless Communication and Server Redundancy in Water Management",
+    "type": "Conference Paper",
+    "date": "Mar 2021"
+  },
+  {
+    "link_id": 120,
+    "title": "Flyback Converter for a Multi-Chemistry Battery Balancer",
+    "type": "Conference Paper",
+    "date": "Mar 2021"
+  },
+  {
+    "link_id": 121,
+    "title": "The Influence of the Generator Signal Parameters Over the AntiBubbles Formation",
+    "type": "Conference Paper",
+    "date": "Nov 2020"
+  },
+  {
+    "link_id": 123,
+    "title": "Computing the Caloric Expenditure During Kick Scooter Activity",
+    "type": "Conference Paper",
+    "date": "Oct 2020"
+  },
+  {
+    "link_id": 125,
+    "title": "Robotic Platform for Recovering Injured People in Smart Home",
+    "type": "Conference Paper",
+    "date": "Oct 2020"
+  },
+  {
+    "link_id": 128,
+    "title": "Electronic System for Real-Time Indoor Air Quality Monitoring",
+    "type": "Conference Paper",
+    "date": "Oct 2020"
+  },
+  {
+    "link_id": 131,
+    "title": "A Battery Screening System for Second Life LiFePO₄ Batteries",
+    "type": "Conference Paper",
+    "date": "Oct 2020"
+  },
+  {
+    "link_id": 132,
+    "title": "Comparative study of screening methods for second life LIFEPO4 batteries",
+    "type": "Article",
+    "date": "Aug 2020"
+  },
+  {
+    "link_id": 133,
+    "title": "Didactic Implementation of a Real-Time Biomonitoring Platform",
+    "type": "Conference Paper",
+    "date": "Jun 2020"
+  },
+  {
+    "link_id": 135,
+    "title": "Open Source Architecture for Iot Based SCADA System for Smart Home",
+    "type": "Article",
+    "date": "Oct 2020"
+  },
+  {
+    "link_id": 136,
+    "title": "Brain Mapping using a Blockchain Approach",
+    "type": "Conference Paper",
+    "date": "Nov 2019"
+  },
+  {
+    "link_id": 138,
+    "title": "Guidelines for Small Size Samples Biostatistics in Current Medical Practice",
+    "type": "Conference Paper",
+    "date": "Nov 2019"
+  },
+  {
+    "link_id": 140,
+    "title": "Performance Evaluation of a Partially Shaded PV cell with Different Bus Bars Configurations",
+    "type": "Conference Paper",
+    "date": "Sep 2019"
+  },
+  {
+    "link_id": 142,
+    "title": "Power Quality Analyzer for Smart Grid-Smart Home Applications",
+    "type": "Conference Paper",
+    "date": "Sep 2019"
+  },
+  {
+    "link_id": 145,
+    "title": "IMPROVEMENT OF TEACHING ACTIVITIES IN HIGHER EDUCATION: A CASE STUDY",
+    "type": "Article",
+    "date": "Jun 2019"
+  },
+  {
+    "link_id": 147,
+    "title": "Building and designing a Dual Axis Solar Tracker for Educational Purposes",
+    "type": "Conference Paper",
+    "date": "Jun 2019"
+  },
+  {
+    "link_id": 150,
+    "title": "Remote Control for Smart Home Applications",
+    "type": "Conference Paper",
+    "date": "Jun 2019"
+  },
+  {
+    "link_id": 153,
+    "title": "Innovative Devops for Artificial Intelligence",
+    "type": "Article",
+    "date": "May 2019"
+  },
+  {
+    "link_id": 154,
+    "title": "Modelling the Discharge of a Lithium Iron Phosphate Battery at Low Temperatures",
+    "type": "Conference Paper",
+    "date": "Mar 2019"
+  },
+  {
+    "link_id": 155,
+    "title": "Robotic Platform with Medical Applications in the Smart City Environment",
+    "type": "Conference Paper",
+    "date": "Mar 2019"
+  },
+  {
+    "link_id": 157,
+    "title": "Complex Embedded System for Stress Quantification",
+    "type": "Conference Paper",
+    "date": "Mar 2019"
+  },
+  {
+    "link_id": 158,
+    "title": "Automatic control system for stage lights",
+    "type": "Conference Paper",
+    "date": "Nov 2018"
+  },
+  {
+    "link_id": 160,
+    "title": "Device for monitoring people with Alzheimer's disease",
+    "type": "Conference Paper",
+    "date": "Nov 2018"
+  },
+  {
+    "link_id": 163,
+    "title": "Load Monitoring Solutions for the Smart Buildings – An Overview",
+    "type": "Article",
+    "date": "Nov 2018"
+  },
+  {
+    "link_id": 165,
+    "title": "Harmonic Analysis for Linear Circuits Based on Voltage Relative Values and Standard Limits",
+    "type": "Conference Paper",
+    "date": "Jun 2018"
+  },
+  {
+    "link_id": 166,
+    "title": "Low cost platform for monitoring honey production and bees health",
+    "type": "Conference Paper",
+    "date": "May 2018"
+  },
+  {
+    "link_id": 168,
+    "title": "Temperature influence analysis on the hysteresis of a parallel connection of LFP battery cells",
+    "type": "Conference Paper",
+    "date": "Mar 2017"
+  },
+  {
+    "link_id": 169,
+    "title": "Determining the Optimal Battery Model for a Specific Application",
+    "type": "Chapter",
+    "date": "Mar 2017"
+  },
+  {
+    "link_id": 170,
+    "title": "Considerations on the Command and Analysis of the Low Speed Permanent Magnet Synchronous Machines Operating",
+    "type": "Conference Paper",
+    "date": "Oct 2016"
+  },
+  {
+    "link_id": 174,
+    "title": "Modeling a PV panel using the manufacturer data and a hybrid adaptive method",
+    "type": "Conference Paper",
+    "date": "Jul 2016"
+  },
+  {
+    "link_id": 177,
+    "title": "Voltage oriented control of three-phase PWM rectifier using space vector modulation and input output feedback linearization theory",
+    "type": "Conference Paper",
+    "date": "Jun 2016"
+  },
+  {
+    "link_id": 181,
+    "title": "First Steps Towards Designing a Compact Language for the Description of Logic Circuits",
+    "type": "Conference Paper",
+    "date": "Jun 2016"
+  },
+  {
+    "link_id": 183,
+    "title": "STATE-OF-CHARGE ESTIMATION OF A LIFEPO4 BATTERY USING AN ADAPTIVE OBSERVER",
+    "type": "Article",
+    "date": "Jan 2016"
+  },
+  {
+    "link_id": 184,
+    "title": "A Didactic Implementation of a Minimalist Compiler",
+    "type": "Article",
+    "date": "Dec 2015"
+  },
+  {
+    "link_id": 186,
+    "title": "Hybridization of trolleybuses-means for increasing the transports flexibility and reduction of the pollution",
+    "type": "Article",
+    "date": "Sep 2015"
+  },
+  {
+    "link_id": 190,
+    "title": "Extending the battery model from a single cell to a battery pack with BMS",
+    "type": "Conference Paper",
+    "date": "Jun 2015"
+  },
+  {
+    "link_id": 191,
+    "title": "A LiFePO 4 Battery Discharge Simulator for EV Applications– Part 1: Determining the Optimal Circuit Based Battery Model",
+    "type": "Conference Paper",
+    "date": "May 2015"
+  },
+  {
+    "link_id": 192,
+    "title": "A LiFePO 4 Battery Discharge Simulator for EV Applications– Part 2: Developing the Battery Simulator",
+    "type": "Conference Paper",
+    "date": "May 2015"
+  },
+  {
+    "link_id": 193,
+    "title": "A LiFePO 4 Battery Discharge Simulator for EV Applications– Part 1: Determining the Optimal Circuit Based Battery Model",
+    "type": "Conference Paper",
+    "date": "May 2015"
+  },
+  {
+    "link_id": 194,
+    "title": "Estimating a battery state of charge using neural networks",
+    "type": "Article",
+    "date": "Feb 2015"
+  },
+  {
+    "link_id": 196,
+    "title": "Chapter",
+    "type": "Data",
+    "date": "Jan 2015"
+  },
+  {
+    "link_id": 197,
+    "title": "Estimating a battery SoC using neural networks",
+    "type": "Conference Paper",
+    "date": "Nov 2014"
+  },
+  {
+    "link_id": 198,
+    "title": "Aspects of simulating the behavior of an internal combustion engine for electric starter testing",
+    "type": "Conference Paper",
+    "date": "Oct 2014"
+  },
+  {
+    "link_id": 200,
+    "title": "Modeling aspects of an electric starter system for an internal combustion engine",
+    "type": "Conference Paper",
+    "date": "Oct 2014"
+  },
+  {
+    "link_id": 201,
+    "title": "Batteries for electrical vehicles: A review",
+    "type": "Chapter",
+    "date": "Aug 2014"
+  },
+  {
+    "link_id": 202,
+    "title": "Experimental analysis on a Self Excited Induction Generator for standalone wind electric pumping stations",
+    "type": "Conference Paper",
+    "date": "May 2014"
+  },
+  {
+    "link_id": 205,
+    "title": "Computation of the characteristics of a claw pole alternator through the finite element method",
+    "type": "Conference Paper",
+    "date": "Jun 2013"
+  },
+  {
+    "link_id": 207,
+    "title": "Comparative study for generic battery models used for electric vehicles",
+    "type": "Conference Paper",
+    "date": "May 2013"
+  }
+]

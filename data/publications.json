@@ -1,0 +1,3268 @@
+[
+  {
+    "title": "A TinyML-Driven Edge Computing Framework for State of Health Estimation of Second-Life Li-Ion Battery",
+    "authors": "Efstathios Fiorentis; Bogdan-Adrian Enache; Mihaela-Marilena Albu",
+    "year": 2026,
+    "date": "2026-01",
+    "type": "Preprint",
+    "venue": "SSRN",
+    "doi": "10.2139/ssrn.6169928",
+    "url": "https://www.researchgate.net/publication/400391780_A_TinyML-Driven_Edge_Computing_Framework_for_State_of_Health_Estimation_of_Second-Life_Li-Ion_Battery",
+    "summary": "A compact neural-network approach estimates the health of second-life lithium-ion cells from partial-discharge voltages, with an architecture intended for resource-constrained edge devices.",
+    "id": "pub-rg-1",
+    "sources": [
+      {
+        "name": "ResearchGate",
+        "url": "https://www.researchgate.net/publication/400391780_A_TinyML-Driven_Edge_Computing_Framework_for_State_of_Health_Estimation_of_Second-Life_Li-Ion_Battery"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.2139/ssrn.6169928"
+      }
+    ],
+    "notes": [],
+    "publisher": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "citations": "",
+    "topics": [
+      "Batteries & energy storage"
+    ]
+  },
+  {
+    "id": "pub-056",
+    "title": "Deception Detection from Five-Channel Wearable EEG on LieWaves: A Reproducible Baseline for Subject-Dependent and Subject-Independent Evaluation",
+    "authors": "Șerban-Teodor Nicolescu; Felix-Constantin Adochiei; Florin-Ciprian Argatu; Bogdan-Adrian Enache; George-Călin Serițan",
+    "venue": "Sensors",
+    "year": 2026,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:Tiz5es2fbqcC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.3390/s26031027"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Journal article",
+    "citations": "2",
+    "doi": "10.3390/s26031027",
+    "date": "2026-02-04",
+    "publisher": "MDPI AG",
+    "volume": "26",
+    "issue": "3",
+    "pages": "1027",
+    "topics": [
+      "Sensors, IoT & signal processing"
+    ]
+  },
+  {
+    "id": "pub-055",
+    "title": "Depression Detection from Three-Channel Resting-State EEG Using a Hybrid Conv1D and Spectral–Statistical Fusion Model",
+    "authors": "Oana-Isabela Știrbu; Florin-Ciprian Argatu; Felix-Constantin Adochiei; Bogdan-Adrian Enache; George-Călin Serițan",
+    "venue": "Sensors",
+    "year": 2026,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:WbkHhVStYXYC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.3390/s26051417"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Journal article",
+    "citations": "2",
+    "doi": "10.3390/s26051417",
+    "date": "2026-02-24",
+    "publisher": "MDPI AG",
+    "volume": "26",
+    "issue": "5",
+    "pages": "1417",
+    "topics": [
+      "Sensors, IoT & signal processing"
+    ]
+  },
+  {
+    "id": "pub-078",
+    "title": "Low-Temperature Capacity Loss in LCO and LFP Cells and Packs dedicated to automotive applications",
+    "authors": "BA Enache, A Clenci, LM Constantinescu",
+    "venue": "CAR 2026, 2026",
+    "year": 2026,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:l7t_Zn2s7bgC"
+      }
+    ],
+    "notes": [
+      "Bibliographic record from Google Scholar; fields not independently resolved with publisher metadata are retained as listed.",
+      "Listed on Google Scholar as CAR 2026. Publication status and final proceedings details need confirmation."
+    ],
+    "type": "Conference paper",
+    "citations": "",
+    "doi": "",
+    "date": "",
+    "publisher": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "topics": [
+      "Batteries & energy storage",
+      "Robotics & mobility"
+    ]
+  },
+  {
+    "id": "pub-079",
+    "title": "Techno-Economic Optimisation of Green Mobile Energy Services in Bucharest",
+    "authors": "Corina Daniela Mihai; Iuliana Diana Mihalache; Alexandra Frăţilă; Bogdan-Adrian Enache",
+    "venue": "2026 18th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
+    "year": 2026,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:K3LRdlH-MEoC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/ecai69016.2026.11613808"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "",
+    "doi": "10.1109/ecai69016.2026.11613808",
+    "date": "2026-07",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-6",
+    "topics": [
+      "Power systems & resilience"
+    ]
+  },
+  {
+    "id": "pub-082",
+    "title": "Classification Method Based on Thevenin Model and Partial Discharge Voltage Profiles for Battery State of Health Estimation",
+    "authors": "Efstathios Fiorentis; Bogdan-Adrian Enache",
+    "venue": "2025 14th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
+    "year": 2025,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:OU6Ihb5iCvQC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/atee66006.2025.11299935"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "",
+    "doi": "10.1109/atee66006.2025.11299935",
+    "date": "2025-10-09",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-5",
+    "topics": [
+      "Batteries & energy storage",
+      "Power systems & resilience"
+    ]
+  },
+  {
+    "id": "pub-070",
+    "title": "Digital Solutions for Smart Logistics: a Synthesis of Ai- and Iot-Based Architectural Paradigms",
+    "authors": "Gheorghe Radulescu; Gabriel-Vasile Iana; Bogdan-Adrian Enache; Emil Pricop; Mihai Oproescu; Ioan Lita; Ovidiu Constantin Novac; Mihaela Cornelia Novac",
+    "venue": "2025 17th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
+    "year": 2025,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:1sJd4Hv_s6UC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/ecai65401.2025.11095498"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "1",
+    "doi": "10.1109/ecai65401.2025.11095498",
+    "date": "2025-06-26",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-6",
+    "topics": [
+      "Sensors, IoT & signal processing",
+      "Education & computing"
+    ]
+  },
+  {
+    "id": "pub-084",
+    "title": "Embedded Power Management and State-of-Charge Estimation in Modular Robotic Platforms: Experimental Validation and Web-Based Monitoring",
+    "authors": "Florin Ciprian Argatu; Ioana-Raluca Adochiei; Bogdan-Adrian Enache; Cosmin Karl Banica; George-Călin Serițan; Felix-Constantin Adochiei",
+    "venue": "IFMBE Proceedings; 7th International Conference on Nanotechnologies and Biomedical Engineering",
+    "year": 2025,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:KxtntwgDAa4C"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1007/978-3-032-06497-4_62"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Book chapter",
+    "citations": "",
+    "doi": "10.1007/978-3-032-06497-4_62",
+    "date": "2025",
+    "publisher": "Springer Nature Switzerland",
+    "volume": "",
+    "issue": "",
+    "pages": "635-644",
+    "topics": [
+      "Batteries & energy storage",
+      "Power systems & resilience",
+      "Sensors, IoT & signal processing",
+      "Robotics & mobility"
+    ]
+  },
+  {
+    "id": "pub-080",
+    "title": "Energy-Aware A* Path Planning for Indoor Automated Guided Vehicles",
+    "authors": "Bogdan-Adrian Enache; Sorin-Dan Grigorescu; Felix Constantin Adochiei; Florin Ciprian Argatu; George Calin Seritan; Cosmin Karl Banica",
+    "venue": "2025 14th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
+    "year": 2025,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:u9iWguZQMMsC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/atee66006.2025.11299871"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "",
+    "doi": "10.1109/atee66006.2025.11299871",
+    "date": "2025-10-09",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-6",
+    "topics": [
+      "Power systems & resilience",
+      "Robotics & mobility"
+    ]
+  },
+  {
+    "id": "pub-071",
+    "title": "Enhanced OCV Estimation in LiFePO4 Batteries: A Novel Statistical Approach Leveraging Real-Time Knee/Elbow Detection",
+    "authors": "Teodor-Iulian Voicila; Bogdan-Adrian Enache; Vasilis Argyriou; Panagiotis Sarigiannidis; Mihai-Alexandru Pisla; George-Calin Seritan",
+    "venue": "Batteries",
+    "year": 2025,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:NhqRSupF_l8C"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.3390/batteries11050186"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Journal article",
+    "citations": "1",
+    "doi": "10.3390/batteries11050186",
+    "date": "2025-05-08",
+    "publisher": "MDPI AG",
+    "volume": "11",
+    "issue": "5",
+    "pages": "186",
+    "topics": [
+      "Batteries & energy storage"
+    ]
+  },
+  {
+    "id": "pub-086",
+    "title": "Hardware-Accelerated SMV Subscriber: Energy Quality Pre-Processed Metrics and Analysis",
+    "authors": "Mihai-Alexandru Pisla; Bogdan-Adrian Enache; Vasilis Argyriou; Panagiotis Sarigiannidis; George-Calin Seritan",
+    "venue": "Electronics",
+    "year": 2025,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:P5F9QuxV20EC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.3390/electronics14163297"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Journal article",
+    "citations": "",
+    "doi": "10.3390/electronics14163297",
+    "date": "2025-08-19",
+    "publisher": "MDPI AG",
+    "volume": "14",
+    "issue": "16",
+    "pages": "3297",
+    "topics": [
+      "Power systems & resilience"
+    ]
+  },
+  {
+    "id": "pub-044",
+    "title": "High-Speed SMVs Subscriber Design for FPGA Architectures",
+    "authors": "Mihai-Alexandru Pisla; Bogdan-Adrian Enache; Vasilis Argyriou; Panagiotis Sarigiannidis; Teodor-Iulian Voicila; George-Calin Seritan",
+    "venue": "Electronics",
+    "year": 2025,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:xtRiw3GOFMkC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.3390/electronics14112135"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Journal article",
+    "citations": "3",
+    "doi": "10.3390/electronics14112135",
+    "date": "2025-05-24",
+    "publisher": "MDPI AG",
+    "volume": "14",
+    "issue": "11",
+    "pages": "2135",
+    "topics": [
+      "Applied engineering"
+    ]
+  },
+  {
+    "id": "pub-085",
+    "title": "Lithium-Ion battery state of health estimation enhanced with faults indicator",
+    "authors": "Efstathios Fiorentis; Bogdan-Adrian Enache",
+    "venue": "2025 IEEE 15th International Workshop on Applied Measurements for Power Systems (AMPS)",
+    "year": 2025,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:UxriW0iASnsC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/amps66841.2025.11219910"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "",
+    "doi": "10.1109/amps66841.2025.11219910",
+    "date": "2025-09-24",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-6",
+    "topics": [
+      "Batteries & energy storage"
+    ]
+  },
+  {
+    "id": "pub-069",
+    "title": "Modular Mobile Robotic Platform for Smart City and Indoor Service Applications",
+    "authors": "Ioana-Raluca Adochiei; Florin Ciprian Argatu; Bogdan-Adrian Enache; Cosmin Karl Banica; Sorin Dan Grigorescu; Felix-Constantin Adochiei",
+    "venue": "IFMBE Proceedings; 7th International Conference on Nanotechnologies and Biomedical Engineering",
+    "year": 2025,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:nb7KW1ujOQ8C"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1007/978-3-032-06497-4_61"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Book chapter",
+    "citations": "1",
+    "doi": "10.1007/978-3-032-06497-4_61",
+    "date": "2025",
+    "publisher": "Springer Nature Switzerland",
+    "volume": "",
+    "issue": "",
+    "pages": "624-634",
+    "topics": [
+      "Robotics & mobility"
+    ]
+  },
+  {
+    "id": "pub-081",
+    "title": "Performance Evaluation of Wavelet and Adaptive Filters for ECG Denoising in the LabVIEW Environment",
+    "authors": "Alexandra Nistor; George-Călin Serițan; Felix Constantin Adochiei; Florin-Ciprian Argatu; Bogdan-Adrian Enache",
+    "venue": "2025 14th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
+    "year": 2025,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:p2g8aNsByqUC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/atee66006.2025.11299944"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "",
+    "doi": "10.1109/atee66006.2025.11299944",
+    "date": "2025-10-09",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-5",
+    "topics": [
+      "Sensors, IoT & signal processing"
+    ]
+  },
+  {
+    "id": "pub-083",
+    "title": "Real-Time Environmental Parameter Monitoring and Temperature Forecasting Using a Custom IoT Weather Station and Linear Regression",
+    "authors": "Cătălin Andrei Niculescu; Florin Ciprian Argatu; George Călin Serițan; Felix Constantin Adochiei; Bogdan-Adrian Enache",
+    "venue": "2025 14th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
+    "year": 2025,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:uWQEDVKXjbEC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/atee66006.2025.11299969"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "",
+    "doi": "10.1109/atee66006.2025.11299969",
+    "date": "2025-10-09",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-5",
+    "topics": [
+      "Sensors, IoT & signal processing"
+    ]
+  },
+  {
+    "id": "pub-025",
+    "title": "Analysis of bidirectional DC-DC power converters for screening systems of retired batteries",
+    "authors": "Teodor-Iulian Voicila; George-Calin Seritan; Bogdan-Adrian Enache",
+    "venue": "Revue Roumaine des Sciences Techniques – Série Électrotechnique et Énergétique",
+    "year": 2024,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:_xSYboBqXhAC"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      },
+      {
+        "name": "Publisher / institutional bibliography",
+        "url": "https://journal.iem.pub.ro/rrst-ee/en/article/view/813"
+      },
+      {
+        "name": "DOI",
+        "url": "https://doi.org/10.59277/RRST-EE.2024.69.3.10"
+      }
+    ],
+    "notes": [],
+    "type": "Journal article",
+    "citations": "8",
+    "doi": "10.59277/RRST-EE.2024.69.3.10",
+    "date": "2024-09-29",
+    "publisher": "",
+    "volume": "69",
+    "issue": "3",
+    "pages": "311–316",
+    "summary": "Compares bidirectional DC–DC converter topologies for retired-battery screening using multicriteria analysis and LTspice simulations.",
+    "topics": [
+      "Batteries & energy storage",
+      "Power systems & resilience"
+    ]
+  },
+  {
+    "id": "pub-057",
+    "title": "Development of a Laboratory Testbed for Cybersecurity Evaluation of Distribution Substations Using Open Source Tools",
+    "authors": "George-Călin Seriţan; Bogdan-Adrian Enache; Radu Porumb; Daniel Balaci; Irina Clima; Cristinel-Bogdan Bărbulescu",
+    "venue": "2024 16th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
+    "year": 2024,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:bFI3QPDXJZMC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/ecai61503.2024.10607426"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "2",
+    "doi": "10.1109/ecai61503.2024.10607426",
+    "date": "2024-06-27",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-6",
+    "topics": [
+      "Applied engineering"
+    ]
+  },
+  {
+    "id": "pub-087",
+    "title": "Digital Stethoscope with Signal Processing Capabilities for IoMT Applications",
+    "authors": "Elena-Valentina Șerbănescu; George- Călin Serițan; Bogdan-Adrian Enache",
+    "venue": "IFMBE Proceedings; Advances in Digital Health and Medical Bioengineering",
+    "year": 2024,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:b0M2c_1WBrUC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1007/978-3-031-62523-7_4"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      },
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:ZHo1McVdvXMC"
+      }
+    ],
+    "notes": [
+      "Duplicate or alternate profile entry combined; source links retained. Citation counts are not summed."
+    ],
+    "type": "Book chapter",
+    "citations": "",
+    "doi": "10.1007/978-3-031-62523-7_4",
+    "date": "2024",
+    "publisher": "Springer Nature Switzerland",
+    "volume": "",
+    "issue": "",
+    "pages": "35-42",
+    "topics": [
+      "Sensors, IoT & signal processing"
+    ]
+  },
+  {
+    "id": "pub-091",
+    "title": "Intelligent Monitoring System for Stress Levels",
+    "authors": "Andreea Manea; Florin Ciprian Argatu; George Călin Serițan; Bogdan Adrian Enache; Ioana Raluca Adochiei; Felix Constantin Adochiei",
+    "venue": "IFMBE Proceedings; Advances in Digital Health and Medical Bioengineering",
+    "year": 2024,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:EUQCXRtRnyEC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1007/978-3-031-62523-7_7"
+      }
+    ],
+    "notes": [
+      "Google Scholar lists 2023; publisher metadata lists 2024."
+    ],
+    "type": "Book chapter",
+    "citations": "",
+    "doi": "10.1007/978-3-031-62523-7_7",
+    "date": "2024",
+    "publisher": "Springer Nature Switzerland",
+    "volume": "",
+    "issue": "",
+    "pages": "59-67",
+    "topics": [
+      "Sensors, IoT & signal processing"
+    ]
+  },
+  {
+    "id": "pub-077",
+    "title": "Intelligent Trash Level Detection for Sustainable Urban Waste Management",
+    "authors": "Bogdan-Adrian Enache; Cosmin-Karl Banica; Ana Geroge Bogdan",
+    "venue": "The Scientific Bulletin of Electrical Engineering Faculty",
+    "year": 2024,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:D03iK_w7-QYC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.2478/sbeef-2024-0010"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Journal article",
+    "citations": "1",
+    "doi": "10.2478/sbeef-2024-0010",
+    "date": "2024-06-01",
+    "publisher": "Walter de Gruyter GmbH",
+    "volume": "24",
+    "issue": "1",
+    "pages": "56-59",
+    "topics": [
+      "Applied engineering"
+    ]
+  },
+  {
+    "id": "pub-036",
+    "title": "IoT-Based Real-Time Electrocardiogram Monitoring and Recording System",
+    "authors": "Felix-Constantin Adochiei; David-Andrei Dumitrescu; George Calin Seritan; Florin Ciprian Argatu; Bogdan-Adrian Enache; Ioana - Raluca Adochiei",
+    "venue": "2024 E-Health and Bioengineering Conference (EHB)",
+    "year": 2024,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:abG-DnoFyZgC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/ehb64556.2024.10805722"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "4",
+    "doi": "10.1109/ehb64556.2024.10805722",
+    "date": "2024-11-14",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-5",
+    "topics": [
+      "Sensors, IoT & signal processing"
+    ]
+  },
+  {
+    "id": "pub-045",
+    "title": "Optimising Urban Waste Management Through Smart Monitoring Systems: A Case Study in Enhancing Efficiency and Sustainability",
+    "authors": "Bogdan-Adrian Enache; Cosmin-Karl Banica; Ana Geroge Bogdan",
+    "venue": "The Scientific Bulletin of Electrical Engineering Faculty",
+    "year": 2024,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:pyW8ca7W8N0C"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.2478/sbeef-2024-0011"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Journal article",
+    "citations": "3",
+    "doi": "10.2478/sbeef-2024-0011",
+    "date": "2024-06-01",
+    "publisher": "Walter de Gruyter GmbH",
+    "volume": "24",
+    "issue": "1",
+    "pages": "60-63",
+    "topics": [
+      "Sensors, IoT & signal processing"
+    ]
+  },
+  {
+    "id": "pub-046",
+    "title": "PV container for green energy production",
+    "authors": "E Fiorentis, I Vîlciu, OM Ghiță, L Lipan, BA Enache",
+    "venue": "UPB Sci. Bull., Series C 86 (2), 369-382, 2024",
+    "year": 2024,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:yD5IFk8b50cC"
+      }
+    ],
+    "notes": [
+      "Bibliographic record from Google Scholar; fields not independently resolved with publisher metadata are retained as listed."
+    ],
+    "type": "Journal article",
+    "citations": "3",
+    "doi": "",
+    "date": "",
+    "publisher": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "topics": [
+      "Power systems & resilience"
+    ]
+  },
+  {
+    "id": "pub-038",
+    "title": "A NEW HYBRID MODEL TO EVALUATE THE LOSS OF LIFE OF POWER TRANSFORMERS",
+    "authors": "BOGDAN LEU; GEORGE SERIȚAN; BOGDAN ENACHE",
+    "venue": "REVUE ROUMAINE DES SCIENCES TECHNIQUES — SÉRIE ÉLECTROTECHNIQUE ET ÉNERGÉTIQUE",
+    "year": 2023,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:HoB7MX3m0LUC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.59277/rrst-ee.2023.3.5"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Journal article",
+    "citations": "4",
+    "doi": "10.59277/rrst-ee.2023.3.5",
+    "date": "2023-10-12",
+    "publisher": "Editura Academiei Române",
+    "volume": "68",
+    "issue": "3",
+    "pages": "277-282",
+    "topics": [
+      "Power systems & resilience"
+    ]
+  },
+  {
+    "id": "pub-059",
+    "title": "An Indoor Air Quality Score Computation and System",
+    "authors": "Irina Vîlciu; Bogdan-Adrian Enache; George-Călin Serițan; Teodor-Iulian Voicilă",
+    "venue": "2023 13th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
+    "year": 2023,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:RGFaLdJalmkC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/atee58038.2023.10108307"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "2",
+    "doi": "10.1109/atee58038.2023.10108307",
+    "date": "2023-03-23",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-4",
+    "topics": [
+      "Applied engineering"
+    ]
+  },
+  {
+    "id": "pub-089",
+    "title": "COMPARATIVE ANALYSIS OF MEDICAL EQUIPMENT IDENTIFICATION TECHNIQUES: A MULTIFACETED APPROACH FOR ENHANCED HOSPITAL OPERATIONS",
+    "authors": "TI VOICILA, AG BOGDAN, BA ENACHE",
+    "venue": "University of Pitesti Scientific Bulletin Series: Electronics and Computer …, 2023",
+    "year": 2023,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:dfsIfKJdRG4C"
+      }
+    ],
+    "notes": [
+      "Bibliographic record from Google Scholar; fields not independently resolved with publisher metadata are retained as listed."
+    ],
+    "type": "Journal article",
+    "citations": "",
+    "doi": "",
+    "date": "",
+    "publisher": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "topics": [
+      "Applied engineering"
+    ]
+  },
+  {
+    "id": "pub-090",
+    "title": "Cross-Platform Weather Data Acquisition and Visualization",
+    "authors": "Bogdan-Adrian Enache; Cosmin Karl Banica; Geroge Bogdan Ana",
+    "venue": "Journal of Electrical Engineering, Electronics, Control and Computer Science",
+    "year": 2023,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:rO6llkc54NcC"
+      },
+      {
+        "name": "Publisher / institutional bibliography",
+        "url": "https://mail.jeeeccs.net/index.php/journal/article/view/352/0"
+      }
+    ],
+    "notes": [],
+    "type": "Journal article",
+    "citations": "",
+    "doi": "",
+    "date": "",
+    "publisher": "",
+    "volume": "9",
+    "issue": "4",
+    "pages": "",
+    "topics": [
+      "Sensors, IoT & signal processing"
+    ]
+  },
+  {
+    "id": "pub-039",
+    "title": "Design and implementation of a multi-battery, multi-chemistry state of health screening system",
+    "authors": "Teodor-Iulian Voicila; George-Calin Seritan; Bogdan-Adrian Enache; Marilena Stanculescu; Radu-Florin Porumb",
+    "venue": "2023 10th International Conference on Modern Power Systems (MPS)",
+    "year": 2023,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:vV6vV6tmYwMC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/mps58874.2023.10187442"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "4",
+    "doi": "10.1109/mps58874.2023.10187442",
+    "date": "2023-06-21",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-4",
+    "topics": [
+      "Batteries & energy storage"
+    ]
+  },
+  {
+    "id": "pub-094",
+    "title": "Design and Implementation of an Experimental Model for the Control and Telemonitoring of a 27.5kV High Voltage Bipolar Circuit Breaker with Vacuum Switching",
+    "authors": "Cristina-Gabriela Sărăcin; Bogdan-Adrian Enache",
+    "venue": "2023 15th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
+    "year": 2023,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:2P1L_qKh6hAC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/ecai58194.2023.10194189"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "",
+    "doi": "10.1109/ecai58194.2023.10194189",
+    "date": "2023-06-29",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "01-04",
+    "topics": [
+      "Power systems & resilience",
+      "Sensors, IoT & signal processing"
+    ]
+  },
+  {
+    "id": "pub-060",
+    "title": "First Steps Towards the Design of a multi-Chemistry, multi-Battery State of Health Screening System",
+    "authors": "Teodor-Iulian Voicilă; George-Călin Serițan; Bogdan-Adrian Enache; Radu Porumb; Marilena Stănculescu",
+    "venue": "2023 13th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
+    "year": 2023,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:ns9cj8rnVeAC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/atee58038.2023.10108169"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "2",
+    "doi": "10.1109/atee58038.2023.10108169",
+    "date": "2023-03-23",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-6",
+    "topics": [
+      "Batteries & energy storage"
+    ]
+  },
+  {
+    "id": "pub-073",
+    "title": "Guidelines for Developing a Power-Grid Cybersecurity Database in Europe",
+    "authors": "George-Cãilin Seriţan; Bogdan-Adrian Enache; Radu Porumb; Daniel Balaci; Irina Clima; Cristinel-Bogdan Bărbulescu",
+    "venue": "2023 15th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
+    "year": 2023,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:70eg2SAEIzsC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/ecai58194.2023.10194166"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "1",
+    "doi": "10.1109/ecai58194.2023.10194166",
+    "date": "2023-06-29",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-4",
+    "topics": [
+      "Power systems & resilience"
+    ]
+  },
+  {
+    "id": "pub-088",
+    "title": "GUIDELINES FOR DEVELOPING AN IOT-ENABLED APPLICATION FOR ENHANCED HOSPITAL MANAGEMENT",
+    "authors": "TI VOICILA, AG BOGDAN, BA ENACHE",
+    "venue": "University of Pitesti Scientific Bulletin Series: Electronics and Computer …, 2023",
+    "year": 2023,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:f2IySw72cVMC"
+      }
+    ],
+    "notes": [
+      "Bibliographic record from Google Scholar; fields not independently resolved with publisher metadata are retained as listed."
+    ],
+    "type": "Journal article",
+    "citations": "",
+    "doi": "",
+    "date": "",
+    "publisher": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "topics": [
+      "Sensors, IoT & signal processing"
+    ]
+  },
+  {
+    "id": "pub-072",
+    "title": "INDOOR 3D SCANNING AND NAVIGATION SYSTEM  FOR AN AUTOMATED GUIDED VEHICLE",
+    "authors": "SORIN-DAN GRIGORESCU; GEORGE-CALIN SERITAN; BOGDAN-ADRIAN ENACHE; FLORIN-CIPRIAN ARGATU; FELIX-CONSTANTIN ADOCHIEI; VICTOR STANCIU",
+    "venue": "REVUE ROUMAINE DES SCIENCES TECHNIQUES — SÉRIE ÉLECTROTECHNIQUE ET ÉNERGÉTIQUE",
+    "year": 2023,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:RYcK_YlVTxYC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.59277/rrst-ee.2023.68.2.19"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Journal article",
+    "citations": "1",
+    "doi": "10.59277/rrst-ee.2023.68.2.19",
+    "date": "2023-07-03",
+    "publisher": "Editura Academiei Române",
+    "volume": "68",
+    "issue": "2",
+    "pages": "232-235",
+    "topics": [
+      "Robotics & mobility"
+    ]
+  },
+  {
+    "id": "pub-061",
+    "title": "Labview for IoT Applications",
+    "authors": "B.A. Enache; C.K. Banica; Ana Geroge Bogdan",
+    "venue": "The Scientific Bulletin of Electrical Engineering Faculty",
+    "year": 2023,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:738O_yMBCRsC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.2478/sbeef-2023-0009"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Journal article",
+    "citations": "2",
+    "doi": "10.2478/sbeef-2023-0009",
+    "date": "2023-09-01",
+    "publisher": "Walter de Gruyter GmbH",
+    "volume": "23",
+    "issue": "1",
+    "pages": "50-53",
+    "topics": [
+      "Sensors, IoT & signal processing"
+    ]
+  },
+  {
+    "id": "pub-040",
+    "title": "Microgrid Cyber Security Enhancement Considerations",
+    "authors": "Mihai Alexandru Pisla; Marilena Stanculescu; Radu Florin Porumb; Bogdan-Adrian Enache; George-Calin Seritan",
+    "venue": "2023 13th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
+    "year": 2023,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:O3NaXMp0MMsC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/atee58038.2023.10108304"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "4",
+    "doi": "10.1109/atee58038.2023.10108304",
+    "date": "2023-03-23",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-5",
+    "topics": [
+      "Power systems & resilience"
+    ]
+  },
+  {
+    "id": "pub-011",
+    "title": "Performance Analysis of MQTT Over Websocket for IoT Applications",
+    "authors": "B.A. Enache; C.K. Banica; Ana Geroge Bogdan",
+    "venue": "The Scientific Bulletin of Electrical Engineering Faculty",
+    "year": 2023,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:SP6oXDckpogC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.2478/sbeef-2023-0008"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Journal article",
+    "citations": "16",
+    "doi": "10.2478/sbeef-2023-0008",
+    "date": "2023-09-01",
+    "publisher": "Walter de Gruyter GmbH",
+    "volume": "23",
+    "issue": "1",
+    "pages": "46-49",
+    "topics": [
+      "Sensors, IoT & signal processing"
+    ]
+  },
+  {
+    "id": "pub-095",
+    "title": "Power LED Efficiency for Automotive Headlights",
+    "authors": "Costel-Ciprian Raicu; George-Călin Serițan; Bogdan-Adrian Enache",
+    "venue": "EMERG: Energy. Environment. Efficiency. Resources. Globalization",
+    "year": 2023,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:ldfaerwXgEUC"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      },
+      {
+        "name": "Publisher / institutional bibliography",
+        "url": "https://emerg.ro/files/power-led-efficiency-for-automotive-headlights/"
+      },
+      {
+        "name": "DOI",
+        "url": "https://doi.org/10.37410/EMERG.2023.2.07"
+      }
+    ],
+    "notes": [],
+    "type": "Journal article",
+    "citations": "",
+    "doi": "10.37410/EMERG.2023.2.07",
+    "date": "",
+    "publisher": "",
+    "volume": "9",
+    "issue": "2",
+    "pages": "107–119",
+    "summary": "Examines buck–boost driver topologies for automotive LED headlights, comparing electrical efficiency and system flexibility.",
+    "topics": [
+      "Power systems & resilience",
+      "Robotics & mobility"
+    ]
+  },
+  {
+    "id": "pub-047",
+    "title": "Power Transformers Loss Of Life Evaluation Using Winding Insulation Resistance Calculation Model",
+    "authors": "Bogdan Leu; George Seritan; Bogdan Enache; Gabriel Tănăsescu; Radu Porumb; Irina Vilciu",
+    "venue": "2023 15th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
+    "year": 2023,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:35N4QoGY0k4C"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/ecai58194.2023.10193960"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "3",
+    "doi": "10.1109/ecai58194.2023.10193960",
+    "date": "2023-06-29",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-4",
+    "topics": [
+      "Power systems & resilience"
+    ]
+  },
+  {
+    "id": "pub-026",
+    "title": "Single-Wire Control and Fault Detection for Automotive Exterior Lighting Systems",
+    "authors": "George-Călin Seriţan; Costel-Ciprian Raicu; Bogdan-Adrian Enache",
+    "venue": "Sensors",
+    "year": 2023,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:lSLTfruPkqcC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.3390/s23146521"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Journal article",
+    "citations": "8",
+    "doi": "10.3390/s23146521",
+    "date": "2023-07-19",
+    "publisher": "MDPI AG",
+    "volume": "23",
+    "issue": "14",
+    "pages": "6521",
+    "topics": [
+      "Robotics & mobility"
+    ]
+  },
+  {
+    "id": "pub-058",
+    "title": "Statistical Analysis of Capacity Loss for Stored Batteries",
+    "authors": "Luminita–Mirela Constantinescu; Bogdan–Adrian Enache; Violeta–Georgiana Dogaru; Teodor Iulian Voicila; Irina Vilciu; Silvia–Carmen Vasile",
+    "venue": "2023 15th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
+    "year": 2023,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:M05iB0D1s5AC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/ecai58194.2023.10193945"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "2",
+    "doi": "10.1109/ecai58194.2023.10193945",
+    "date": "2023-06-29",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "01-04",
+    "topics": [
+      "Batteries & energy storage"
+    ]
+  },
+  {
+    "id": "pub-037",
+    "title": "SYSTÈME INTELLIGENT POUR LA RÉDUCTION DE LA CONSOMMATION ÉLECTRIQUE EN VEILLE DES ÉQUIPEMENTS MÉNAGERS",
+    "authors": "ANDREI-COSMIN GHOERGHE; HORIA ANDREI; EMIL DIACONU; GEORGE SERITAN; Bogdan Enache",
+    "venue": "REVUE ROUMAINE DES SCIENCES TECHNIQUES — SÉRIE ÉLECTROTECHNIQUE ET ÉNERGÉTIQUE",
+    "year": 2023,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:zA6iFVUQeVQC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.59277/rrst-ee.2023.4.15"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      },
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:u_35RYKgDlwC"
+      }
+    ],
+    "notes": [
+      "Duplicate or alternate profile entry combined; source links retained. Citation counts are not summed."
+    ],
+    "type": "Journal article",
+    "citations": "4",
+    "doi": "10.59277/rrst-ee.2023.4.15",
+    "date": "2023-12-14",
+    "publisher": "Editura Academiei Române",
+    "volume": "68",
+    "issue": "4",
+    "pages": "413-418",
+    "alternate_title": "SMART SYSTEM FOR STANDBY POWER CONSUMPTION REDUCTION OF HOUSEHOLD EQUIPMENT",
+    "topics": [
+      "Applied engineering"
+    ]
+  },
+  {
+    "id": "pub-001",
+    "title": "A Flexibility Market Platform for Electricity System Operators Using Blockchain Technology",
+    "authors": "Valeri Mladenov; Vesselin Chobanov; George Calin Seritan; Radu Florin Porumb; Bogdan-Adrian Enache; Vasiliki Vita; Marilena Stănculescu; Thong Vu Van; Dimitrios Bargiotas",
+    "venue": "Energies",
+    "year": 2022,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:maZDTaKrznsC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.3390/en15020539"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Journal article",
+    "citations": "43",
+    "doi": "10.3390/en15020539",
+    "date": "2022-01-12",
+    "publisher": "MDPI AG",
+    "volume": "15",
+    "issue": "2",
+    "pages": "539",
+    "topics": [
+      "Power systems & resilience"
+    ]
+  },
+  {
+    "id": "pub-096",
+    "title": "A Multipurpose Video Immersion Laboratory",
+    "authors": "Sorin Dan Grigorescu; George-Calin Seritan; Bogdan-Adrian Enache; Felix-Constantin Adochiei; Florin-Ciprian Argatu; Irina Vilciu; Teodor-Iulian Voicila",
+    "venue": "2022 E-Health and Bioengineering Conference (EHB)",
+    "year": 2022,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:BqipwSGYUEgC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/ehb55594.2022.9991365"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "",
+    "doi": "10.1109/ehb55594.2022.9991365",
+    "date": "2022-11-17",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-4",
+    "topics": [
+      "Applied engineering"
+    ]
+  },
+  {
+    "id": "pub-031",
+    "title": "A Statistical Comparative Study For Detecting Outliers In Electrical Data",
+    "authors": "Sarah. H. Harbi; George-Calin Seritan; Bogdan-Adrian Enache; Sorin-Dan Grigorescu",
+    "venue": "2022 14th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
+    "year": 2022,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:hMod-77fHWUC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/ecai54874.2022.9847481"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "6",
+    "doi": "10.1109/ecai54874.2022.9847481",
+    "date": "2022-06-30",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-4",
+    "topics": [
+      "Power systems & resilience"
+    ]
+  },
+  {
+    "id": "pub-015",
+    "title": "Comparison Study of Top Development Boards in the Context of IoT",
+    "authors": "George-Călin Serițan; Bogdan-Adrian Enache; Irina Vîlciu; Sorin-Dan Grigorescu; Valeri Mladenov",
+    "venue": "Revue Roumaine des Sciences Techniques – Série Électrotechnique et Énergétique",
+    "year": 2022,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:YFjsv_pBGBYC"
+      },
+      {
+        "name": "Publisher / institutional bibliography",
+        "url": "https://journal.iem.pub.ro/rrst-ee/en/article/view/181"
+      }
+    ],
+    "notes": [],
+    "type": "Journal article",
+    "citations": "13",
+    "doi": "",
+    "date": "2022-12-22",
+    "publisher": "",
+    "volume": "67",
+    "issue": "4",
+    "pages": "483–486",
+    "summary": "Uses multicriteria analysis to compare development boards for Internet of Things applications.",
+    "topics": [
+      "Sensors, IoT & signal processing"
+    ]
+  },
+  {
+    "id": "pub-062",
+    "title": "Energy Evaluation of Bugs vs Birds Path Planning Strategies for Robots",
+    "authors": "Bogdan-Adrian Enache; Sorin-Dan Grigorescu; Florin-Ciprian Argatu; Felix-Constantin Adochiei; Irina Vilciu; Teodor-Iulian Voicila",
+    "venue": "2022 14th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
+    "year": 2022,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:NMxIlDl6LWMC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/ecai54874.2022.9847441"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "2",
+    "doi": "10.1109/ecai54874.2022.9847441",
+    "date": "2022-06-30",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-4",
+    "topics": [
+      "Power systems & resilience",
+      "Robotics & mobility"
+    ]
+  },
+  {
+    "id": "pub-institutional-1",
+    "title": "48 V Network Adoption for Automotive Lighting Systems",
+    "authors": "Costel-Ciprian Raicu; George-Călin Serițan; Bogdan-Adrian Enache",
+    "venue": "Revue Roumaine des Sciences Techniques – Série Électrotechnique et Énergétique",
+    "year": 2021,
+    "date": "2021",
+    "type": "Journal article",
+    "doi": "",
+    "volume": "66",
+    "issue": "4",
+    "pages": "231–236",
+    "publisher": "",
+    "citations": "",
+    "sources": [
+      {
+        "name": "Institutional bibliography",
+        "url": "https://www.sdie.upb.ro/wp-content/uploads/2025/08/SERITAN-George_LL.pdf"
+      }
+    ],
+    "notes": [
+      "Additional article identified in an institutional coauthor publication list. The source prints “lightning systems”; the title is rendered as “lighting systems”, consistent with the automotive-lighting context. WOS:000754884700004."
+    ],
+    "topics": [
+      "Robotics & mobility"
+    ]
+  },
+  {
+    "id": "pub-063",
+    "title": "A Survey of Condition Monitoring Systems Operation in Romanian Transmission Substations",
+    "authors": "Bogdan Leu; Bogdan-Adrian Enache; Florin-Ciprian Argatu; Marilena Stanculescu",
+    "venue": "2021 International Conference on Electromechanical and Energy Systems (SIELMEN)",
+    "year": 2021,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:isC4tDSrTZIC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/sielmen53755.2021.9600439"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "2",
+    "doi": "10.1109/sielmen53755.2021.9600439",
+    "date": "2021-10-06",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "470-475",
+    "topics": [
+      "Sensors, IoT & signal processing"
+    ]
+  },
+  {
+    "id": "pub-032",
+    "title": "Air Quality Monitoring and Control System for a Hospital Room",
+    "authors": "Fetcu David Andrei; George Seritan; Bogdan Enache; Florin Ciprian Argatu; Felix - Constantin Adochiei",
+    "venue": "2021 International Conference on e-Health and Bioengineering (EHB)",
+    "year": 2021,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:k_IJM867U9cC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/ehb52898.2021.9657663"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "5",
+    "doi": "10.1109/ehb52898.2021.9657663",
+    "date": "2021-11-18",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-4",
+    "topics": [
+      "Sensors, IoT & signal processing"
+    ]
+  },
+  {
+    "id": "pub-021",
+    "title": "Development Approach Model for Automotive Headlights with Mixed Delivery Methodologies over APQP Backbone",
+    "authors": "Costel-Ciprian Raicu; George-Călin Seriţan; Bogdan-Adrian Enache; Marilena Stănculescu",
+    "venue": "Applied Sciences",
+    "year": 2021,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:TFP_iSt0sucC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.3390/app112210581"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Journal article",
+    "citations": "11",
+    "doi": "10.3390/app112210581",
+    "date": "2021-11-10",
+    "publisher": "MDPI AG",
+    "volume": "11",
+    "issue": "22",
+    "pages": "10581",
+    "topics": [
+      "Robotics & mobility"
+    ]
+  },
+  {
+    "id": "pub-033",
+    "title": "Flyback Converter for a Multi-Chemistry Battery Balancer",
+    "authors": "Bogdan-Adrian Enache; George-Calin Seritan; Costin Cepisca; Sorin-Dan Grigorescu; Florin-Ciprian Argatu; Felix-Constantin Adochiei; Teodor-Iulian Voicila",
+    "venue": "2021 12th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
+    "year": 2021,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:_Qo2XoVZTnwC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/atee52255.2021.9425205"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "5",
+    "doi": "10.1109/atee52255.2021.9425205",
+    "date": "2021-03-25",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-6",
+    "topics": [
+      "Batteries & energy storage",
+      "Power systems & resilience"
+    ]
+  },
+  {
+    "id": "pub-064",
+    "title": "Solution for Wireless Communication and Server Redundancy in Water Management",
+    "authors": "Cristian Pirvu; Bogdan-Adrian Enache; Costin Cepisca; Mihalache Diana Iuliana; Neculita Andreea",
+    "venue": "2021 12th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
+    "year": 2021,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:RHpTSmoSYBkC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/atee52255.2021.9425241"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "2",
+    "doi": "10.1109/atee52255.2021.9425241",
+    "date": "2021-03-25",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-6",
+    "topics": [
+      "Sensors, IoT & signal processing"
+    ]
+  },
+  {
+    "id": "pub-048",
+    "title": "Studying the impact of Dynamic Line Rating on the Romanian Power Transmission Grid",
+    "authors": "Oana Lebedov; Bogdan-Adrian Enache; Florin-Ciprian Argatu",
+    "venue": "2021 9th International Conference on Modern Power Systems (MPS)",
+    "year": 2021,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:r0BpntZqJG4C"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/mps52805.2021.9492522"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "3",
+    "doi": "10.1109/mps52805.2021.9492522",
+    "date": "2021-06-16",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-3",
+    "topics": [
+      "Power systems & resilience"
+    ]
+  },
+  {
+    "id": "pub-012",
+    "title": "A Battery Screening System for Second Life LiFePO₄ Batteries",
+    "authors": "Bogdan-Adrian Enache; George-Calin Seritan; Sorin-Dan Grigorescu; Costin Cepisca; Felix-Constantin Adochiei; Violeta-Vasilica Argatu; Teodor Iulian Voicila",
+    "venue": "2020 International Conference and Exposition on Electrical And Power Engineering (EPE)",
+    "year": 2020,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:e5wmG9Sq2KIC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/epe50722.2020.9305538"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "16",
+    "doi": "10.1109/epe50722.2020.9305538",
+    "date": "2020-10-22",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "298-301",
+    "topics": [
+      "Batteries & energy storage"
+    ]
+  },
+  {
+    "id": "pub-028",
+    "title": "Comparative study of screening methods for second life LiFePO4 batteries",
+    "authors": "Bogdan-Adrian Enache; George-Calin Seritan; Costin Cepisca; Sorin-Dan Grigorescu; Florin-Ciprian Argatu; Felix-Constantin Adochiei; Teodor-Iulian Voicila",
+    "venue": "Revue Roumaine des Sciences Techniques – Série Électrotechnique et Énergétique",
+    "year": 2020,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:-f6ydRqryjwC"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      },
+      {
+        "name": "Publisher / institutional bibliography",
+        "url": "https://www.sdie.upb.ro/wp-content/uploads/2025/08/SERITAN-George_LL.pdf"
+      }
+    ],
+    "notes": [],
+    "type": "Journal article",
+    "citations": "8",
+    "doi": "",
+    "date": "",
+    "publisher": "",
+    "volume": "65",
+    "issue": "1–2",
+    "pages": "71–74",
+    "topics": [
+      "Batteries & energy storage"
+    ]
+  },
+  {
+    "id": "pub-098",
+    "title": "Computing the Caloric Expenditure During Kick Scooter Activity",
+    "authors": "George-Calin Seritan; Bogdan-Adrian Enache; Felix-Constantin Adochiei; Florin-Ciprian Argatu; Andrei-Sebastian Petrescu; Ioana-Raluca Adochiei; Daniel Iulian Voiculescu",
+    "venue": "2020 International Conference on e-Health and Bioengineering (EHB)",
+    "year": 2020,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:R3hNpaxXUhUC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/ehb50910.2020.9280259"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "",
+    "doi": "10.1109/ehb50910.2020.9280259",
+    "date": "2020-10-29",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-4",
+    "topics": [
+      "Robotics & mobility"
+    ]
+  },
+  {
+    "id": "pub-099",
+    "title": "Didactic Implementation of a Real-Time Biomonitoring Platform",
+    "authors": "Bogdan-Adrian Enache; Sorin-Dan Grigorescu; Ioana-Raluca Adochiei; Cristina-Daniela Eanche; Daniel Iulian Voiculescu; Violeta Argatu; Alexandra Nistor; Luminita-Mirela Constatinescu; Constantin Stoica",
+    "venue": "2020 12th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
+    "year": 2020,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:mB3voiENLucC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/ecai50035.2020.9223202"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "",
+    "doi": "10.1109/ecai50035.2020.9223202",
+    "date": "2020-06",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-4",
+    "topics": [
+      "Sensors, IoT & signal processing",
+      "Education & computing"
+    ]
+  },
+  {
+    "id": "pub-002",
+    "title": "Electronic System for Real-Time Indoor Air Quality Monitoring",
+    "authors": "Felix-Constantin Adochiei; Serban - Teodor Nicolescu; Ioana-Raluca Adochiei; George-Calin Seritan; Bogdan-Adrian Enache; Florin-Ciprian Argatu; Diana Costin",
+    "venue": "2020 International Conference on e-Health and Bioengineering (EHB)",
+    "year": 2020,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:HDshCWvjkbEC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/ehb50910.2020.9280192"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "42",
+    "doi": "10.1109/ehb50910.2020.9280192",
+    "date": "2020-10-29",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-4",
+    "topics": [
+      "Sensors, IoT & signal processing"
+    ]
+  },
+  {
+    "id": "pub-019",
+    "title": "Open Source Architecture for Iot Based SCADA System for Smart Home",
+    "authors": "S. D. Grigorescu; G. C. Seritan; B. A. Enache; F. C. Argatu; F. C. Adochiei",
+    "venue": "The Scientific Bulletin of Electrical Engineering Faculty",
+    "year": 2020,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:iH-uZ7U-co4C"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.2478/sbeef-2020-0107"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Journal article",
+    "citations": "12",
+    "doi": "10.2478/sbeef-2020-0107",
+    "date": "2020-04-01",
+    "publisher": "Walter de Gruyter GmbH",
+    "volume": "20",
+    "issue": "1",
+    "pages": "33-36",
+    "topics": [
+      "Sensors, IoT & signal processing"
+    ]
+  },
+  {
+    "id": "pub-016",
+    "title": "Performance evaluation of photovoltaic panels containing cells with different bus bars configurations in partial shading conditions",
+    "authors": "GC Seritan, BA Enache, FC Adochiei, FC Argatu, C Christodoulou, V Vita, ...",
+    "venue": "Rev. Roum. Sci. Tech.-Ser. Electrotech. Energetique 65, 67-70, 2020",
+    "year": 2020,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:hC7cP41nSMkC"
+      }
+    ],
+    "notes": [
+      "Bibliographic record from Google Scholar; fields not independently resolved with publisher metadata are retained as listed.",
+      "The source abbreviates the author list. Follow the source link for the complete list."
+    ],
+    "type": "Journal article",
+    "citations": "13",
+    "doi": "",
+    "date": "",
+    "publisher": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "topics": [
+      "Power systems & resilience"
+    ]
+  },
+  {
+    "id": "pub-027",
+    "title": "Robotic Platform for Recovering Injured People in Smart Home",
+    "authors": "Sorin-Dan Grigorescu; George-Calin Seritan; Bogdan-Adrian Enache; Felix-Constantin Adochiei; Florin-Ciprian Argatu; Andreea Stavre",
+    "venue": "2020 International Conference on e-Health and Bioengineering (EHB)",
+    "year": 2020,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:TQgYirikUcIC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/ehb50910.2020.9280273"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "8",
+    "doi": "10.1109/ehb50910.2020.9280273",
+    "date": "2020-10-29",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-4",
+    "topics": [
+      "Robotics & mobility"
+    ]
+  },
+  {
+    "id": "pub-097",
+    "title": "The Influence of the Generator Signal Parameters Over the AntiBubbles Formation",
+    "authors": "Felix-Constantin Adochiei; George-Calin Seritan; Bogdan-Adrian Enache; Florin-Ciprian Argatu; Andreea Roxanda Dobre",
+    "venue": "2020 International Symposium on Fundamentals of Electrical Engineering (ISFEE)",
+    "year": 2020,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:M3NEmzRMIkIC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/isfee51261.2020.9756158"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "",
+    "doi": "10.1109/isfee51261.2020.9756158",
+    "date": "2020-11-05",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-4",
+    "topics": [
+      "Power systems & resilience",
+      "Sensors, IoT & signal processing"
+    ]
+  },
+  {
+    "id": "pub-020",
+    "title": "Brain Mapping using a Blockchain Approach",
+    "authors": "Felix-Constantin Adochiei; Radu Ciucu; Ioana Raluca Adochiei; Florin Ciprian Argatu; Bogdan Enache; Casian Miron; George Seritan",
+    "venue": "2019 E-Health and Bioengineering Conference (EHB)",
+    "year": 2019,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:dhFuZR0502QC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/ehb47216.2019.8970089"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "12",
+    "doi": "10.1109/ehb47216.2019.8970089",
+    "date": "2019-11",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-4",
+    "topics": [
+      "Sensors, IoT & signal processing"
+    ]
+  },
+  {
+    "id": "pub-050",
+    "title": "Building and designing a Dual Axis Solar Tracker for Educational Purposes",
+    "authors": "Florin-Ciprian Argatu; Florentin-Daniel Tarcau; Violeta-Vasilica Argatu; Sorin-Dan Grigorescu; Bogdan-Adrian Enache; Luminita-Mirela Constantinescu",
+    "venue": "2019 11th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
+    "year": 2019,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:qUcmZB5y_30C"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/ecai46879.2019.9041949"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "3",
+    "doi": "10.1109/ecai46879.2019.9041949",
+    "date": "2019-06",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-4",
+    "topics": [
+      "Power systems & resilience"
+    ]
+  },
+  {
+    "id": "pub-007",
+    "title": "Complex Embedded System for Stress Quantification",
+    "authors": "Ioana-Raluca Adochiei; Felix Adochiei; Costin Cepisca; George Seritan; Bogdan Enache; Florin Argatu; Radu Ciucu",
+    "venue": "2019 11th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
+    "year": 2019,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:YOwf2qJgpHMC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/atee.2019.8724892"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "20",
+    "doi": "10.1109/atee.2019.8724892",
+    "date": "2019-03",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "topics": [
+      "Sensors, IoT & signal processing"
+    ]
+  },
+  {
+    "id": "pub-017",
+    "title": "Guidelines for Small Size Samples Biostatistics in Current Medical Practice",
+    "authors": "George Calin Seritan; Felix-Constantin Adochiei; Bogdan-Adrian Enache; Gladiola Petroiu-Andruseac; Cristina-Daniela Enache; Dana Adriana Dascultu; Cristina Adriana Becheanu; Alexandru Ulmeanu",
+    "venue": "2019 E-Health and Bioengineering Conference (EHB)",
+    "year": 2019,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:7PzlFSSx8tAC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/ehb47216.2019.8970086"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "13",
+    "doi": "10.1109/ehb47216.2019.8970086",
+    "date": "2019-11",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-4",
+    "topics": [
+      "Applied engineering"
+    ]
+  },
+  {
+    "title": "Improvement of Teaching Activities in Higher Education: A Case Study",
+    "authors": "George-Călin Serițan; Bogdan-Adrian Enache; Sorin-Dan Grigorescu; Sanda Victorinne Pațurcă; Costin Cepișcă; Vasiliki Vita; Radu Porumb; Daniel Ghiculescu",
+    "year": 2019,
+    "date": "2019-06",
+    "type": "Journal article",
+    "venue": "Revue Roumaine des Sciences Techniques – Série Électrotechnique et Énergétique",
+    "doi": "",
+    "url": "https://www.researchgate.net/publication/336686566_IMPROVEMENT_OF_TEACHING_ACTIVITIES_IN_HIGHER_EDUCATION_A_CASE_STUDY",
+    "summary": "A case study of objective-oriented, web-based engineering laboratory teaching.",
+    "id": "pub-rg-2",
+    "sources": [
+      {
+        "name": "ResearchGate",
+        "url": "https://www.researchgate.net/publication/336686566_IMPROVEMENT_OF_TEACHING_ACTIVITIES_IN_HIGHER_EDUCATION_A_CASE_STUDY"
+      },
+      {
+        "name": "Publisher / institutional bibliography",
+        "url": "https://upb.ro/wp-content/uploads/2020/01/Enache-B-Lista-lucr%C4%83ri.pdf"
+      }
+    ],
+    "notes": [],
+    "publisher": "",
+    "volume": "64",
+    "issue": "2",
+    "pages": "169–172",
+    "citations": "",
+    "topics": [
+      "Education & computing"
+    ]
+  },
+  {
+    "id": "pub-009",
+    "title": "Innovative DevOps for artificial intelligence",
+    "authors": "R Ciucu, FC Adochiei, IR Adochiei, F Argatu, GC Seriţan, B Enache, ...",
+    "venue": "The Scientific Bulletin of Electrical Engineering Faculty 19 (1), 58-63, 2019",
+    "year": 2019,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:Zph67rFs4hoC"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [
+      "Bibliographic record from Google Scholar; fields not independently resolved with publisher metadata are retained as listed.",
+      "The source abbreviates the author list. Follow the source link for the complete list."
+    ],
+    "type": "Journal article",
+    "citations": "17",
+    "doi": "",
+    "date": "",
+    "publisher": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "topics": [
+      "Education & computing"
+    ]
+  },
+  {
+    "id": "pub-022",
+    "title": "Modelling the Discharge of a Lithium Iron Phosphate Battery at Low Temperatures",
+    "authors": "Bogdan-Adrian Enache; Sorin-Dan Grigorescu; George-Calin Seritan; Florin-Ciprian Argatu; Felix-Constantin Adochiei; Luminita-Mirela Constantinescu",
+    "venue": "2019 11th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
+    "year": 2019,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:_kc_bZDykSQC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/atee.2019.8724901"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "11",
+    "doi": "10.1109/atee.2019.8724901",
+    "date": "2019-03",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-6",
+    "topics": [
+      "Batteries & energy storage"
+    ]
+  },
+  {
+    "id": "pub-049",
+    "title": "Performance Evaluation of a Partially Shaded PV cell with Different Bus Bars Configurations",
+    "authors": "George-Calin Seritan; Sorin-Dan Grigorescu; Bogdan-Adrian Enache; Florin Ciprian Argatu; Felix Constantin Adochiei; Teodor Icleanu",
+    "venue": "2019 54th International Universities Power Engineering Conference (UPEC)",
+    "year": 2019,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:9ZlFYXVOiuMC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/upec.2019.8893437"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "3",
+    "doi": "10.1109/upec.2019.8893437",
+    "date": "2019-09",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-4",
+    "topics": [
+      "Power systems & resilience"
+    ]
+  },
+  {
+    "id": "pub-014",
+    "title": "Power Quality Analyzer for Smart Grid-Smart Home Applications",
+    "authors": "Florin-Ciprian Argatu; Vlad Brezoianu; Violeta Vasilica Argatu; Bogdan-Adrian Enache; Felix-Constantin Adochiei; Teodor Icleanu",
+    "venue": "2019 54th International Universities Power Engineering Conference (UPEC)",
+    "year": 2019,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:mVmsd5A6BfQC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/upec.2019.8893501"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "14",
+    "doi": "10.1109/upec.2019.8893501",
+    "date": "2019-09",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-4",
+    "topics": [
+      "Power systems & resilience"
+    ]
+  },
+  {
+    "id": "pub-065",
+    "title": "Remote Control for Smart Home Applications",
+    "authors": "Felix-Constantin Adochiei; Razvan-Constantin Stefan; Ioana-Raluca Adochiei; Bogdan-Adrian Enache; Luminita-Mirela Constantinescu; Marius-Ciprian Larco",
+    "venue": "2019 11th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
+    "year": 2019,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:ZeXyd9-uunAC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/ecai46879.2019.9042067"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "2",
+    "doi": "10.1109/ecai46879.2019.9042067",
+    "date": "2019-06",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-4",
+    "topics": [
+      "Applied engineering"
+    ]
+  },
+  {
+    "id": "pub-004",
+    "title": "Robotic Platform with Medical Applications in the Smart City Environment",
+    "authors": "S.D. Grigorescu; F.C. Argatu; S.V. Paturca; C. Cepisca; G.C. Seritan; F.C. Adochiei; B. Enache",
+    "venue": "2019 11th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
+    "year": 2019,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:ULOm3_A8WrAC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/atee.2019.8724993"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "34",
+    "doi": "10.1109/atee.2019.8724993",
+    "date": "2019-03",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-6",
+    "topics": [
+      "Robotics & mobility"
+    ]
+  },
+  {
+    "id": "pub-051",
+    "title": "Automatic control system for stage lights",
+    "authors": "Iulian-Dan Stanescu; Bogdan-Adrian Enache; George-Calin Seritan; Sorin-Dan Grigorescu; Florin-Ciprian Argatu; Felix-Constantin Adochiei",
+    "venue": "2018 International Symposium on Fundamentals of Electrical Engineering (ISFEE)",
+    "year": 2018,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:4TOpqqG69KYC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/isfee.2018.8742409"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "3",
+    "doi": "10.1109/isfee.2018.8742409",
+    "date": "2018-11",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-4",
+    "topics": [
+      "Applied engineering"
+    ]
+  },
+  {
+    "id": "pub-006",
+    "title": "Device for monitoring people with Alzheimer's disease",
+    "authors": "Teodor Cazangiu; Florin-Ciprian Argatu; Bogdan-Adrian Enache; Vasiliki Vita; Ganatsios Stavros",
+    "venue": "2018 International Symposium on Fundamentals of Electrical Engineering (ISFEE)",
+    "year": 2018,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:qxL8FJ1GzNcC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/isfee.2018.8742451"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "24",
+    "doi": "10.1109/isfee.2018.8742451",
+    "date": "2018-11",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-5",
+    "topics": [
+      "Sensors, IoT & signal processing"
+    ]
+  },
+  {
+    "id": "pub-066",
+    "title": "Harmonic Analysis for Linear Circuits Based on Voltage Relative Values and Standard Limits",
+    "authors": "Bogdan Enache; Paul Cristian Andrei; Costin Cepisca; Horia Andrei",
+    "venue": "2018 10th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
+    "year": 2018,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:kNdYIx-mwKoC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/ecai.2018.8678942"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "2",
+    "doi": "10.1109/ecai.2018.8678942",
+    "date": "2018-06",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-4",
+    "topics": [
+      "Power systems & resilience"
+    ]
+  },
+  {
+    "id": "pub-013",
+    "title": "Improvement of teaching activities in higher education",
+    "authors": "GC Seritan, BA Enache, R Porumb, FC Argatu, FC Adochiei, V Vasiliki",
+    "venue": "Rev. Roum. Sci. Techn.–Électrotechn. et Énerg 63 (4), 437-440, 2018",
+    "year": 2018,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:CHSYGLWDkRkC"
+      },
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:3fE2CSJIrl8C"
+      }
+    ],
+    "notes": [
+      "Bibliographic record from Google Scholar; fields not independently resolved with publisher metadata are retained as listed.",
+      "Duplicate or alternate profile entry combined; source links retained. Citation counts are not summed."
+    ],
+    "type": "Journal article",
+    "citations": "16",
+    "doi": "",
+    "date": "",
+    "publisher": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "topics": [
+      "Education & computing"
+    ]
+  },
+  {
+    "id": "pub-041",
+    "title": "Load Monitoring Solutions for the Smart Buildings – An Overview",
+    "authors": "F.C. Argatu; Violeta Argatu; B.A. Enache; C. Cepisca; G.C. Seritan; P.C. Andrei",
+    "venue": "The Scientific Bulletin of Electrical Engineering Faculty",
+    "year": 2018,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:bEWYMUwI8FkC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1515/sbeef-2017-0026"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Journal article",
+    "citations": "4",
+    "doi": "10.1515/sbeef-2017-0026",
+    "date": "2018-10-01",
+    "publisher": "Walter de Gruyter GmbH",
+    "volume": "18",
+    "issue": "2",
+    "pages": "1-6",
+    "topics": [
+      "Sensors, IoT & signal processing"
+    ]
+  },
+  {
+    "id": "pub-008",
+    "title": "Low cost platform for monitoring honey production and bees health",
+    "authors": "George Calin Seritan; Bogdan-Adrian Enache; Florin Ciprian Argatau; Felix Constantin Adochiei; Stefan Toader",
+    "venue": "2018 IEEE International Conference on Automation, Quality and Testing, Robotics (AQTR)",
+    "year": 2018,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:8k81kl-MbHgC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/aqtr.2018.8402704"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "18",
+    "doi": "10.1109/aqtr.2018.8402704",
+    "date": "2018-05",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-4",
+    "topics": [
+      "Sensors, IoT & signal processing"
+    ]
+  },
+  {
+    "id": "pub-075",
+    "title": "Determining the Optimal Battery Model for a Specific Application",
+    "authors": "Bogdan-Adrian Enache",
+    "venue": "Lecture Notes in Energy; Energy Harvesting and Energy Efficiency",
+    "year": 2017,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:UebtZRa9Y70C"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1007/978-3-319-49875-1_19"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Book chapter",
+    "citations": "1",
+    "doi": "10.1007/978-3-319-49875-1_19",
+    "date": "2017",
+    "publisher": "Springer International Publishing",
+    "volume": "",
+    "issue": "",
+    "pages": "573-598",
+    "topics": [
+      "Batteries & energy storage"
+    ]
+  },
+  {
+    "id": "pub-074",
+    "title": "Temperature influence analysis on the hysteresis of a parallel connection of LFP battery cells",
+    "authors": "Bogdan-Adrian Enache; Luminita-Mirela Constantinescu",
+    "venue": "2017 10th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
+    "year": 2017,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:hqOjcs7Dif8C"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/atee.2017.7905117"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "1",
+    "doi": "10.1109/atee.2017.7905117",
+    "date": "2017",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "808-811",
+    "topics": [
+      "Batteries & energy storage"
+    ]
+  },
+  {
+    "id": "pub-034",
+    "title": "Considerations on the command and analysis of the low speed permanent magnet synchronous machines operating",
+    "authors": "Nicolae Diga; Bogdan-Adrian Enache; Constantin Ghita; Silvia-Maria Diga",
+    "venue": "2016 International Conference on Applied and Theoretical Electricity (ICATE)",
+    "year": 2016,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:roLk4NBRz8UC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/icate.2016.7754646"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "5",
+    "doi": "10.1109/icate.2016.7754646",
+    "date": "2016-10",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-4",
+    "topics": [
+      "Applied engineering"
+    ]
+  },
+  {
+    "id": "pub-052",
+    "title": "First steps towards designing a compact language for the description of logic circuits",
+    "authors": "Florin-Marian Birleanu; Bogdan-Adrian Enache; Magdalena Alexandra",
+    "venue": "2016 International Conference on Communications (COMM)",
+    "year": 2016,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:_FxGoFyzp5QC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/iccomm.2016.7528313"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "3",
+    "doi": "10.1109/iccomm.2016.7528313",
+    "date": "2016-06",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "357-360",
+    "topics": [
+      "Education & computing"
+    ]
+  },
+  {
+    "id": "pub-023",
+    "title": "Modeling a PV panel using the manufacturer data and a hybrid adaptive method",
+    "authors": "Bogdan-Adrian Enache; Florin-Marian Birleanu; Marin Radut",
+    "venue": "2016 8th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
+    "year": 2016,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:Se3iqnhoufwC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/ecai.2016.7861108"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "11",
+    "doi": "10.1109/ecai.2016.7861108",
+    "date": "2016-06",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-6",
+    "topics": [
+      "Power systems & resilience"
+    ]
+  },
+  {
+    "id": "pub-003",
+    "title": "Voltage oriented control of three-phase PWM rectifier using space vector modulation and input output feedback linearization theory",
+    "authors": "M. Jamma; M. Barara; M. Akherraz; B. A. Enache",
+    "venue": "2016 8th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
+    "year": 2016,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:LkGwnXOMwfcC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/ecai.2016.7861085"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "38",
+    "doi": "10.1109/ecai.2016.7861085",
+    "date": "2016-06",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-8",
+    "topics": [
+      "Power systems & resilience"
+    ]
+  },
+  {
+    "id": "pub-100",
+    "title": "A Didactic Implementation of a Minimalist Compiler",
+    "authors": "B Florin-Marian, M Cosmin-Ionut, E Bogdan-Adrian",
+    "venue": "Journal of Electrical Engineering, Electronics, Control and Computer Science …, 2015",
+    "year": 2015,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:ufrVoPGSRksC"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [
+      "Bibliographic record from Google Scholar; fields not independently resolved with publisher metadata are retained as listed."
+    ],
+    "type": "Journal article",
+    "citations": "",
+    "doi": "",
+    "date": "",
+    "publisher": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "topics": [
+      "Education & computing"
+    ]
+  },
+  {
+    "id": "pub-030",
+    "title": "A LiFePO4 Battery Discharge Simulator for EV Applications — Part 1: Determining the Optimal Circuit Based Battery Model",
+    "authors": "Bogdan-Adrian Enache; Magdalena Emilia Alexandru; Luminita-Mirela Constantinescu",
+    "venue": "2015 9th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
+    "year": 2015,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:zYLM7Y9cAGgC"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      },
+      {
+        "name": "Publisher / institutional bibliography",
+        "url": "https://www.upit.ro/_document/236175/lista_de_lucrari_constantinescu_luminita_mirela_2022.pdf"
+      },
+      {
+        "name": "DOI",
+        "url": "https://doi.org/10.1109/ATEE.2015.7133925"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "7",
+    "doi": "10.1109/ATEE.2015.7133925",
+    "date": "",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "877–882",
+    "topics": [
+      "Batteries & energy storage"
+    ]
+  },
+  {
+    "id": "pub-076",
+    "title": "A LiFePO4 battery discharge simulator for EV applications — Part 2: Developing the battery simulator",
+    "authors": "Bogdan-Adrian Enache; Magdalena Emilia Alexandru; Luminita-Mirela Constantinescu",
+    "venue": "2015 9th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
+    "year": 2015,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:Tyk-4Ss8FVUC"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      },
+      {
+        "name": "Publisher / institutional bibliography",
+        "url": "https://www.upit.ro/_document/236175/lista_de_lucrari_constantinescu_luminita_mirela_2022.pdf"
+      },
+      {
+        "name": "DOI",
+        "url": "https://doi.org/10.1109/ATEE.2015.7133926"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "1",
+    "doi": "10.1109/ATEE.2015.7133926",
+    "date": "",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "883–888",
+    "topics": [
+      "Batteries & energy storage"
+    ]
+  },
+  {
+    "id": "pub-053",
+    "title": "Extending the battery model from a single cell to a battery pack with BMS",
+    "authors": "Bogdan-Adrian Enache; Magdalena Emilia Alexandru; Luminita-Mirela Constantinescu",
+    "venue": "2015 7th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
+    "year": 2015,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:Y0pCki6q_DkC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/ecai.2015.7301178"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "3",
+    "doi": "10.1109/ecai.2015.7301178",
+    "date": "2015-06",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "AE-5-AE-14",
+    "topics": [
+      "Batteries & energy storage"
+    ]
+  },
+  {
+    "id": "pub-042",
+    "title": "Hybridization of trolleybuses-means for increasing the transports flexibility and reduction of the pollution",
+    "authors": "Emilian Lefter; Bogdan-Adrian Enache; Ionuț Bogdan Maria; Cătălin Goia",
+    "venue": "UPB Scientific Bulletin, Series C: Electrical Engineering 77 (3), 293-304, 2015",
+    "year": 2015,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:eQOLeE2rZwMC"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [
+      "Bibliographic record from Google Scholar; fields not independently resolved with publisher metadata are retained as listed."
+    ],
+    "type": "Journal article",
+    "citations": "4*",
+    "doi": "",
+    "date": "",
+    "publisher": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "topics": [
+      "Power systems & resilience"
+    ]
+  },
+  {
+    "id": "pub-067",
+    "title": "State-Of-Charge Estimation Of A Lifepo4 Battery Using An Adaptive Observer",
+    "authors": "BA Enache, LM Constantinescu, FM Barleanu",
+    "venue": "University of Pitesti Scientific Bulletin Series: Electronics and Computer …, 2015",
+    "year": 2015,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:QIV2ME_5wuYC"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [
+      "Bibliographic record from Google Scholar; fields not independently resolved with publisher metadata are retained as listed.",
+      "Date discrepancy: Google Scholar lists 2015; ResearchGate lists January 2016. Retained as 2015 pending confirmation."
+    ],
+    "type": "Journal article",
+    "citations": "2",
+    "doi": "",
+    "date": "",
+    "publisher": "",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "topics": [
+      "Batteries & energy storage"
+    ]
+  },
+  {
+    "id": "pub-043",
+    "title": "Aspects of simulating the behavior of an internal combustion engine for electric starter testing",
+    "authors": "Emilian Lefter; Bogdan-Adrian Enache; Luminita-Mirela Constantinescu; Constantin Stoica",
+    "venue": "Proceedings of the 2014 6th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
+    "year": 2014,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:UeHWp8X0CEIC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/ecai.2014.7090176"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "4*",
+    "doi": "10.1109/ecai.2014.7090176",
+    "date": "2014-10",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "35-38",
+    "topics": [
+      "Power systems & resilience"
+    ]
+  },
+  {
+    "id": "pub-068",
+    "title": "Batteries for Electrical Vehicles: A Review",
+    "authors": "Bogdan-Adrian Enache; Emilian Lefter; Costin Cepisca",
+    "venue": "Autonomous Vehicles: Intelligent Transport Systems and Smart Technologies",
+    "year": 2014,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:0EnyYjriUFMC"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      },
+      {
+        "name": "Publisher / institutional bibliography",
+        "url": "https://upb.ro/wp-content/uploads/2020/01/Enache-B-Lista-lucr%C4%83ri.pdf"
+      }
+    ],
+    "notes": [
+      "Pagination differs across sources: Google Scholar lists 409–429; the author’s institutional publication list identifies Chapter 15, pp. 323–345. Pagination is left unresolved pending confirmation."
+    ],
+    "type": "Book chapter",
+    "citations": "2",
+    "doi": "",
+    "date": "",
+    "publisher": "Nova Science Publishers",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "topics": [
+      "Batteries & energy storage",
+      "Power systems & resilience",
+      "Robotics & mobility"
+    ]
+  },
+  {
+    "id": "pub-010",
+    "title": "Estimating a battery state of charge using neural networks",
+    "authors": "Bogdan-Adrian Enache; Eugen Diaconescu",
+    "venue": "2014 International Symposium on Fundamentals of Electrical Engineering (ISFEE)",
+    "year": 2014,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:9yKSN-GCB0IC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/isfee.2014.7050636"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "17",
+    "doi": "10.1109/isfee.2014.7050636",
+    "date": "2014-11",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-6",
+    "topics": [
+      "Batteries & energy storage"
+    ]
+  },
+  {
+    "id": "pub-054",
+    "title": "Experimental analysis on a Self Excited Induction Generator for standalone wind electric pumping stations",
+    "authors": "Mohamed Barara; Ahmed Abbou; Mohamed Akherraz; Abderrahim Bennassar; Silviu Ionita; Emilian Lefter; Bogdan Enache",
+    "venue": "2014 International Conference on Development and Application Systems (DAS)",
+    "year": 2014,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:2osOgNQ5qMEC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/daas.2014.6842423"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "3",
+    "doi": "10.1109/daas.2014.6842423",
+    "date": "2014-05",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "29-36",
+    "topics": [
+      "Power systems & resilience"
+    ]
+  },
+  {
+    "id": "pub-024",
+    "title": "Modeling aspects of an electric starter system for an internal combustion engine",
+    "authors": "Bogdan-Adrian Enache; Luminita-Mirela Constantinescu; Emilian Lefter",
+    "venue": "Proceedings of the 2014 6th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
+    "year": 2014,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:YsMSGLbcyi4C"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/ecai.2014.7090177"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      },
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:aqlVkmm33-oC"
+      }
+    ],
+    "notes": [
+      "Duplicate or alternate profile entry combined; source links retained. Citation counts are not summed."
+    ],
+    "type": "Conference paper",
+    "citations": "9*",
+    "doi": "10.1109/ecai.2014.7090177",
+    "date": "2014-10",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "39-42",
+    "topics": [
+      "Power systems & resilience"
+    ]
+  },
+  {
+    "id": "pub-005",
+    "title": "Comparative study for generic battery models used for electric vehicles",
+    "authors": "Bogdan Enache; Emilian Lefter; Constantin Stoica",
+    "venue": "2013 8TH INTERNATIONAL SYMPOSIUM ON ADVANCED TOPICS IN ELECTRICAL ENGINEERING (ATEE)",
+    "year": 2013,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:u-x6o8ySG0sC"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/atee.2013.6563497"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "34",
+    "doi": "10.1109/atee.2013.6563497",
+    "date": "2013-05",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-6",
+    "topics": [
+      "Batteries & energy storage",
+      "Power systems & resilience",
+      "Robotics & mobility"
+    ]
+  },
+  {
+    "id": "pub-035",
+    "title": "Computation of the characteristics of a claw pole alternator through the finite element method",
+    "authors": "Constantin Stoica; Luminita Mirela Constantinescu; Emilian Lefter; Bogdan Enache",
+    "venue": "Proceedings of the International Conference on ELECTRONICS, COMPUTERS and ARTIFICIAL INTELLIGENCE - ECAI-2013",
+    "year": 2013,
+    "sources": [
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:d1gkVwhDpl0C"
+      },
+      {
+        "name": "Publisher / DOI",
+        "url": "https://doi.org/10.1109/ecai.2013.6636196"
+      },
+      {
+        "name": "ResearchGate profile",
+        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
+      }
+    ],
+    "notes": [],
+    "type": "Conference paper",
+    "citations": "5",
+    "doi": "10.1109/ecai.2013.6636196",
+    "date": "2013-06",
+    "publisher": "IEEE",
+    "volume": "",
+    "issue": "",
+    "pages": "1-4",
+    "topics": [
+      "Power systems & resilience"
+    ]
+  }
+]

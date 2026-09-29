@@ -1,0 +1,802 @@
+[
+  {
+    "title": "A flexibility market platform for electricity system operators using blockchain technology",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:maZDTaKrznsC",
+    "authors": "V Mladenov, V Chobanov, GC Seritan, RF Porumb, BA Enache, V Vita, ...",
+    "venue": "Energies 15 (2), 539, 2022",
+    "year": "2022",
+    "citations": "43"
+  },
+  {
+    "title": "Electronic system for real-time indoor air quality monitoring",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:HDshCWvjkbEC",
+    "authors": "FC Adochiei, ŞT Nicolescu, IR Adochiei, GC Seritan, BA Enache, ...",
+    "venue": "2020 international conference on e-health and bioengineering (EHB), 1-4, 2020",
+    "year": "2020",
+    "citations": "42"
+  },
+  {
+    "title": "Voltage oriented control of three-phase PWM rectifier using space vector modulation and input output feedback linearization theory",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:LkGwnXOMwfcC",
+    "authors": "M Jamma, M Barara, M Akherraz, BA Enache",
+    "venue": "2016 8th International Conference on Electronics, Computers and Artificial …, 2016",
+    "year": "2016",
+    "citations": "38"
+  },
+  {
+    "title": "Robotic platform with medical applications in the smart city environment",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:ULOm3_A8WrAC",
+    "authors": "SD Grigorescu, FC Argatu, SV Paturca, C Cepisca, GC Seritan, ...",
+    "venue": "2019 11th International Symposium on Advanced Topics in Electrical …, 2019",
+    "year": "2019",
+    "citations": "34"
+  },
+  {
+    "title": "Comparative study for generic battery models used for electric vehicles",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:u-x6o8ySG0sC",
+    "authors": "B Enache, E Lefter, C Stoica",
+    "venue": "2013 8TH INTERNATIONAL SYMPOSIUM ON ADVANCED TOPICS IN ELECTRICAL …, 2013",
+    "year": "2013",
+    "citations": "34"
+  },
+  {
+    "title": "Device for monitoring people with Alzheimer's disease",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:qxL8FJ1GzNcC",
+    "authors": "T Cazangiu, FC Argatu, BA Enache, V Vita, G Stavros",
+    "venue": "2018 International Symposium on Fundamentals of Electrical Engineering …, 2018",
+    "year": "2018",
+    "citations": "24"
+  },
+  {
+    "title": "Complex embedded system for stress quantification",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:YOwf2qJgpHMC",
+    "authors": "IR Adochiei, F Adochiei, C Cepisca, G Serițan, B Enache, F Argatu, ...",
+    "venue": "2019 11th International Symposium on Advanced Topics in Electrical …, 2019",
+    "year": "2019",
+    "citations": "20"
+  },
+  {
+    "title": "Low cost platform for monitoring honey production and bees health",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:8k81kl-MbHgC",
+    "authors": "GC Seritan, BA Enache, FC Argatau, FC Adochiei, S Toader",
+    "venue": "2018 IEEE International Conference on Automation, Quality and Testing …, 2018",
+    "year": "2018",
+    "citations": "18"
+  },
+  {
+    "title": "Innovative DevOps for artificial intelligence",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:Zph67rFs4hoC",
+    "authors": "R Ciucu, FC Adochiei, IR Adochiei, F Argatu, GC Seriţan, B Enache, ...",
+    "venue": "The Scientific Bulletin of Electrical Engineering Faculty 19 (1), 58-63, 2019",
+    "year": "2019",
+    "citations": "17"
+  },
+  {
+    "title": "Estimating a battery state of charge using neural networks",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:9yKSN-GCB0IC",
+    "authors": "BA Enache, E Diaconescu",
+    "venue": "2014 International Symposium on Fundamentals of Electrical Engineering …, 2014",
+    "year": "2014",
+    "citations": "17"
+  },
+  {
+    "title": "Performance analysis of MQTT over WebSocket for IoT applications",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:SP6oXDckpogC",
+    "authors": "BA Enache, CK Banica, AG Bogdan",
+    "venue": "The Scientific Bulletin of Electrical Engineering Faculty 23 (1), 46-49, 2023",
+    "year": "2023",
+    "citations": "16"
+  },
+  {
+    "title": "A battery screening system for second life LiFePO₄ batteries",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:e5wmG9Sq2KIC",
+    "authors": "BA Enache, GC Seritan, SD Grigorescu, C Cepisca, FC Adochiei, ...",
+    "venue": "2020 International Conference and Exposition on Electrical And Power …, 2020",
+    "year": "2020",
+    "citations": "16"
+  },
+  {
+    "title": "Improvement of teaching activities in higher education",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:CHSYGLWDkRkC",
+    "authors": "GC Seritan, BA Enache, R Porumb, FC Argatu, FC Adochiei, V Vasiliki",
+    "venue": "Revue Roumaine Des Sciences Techniques-Serie Electrotechnique Et Energetique …, 2018",
+    "year": "2018",
+    "citations": "16"
+  },
+  {
+    "title": "Power quality analyzer for smart grid-smart home applications",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:mVmsd5A6BfQC",
+    "authors": "FC Argatu, V Brezoianu, VV Argatu, BA Enache, FC Adochiei, T Icleanu",
+    "venue": "2019 54th International Universities Power Engineering Conference (UPEC), 1-4, 2019",
+    "year": "2019",
+    "citations": "14"
+  },
+  {
+    "title": "Comparison study of top development boards in the context of iot",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:YFjsv_pBGBYC",
+    "authors": "GC SERIȚAN, BA Enache, I Vilciu, SD Grigorescu, V Mladenov",
+    "venue": "REVUE ROUMAINE DES SCIENCES TECHNIQUES—SÉRIE ÉLECTROTECHNIQUE ET …, 2022",
+    "year": "2022",
+    "citations": "13"
+  },
+  {
+    "title": "Performance evaluation of photovoltaic panels containing cells with different bus bars configurations in partial shading conditions",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:hC7cP41nSMkC",
+    "authors": "GC Seritan, BA Enache, FC Adochiei, FC Argatu, C Christodoulou, V Vita, ...",
+    "venue": "Rev. Roum. Sci. Tech.-Ser. Electrotech. Energetique 65, 67-70, 2020",
+    "year": "2020",
+    "citations": "13"
+  },
+  {
+    "title": "Guidelines for small size samples biostatistics in current medical practice",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:7PzlFSSx8tAC",
+    "authors": "GC Seritan, FC Adochiei, BA Enache, G Petroiu-Andruseac, CD Enache, ...",
+    "venue": "2019 E-Health and Bioengineering Conference (EHB), 1-4, 2019",
+    "year": "2019",
+    "citations": "13"
+  },
+  {
+    "title": "Improvement of teaching activities in higher education",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:3fE2CSJIrl8C",
+    "authors": "GC Serițan, BA Enache, R Porumb, FC Argatu, FC Adochiei, V Vasiliki",
+    "venue": "Rev. Roum. Sci. Techn.–Électrotechn. et Énerg 63 (4), 437-440, 2018",
+    "year": "2018",
+    "citations": "13"
+  },
+  {
+    "title": "Open source architecture for iot based SCADA system for smart home",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:iH-uZ7U-co4C",
+    "authors": "SD Grigorescu, GC Seritan, BA Enache, FC Argatu, FC Adochiei",
+    "venue": "The Scientific Bulletin of Electrical Engineering Faculty 20 (1), 33-36, 2020",
+    "year": "2020",
+    "citations": "12"
+  },
+  {
+    "title": "Brain mapping using a Blockchain approach",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:dhFuZR0502QC",
+    "authors": "FC Adochiei, R Ciucu, IR Adochiei, FC Argatu, B Enache, C Miron, ...",
+    "venue": "2019 E-Health and Bioengineering Conference (EHB), 1-4, 2019",
+    "year": "2019",
+    "citations": "12"
+  },
+  {
+    "title": "Development approach model for automotive headlights with mixed delivery methodologies over APQP backbone",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:TFP_iSt0sucC",
+    "authors": "CC Raicu, GC Seriţan, BA Enache, M Stănculescu",
+    "venue": "Applied Sciences 11 (22), 10581, 2021",
+    "year": "2021",
+    "citations": "11"
+  },
+  {
+    "title": "Modelling the Discharge of a Lithium Iron Phosphate Battery at Low Temperatures",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:_kc_bZDykSQC",
+    "authors": "BA Enache, SD Grigorescu, GC Seritan, FC Argatu, FC Adochiei, ...",
+    "venue": "2019 11th International Symposium on Advanced Topics in Electrical …, 2019",
+    "year": "2019",
+    "citations": "11"
+  },
+  {
+    "title": "Modeling a PV panel using the manufacturer data and a hybrid adaptive method",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:Se3iqnhoufwC",
+    "authors": "BA Enache, FM Bîrleanu, M RăduŢ",
+    "venue": "2016 8th International Conference on Electronics, Computers and Artificial …, 2016",
+    "year": "2016",
+    "citations": "11"
+  },
+  {
+    "title": "Modeling aspects of an electric starter system for an internal combustion engine",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:YsMSGLbcyi4C",
+    "authors": "EL Bogdan-Adrian, Enache, Luminita-Mirela Constantinesc",
+    "venue": "Electronics, Computers and Aritificial Inteligence – ECAI 2014 6 (3), 39-42, 2014",
+    "year": "2014",
+    "citations": "9*"
+  },
+  {
+    "title": "Analysis of bidirectional DC-DC power converters for screening systems of retired batteries",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:_xSYboBqXhAC",
+    "authors": "TI Voicila, GC Seritan, BA Enache",
+    "venue": "REVUE ROUMAINE DES SCIENCES TECHNIQUES—SÉRIE ÉLECTROTECHNIQUE ET …, 2024",
+    "year": "2024",
+    "citations": "8"
+  },
+  {
+    "title": "Single-Wire Control and Fault Detection for Automotive Exterior Lighting Systems",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:lSLTfruPkqcC",
+    "authors": "GC Seriţan, CC Raicu, BA Enache",
+    "venue": "Sensors 23 (14), 6521, 2023",
+    "year": "2023",
+    "citations": "8"
+  },
+  {
+    "title": "Robotic platform for recovering injured people in smart home",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:TQgYirikUcIC",
+    "authors": "SD Grigorescu, GC Seritan, BA Enache, FC Adochiei, FC Argatu, A Stavre",
+    "venue": "2020 International Conference on e-Health and Bioengineering (EHB), 1-4, 2020",
+    "year": "2020",
+    "citations": "8"
+  },
+  {
+    "title": "Comparative study of screening methods for second life LiFePO4 batteries",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:-f6ydRqryjwC",
+    "authors": "BA Enache, GC Seritan, C Cepisca, SD Grigorescu, FC Argatu, ...",
+    "venue": "screening 5, 14, 2020",
+    "year": "2020",
+    "citations": "8"
+  },
+  {
+    "title": "Modeling aspects of an electric starter system for an internal combustion engine, ECAI–International Conference, Bucharest",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:aqlVkmm33-oC",
+    "authors": "L Constantinescu, B Enache, E Lefter",
+    "venue": "ROMÂNIA, 2014",
+    "year": "2014",
+    "citations": "8"
+  },
+  {
+    "title": "A LiFePO4battery discharge simulator for EV applications — Part 1: Determining the optimal circuit based battery model",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:zYLM7Y9cAGgC",
+    "authors": "BA Enache, ME Alexandru, LM Constantinescu",
+    "venue": "2015 9th International Symposium on Advanced Topics in Electrical …, 2015",
+    "year": "2015",
+    "citations": "7"
+  },
+  {
+    "title": "A statistical comparative study for detecting outliers in electrical data",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:hMod-77fHWUC",
+    "authors": "SH Harbi, GC Seriţan, BA Enache, SD Grigorescu",
+    "venue": "2022 14th International Conference on Electronics, Computers and Artificial …, 2022",
+    "year": "2022",
+    "citations": "6"
+  },
+  {
+    "title": "Air Quality Monitoring and Control System for a Hospital Room",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:k_IJM867U9cC",
+    "authors": "FD Andrei, G Seritan, B Enache, FC Argatu, FC Adochiei",
+    "venue": "2021 International Conference on e-Health and Bioengineering (EHB), 1-4, 2021",
+    "year": "2021",
+    "citations": "5"
+  },
+  {
+    "title": "Flyback Converter for a Multi-Chemistry Battery Balancer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:_Qo2XoVZTnwC",
+    "authors": "BA Enache, GC Serițan, C Cepiscă, SD Grigorescu, FC Argatu, ...",
+    "venue": "2021 12th International Symposium on Advanced Topics in Electrical …, 2021",
+    "year": "2021",
+    "citations": "5"
+  },
+  {
+    "title": "Considerations on the command and analysis of the low speed permanent magnet synchronous machines operating",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:roLk4NBRz8UC",
+    "authors": "N Diga, BA Enache, C Ghita, SM Diga",
+    "venue": "2016 International Conference on Applied and Theoretical Electricity (ICATE …, 2016",
+    "year": "2016",
+    "citations": "5"
+  },
+  {
+    "title": "Computation of the characteristics of a claw pole alternator through the finite element method",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:d1gkVwhDpl0C",
+    "authors": "C Stoica, LM Constantinescu, E Lefter, B Enache",
+    "venue": "Proceedings of the International Conference on ELECTRONICS, COMPUTERS and …, 2013",
+    "year": "2013",
+    "citations": "5"
+  },
+  {
+    "title": "IoT-based real-time electrocardiogram monitoring and recording system",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:abG-DnoFyZgC",
+    "authors": "FC Adochiei, DA Dumitrescu, GC Seritan, FC Argatu, BA Enache, ...",
+    "venue": "2024 E-Health and Bioengineering Conference (EHB), 1-5, 2024",
+    "year": "2024",
+    "citations": "4"
+  },
+  {
+    "title": "Système intelligent pour la réduction de la consommation électrique en veille des équipements ménagers",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:zA6iFVUQeVQC",
+    "authors": "AC GHOERGHE, H ANDREI, E DIACONU, G SERITAN, B Enache",
+    "venue": "REVUE ROUMAINE DES SCIENCES TECHNIQUES—SÉRIE ÉLECTROTECHNIQUE ET …, 2023",
+    "year": "2023",
+    "citations": "4"
+  },
+  {
+    "title": "A NEW HYBRID MODEL TO EVALUATE THE LOSS OF LIFE OF POWER TRANSFORMERS",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:HoB7MX3m0LUC",
+    "authors": "B Leu, G SERIȚAN, B Enache",
+    "venue": "REVUE ROUMAINE DES SCIENCES TECHNIQUES—SÉRIE ÉLECTROTECHNIQUE ET …, 2023",
+    "year": "2023",
+    "citations": "4"
+  },
+  {
+    "title": "Design and implementation of a multi-battery, multi-chemistry state of health screening system",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:vV6vV6tmYwMC",
+    "authors": "TI Voicila, GC Seritan, BA Enache, M Stanculescu, RF Porumb",
+    "venue": "2023 10th International Conference on Modern Power Systems (MPS), 1-4, 2023",
+    "year": "2023",
+    "citations": "4"
+  },
+  {
+    "title": "Microgrid cyber security enhancement considerations",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:O3NaXMp0MMsC",
+    "authors": "MA Pisla, M Stanculescu, RF Porumb, BA Enache, GC Seritan",
+    "venue": "2023 13th International symposium on advanced topics in electrical …, 2023",
+    "year": "2023",
+    "citations": "4"
+  },
+  {
+    "title": "Load Monitoring Solutions for the Smart Buildings–An Overview",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:bEWYMUwI8FkC",
+    "authors": "FC Argatu, V Argatu, BA Enache, C Cepisca, GC Seritan, PC Andrei",
+    "venue": "The Scientific Bulletin of Electrical Engineering Faculty 18 (2), 1-6, 2018",
+    "year": "2018",
+    "citations": "4"
+  },
+  {
+    "title": "Hybridization of trolleybuses-means for increasing the transports flexibility and reduction of the pollution",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:eQOLeE2rZwMC",
+    "authors": "CG Emilian Lefter, Bogdan-Adrian Enache, Ionuţ Bogdan Maria",
+    "venue": "UPB Scientific Bulletin, Series C: Electrical Engineering 77 (3), 293-304, 2015",
+    "year": "2015",
+    "citations": "4*"
+  },
+  {
+    "title": "Aspects of simulating the behavior of an internal combustion engine for electric starter testing",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:UeHWp8X0CEIC",
+    "authors": "CS Emilian Lefter, Bogdan-Adrian Enache, Luminita-Mirela Constantinescu",
+    "venue": "International Conference on Electronics, Computers and Aritificial …, 2014",
+    "year": "2014",
+    "citations": "4*"
+  },
+  {
+    "title": "High-Speed SMVs Subscriber Design for FPGA Architectures",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:xtRiw3GOFMkC",
+    "authors": "MA Pisla, BA Enache, V Argyriou, P Sarigiannidis, TI Voicila, GC Seritan",
+    "venue": "Electronics 14 (11), 2135, 2025",
+    "year": "2025",
+    "citations": "3"
+  },
+  {
+    "title": "Optimising Urban Waste Management Through Smart Monitoring Systems: A Case Study in Enhancing Efficiency and Sustainability",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:pyW8ca7W8N0C",
+    "authors": "BA Enache, CK Banica, AG Bogdan",
+    "venue": "The Scientific Bulletin of Electrical Engineering Faculty 24 (1), 60-63, 2024",
+    "year": "2024",
+    "citations": "3"
+  },
+  {
+    "title": "PV container for green energy production",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:yD5IFk8b50cC",
+    "authors": "E Fiorentis, I Vîlciu, OM Ghiță, L Lipan, BA Enache",
+    "venue": "UPB Sci. Bull., Series C 86 (2), 369-382, 2024",
+    "year": "2024",
+    "citations": "3"
+  },
+  {
+    "title": "Power transformers loss of life evaluation using winding insulation resistance calculation Model",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:35N4QoGY0k4C",
+    "authors": "B Leu, G Seritan, B Enache, G Tănăsescu, R Porumb, I Vilciu",
+    "venue": "2023 15th International Conference on Electronics, Computers and Artificial …, 2023",
+    "year": "2023",
+    "citations": "3"
+  },
+  {
+    "title": "Studying the impact of dynamic line rating on the Romanian power transmission grid",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:r0BpntZqJG4C",
+    "authors": "O Lebedov, BA Enache, FC Argatu",
+    "venue": "2021 9th international conference on modern power systems (MPS), 1-3, 2021",
+    "year": "2021",
+    "citations": "3"
+  },
+  {
+    "title": "Performance Evaluation of a Partially Shaded PV cell with Different Bus Bars Configurations",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:9ZlFYXVOiuMC",
+    "authors": "GC Seritan, SD Grigorescu, BA Enache, FC Argatu, FC Adochiei, ...",
+    "venue": "2019 54th International Universities Power Engineering Conference (UPEC), 1-4, 2019",
+    "year": "2019",
+    "citations": "3"
+  },
+  {
+    "title": "Building and designing a dual axis solar tracker for educational purposes",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:qUcmZB5y_30C",
+    "authors": "FC Argatu, FD Tarcau, VV Argatu, SD Grigorescu, BA Enache, ...",
+    "venue": "2019 11th International Conference on Electronics, Computers and Artificial …, 2019",
+    "year": "2019",
+    "citations": "3"
+  },
+  {
+    "title": "Automatic control system for stage lights",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:4TOpqqG69KYC",
+    "authors": "ID Stanescu, BA Enache, GC Seritan, SD Grigorescu, FC Argatu, ...",
+    "venue": "2018 International Symposium on Fundamentals of Electrical Engineering …, 2018",
+    "year": "2018",
+    "citations": "3"
+  },
+  {
+    "title": "First steps towards designing a compact language for the description of logic circuits",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:_FxGoFyzp5QC",
+    "authors": "FM Birleanu, BA Enache, M Alexandra",
+    "venue": "2016 International Conference on Communications (COMM), 357-360, 2016",
+    "year": "2016",
+    "citations": "3"
+  },
+  {
+    "title": "Extending the battery model from a single cell to a battery pack with BMS",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:Y0pCki6q_DkC",
+    "authors": "BA Enache, ME Alexandru, LM Constantinescu",
+    "venue": "2015 7th International Conference on Electronics, Computers and Artificial …, 2015",
+    "year": "2015",
+    "citations": "3"
+  },
+  {
+    "title": "Experimental analysis on a self excited induction generator for standalone wind electric pumping stations",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:2osOgNQ5qMEC",
+    "authors": "M Barara, A Abbou, M Akherraz, A Bennassar, S Ionita, E Lefter, ...",
+    "venue": "2014 International Conference on Development and Application Systems (DAS …, 2014",
+    "year": "2014",
+    "citations": "3"
+  },
+  {
+    "title": "Depression Detection from Three-Channel Resting-State EEG Using a Hybrid Conv1D and Spectral–Statistical Fusion Model",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:WbkHhVStYXYC",
+    "authors": "OI Știrbu, FC Argatu, FC Adochiei, BA Enache, GC Serițan",
+    "venue": "Sensors 26 (5), 1417, 2026",
+    "year": "2026",
+    "citations": "2"
+  },
+  {
+    "title": "Deception detection from five-channel wearable eeg on liewaves: a reproducible baseline for subject-dependent and subject-independent evaluation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:Tiz5es2fbqcC",
+    "authors": "ȘT Nicolescu, FC Adochiei, FC Argatu, BA Enache, GC Serițan",
+    "venue": "Sensors 26 (3), 1027, 2026",
+    "year": "2026",
+    "citations": "2"
+  },
+  {
+    "title": "Development of a laboratory testbed for cybersecurity evaluation of distribution substations using open source tools",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:bFI3QPDXJZMC",
+    "authors": "GC Seriţan, BA Enache, R Porumb, D Balaci, I Clima, CB Bărbulescu",
+    "venue": "2024 16th International Conference on Electronics, Computers and Artificial …, 2024",
+    "year": "2024",
+    "citations": "2"
+  },
+  {
+    "title": "Statistical analysis of capacity loss for stored batteries",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:M05iB0D1s5AC",
+    "authors": "LM Constantinescu, BA Enache, VG Dogaru, TI Voicila, I Vilciu, SC Vasile",
+    "venue": "2023 15th International Conference on Electronics, Computers and Artificial …, 2023",
+    "year": "2023",
+    "citations": "2"
+  },
+  {
+    "title": "An Indoor Air Quality Score Computation and System",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:RGFaLdJalmkC",
+    "authors": "I Vîlciu, BA Enache, GC Serițan, TI Voicilă",
+    "venue": "2023 13th International Symposium on Advanced Topics in Electrical …, 2023",
+    "year": "2023",
+    "citations": "2"
+  },
+  {
+    "title": "First Steps Towards the Design of a multi-Chemistry, multi-Battery State of Health Screening System",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:ns9cj8rnVeAC",
+    "authors": "TI Voicilă, GC Serițan, BA Enache, R Porumb, M Stănculescu",
+    "venue": "2023 13th International Symposium on Advanced Topics in Electrical …, 2023",
+    "year": "2023",
+    "citations": "2"
+  },
+  {
+    "title": "Labview for IoT applications",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:738O_yMBCRsC",
+    "authors": "BA Enache, CK Banica, AG Bogdan",
+    "venue": "The Scientific Bulletin of Electrical Engineering Faculty 23 (1), 50-53, 2023",
+    "year": "2023",
+    "citations": "2"
+  },
+  {
+    "title": "Energy evaluation of bugs vs birds path planning strategies for robots",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:NMxIlDl6LWMC",
+    "authors": "BA Enache, SD Grigorescu, FC Argatu, FC Adochiei, I Vilciu, TI Voicila",
+    "venue": "2022 14th International Conference on Electronics, Computers and Artificial …, 2022",
+    "year": "2022",
+    "citations": "2"
+  },
+  {
+    "title": "A Survey of Condition Monitoring Systems Operation in Romanian Transmission Substations",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:isC4tDSrTZIC",
+    "authors": "B Leu, BA Enache, FC Argatu, M Stanculescu",
+    "venue": "2021 International Conference on Electromechanical and Energy Systems …, 2021",
+    "year": "2021",
+    "citations": "2"
+  },
+  {
+    "title": "Solution for Wireless Communication and Server Redundancy in Water Management",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:RHpTSmoSYBkC",
+    "authors": "C Pîrvu, BA Enache, C Cepişcă, MD Iuliana, N Andreea",
+    "venue": "2021 12th International Symposium on Advanced Topics in Electrical …, 2021",
+    "year": "2021",
+    "citations": "2"
+  },
+  {
+    "title": "Remote Control for Smart Home Applications",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:ZeXyd9-uunAC",
+    "authors": "FC Adochiei, RC Stefan, IR Adochiei, BA Enache, LM Constantinescu, ...",
+    "venue": "2019 11th International Conference on Electronics, Computers and Artificial …, 2019",
+    "year": "2019",
+    "citations": "2"
+  },
+  {
+    "title": "Harmonic analysis for linear circuits based on voltage relative values and standard limits",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:kNdYIx-mwKoC",
+    "authors": "B Enache, PC Andrei, C Cepisca, H Andrei",
+    "venue": "2018 10th International Conference on Electronics, Computers and Artificial …, 2018",
+    "year": "2018",
+    "citations": "2"
+  },
+  {
+    "title": "State-Of-Charge Estimation Of A Lifepo4 Battery Using An Adaptive Observer",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:QIV2ME_5wuYC",
+    "authors": "BA Enache, LM Constantinescu, FM Barleanu",
+    "venue": "University of Pitesti Scientific Bulletin Series: Electronics and Computer …, 2015",
+    "year": "2015",
+    "citations": "2"
+  },
+  {
+    "title": "Batteries for Electrical Vehicles: A Review",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:0EnyYjriUFMC",
+    "authors": "B Enache, E Lefter, C Cepisca",
+    "venue": "Autonomous Vehicles, 409-429, 2014",
+    "year": "2014",
+    "citations": "2"
+  },
+  {
+    "title": "Modular Mobile Robotic Platform for Smart City and Indoor Service Applications",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:nb7KW1ujOQ8C",
+    "authors": "IR Adochiei, FC Argatu, BA Enache, CK Banica, SD Grigorescu, ...",
+    "venue": "International Conference on Nanotechnologies and Biomedical Engineering, 624-634, 2025",
+    "year": "2025",
+    "citations": "1"
+  },
+  {
+    "title": "Digital Solutions for Smart Logistics: a Synthesis of Ai-and Iot-Based Architectural Paradigms",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:1sJd4Hv_s6UC",
+    "authors": "G Radulescu, GV Iana, BA Enache, E Pricop, M Oproescu, I Lita, ...",
+    "venue": "2025 17th International Conference on Electronics, Computers and Artificial …, 2025",
+    "year": "2025",
+    "citations": "1"
+  },
+  {
+    "title": "Enhanced OCV Estimation in LiFePO4 Batteries: A Novel Statistical Approach Leveraging Real-Time Knee/Elbow Detection",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:NhqRSupF_l8C",
+    "authors": "TI Voicila, BA Enache, V Argyriou, P Sarigiannidis, MA Pisla, GC Seritan",
+    "venue": "Batteries 11 (5), 186, 2025",
+    "year": "2025",
+    "citations": "1"
+  },
+  {
+    "title": "Indoor 3d scanning and navigation system for an automated guided vehicle",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:RYcK_YlVTxYC",
+    "authors": "SD Grigorescu, GC Seritan, BA Enache, FC Argatu, FC ADOCHIEI, ...",
+    "venue": "REVUE ROUMAINE DES SCIENCES TECHNIQUES—SÉRIE ÉLECTROTECHNIQUE ET …, 2023",
+    "year": "2023",
+    "citations": "1"
+  },
+  {
+    "title": "Guidelines for Developing a Power-Grid Cybersecurity Database in Europe",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:70eg2SAEIzsC",
+    "authors": "GC Seriţan, BA Enache, R Porumb, D Balaci, I Clima, CB Bărbulescu",
+    "venue": "2023 15th International Conference on Electronics, Computers and Artificial …, 2023",
+    "year": "2023",
+    "citations": "1"
+  },
+  {
+    "title": "Temperature influence analysis on the hysteresis of a parallel connection of LFP battery cells",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:hqOjcs7Dif8C",
+    "authors": "BA Enache, LM Constantinescu",
+    "venue": "2017 10th International Symposium on Advanced Topics in Electrical …, 2017",
+    "year": "2017",
+    "citations": "1"
+  },
+  {
+    "title": "Determining the Optimal Battery Model for a Specific Application",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:UebtZRa9Y70C",
+    "authors": "BA Enache",
+    "venue": "Energy Harvesting and Energy Efficiency: Technology, Methods, and …, 2017",
+    "year": "2017",
+    "citations": "1"
+  },
+  {
+    "title": "A LiFePO4 battery discharge simulator for EV applications — Part 2: Developing the battery simulator",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:Tyk-4Ss8FVUC",
+    "authors": "BA Enache, ME Alexandru, LM Constantinescu",
+    "venue": "2015 9th International Symposium on Advanced Topics in Electrical …, 2015",
+    "year": "2015",
+    "citations": "1"
+  },
+  {
+    "title": "Intelligent Trash Level Detection for Sustainable Urban Waste Management",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:D03iK_w7-QYC",
+    "authors": "BA Enache, CK Banica, AG Bogdan",
+    "venue": "The Scientific Bulletin of Electrical Engineering Faculty 24 (1), 56-59, 0",
+    "year": "",
+    "citations": "1"
+  },
+  {
+    "title": "Low-Temperature Capacity Loss in LCO and LFP Cells and Packs dedicated to automotive applications",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:l7t_Zn2s7bgC",
+    "authors": "BA Enache, A Clenci, LM Constantinescu",
+    "venue": "CAR 2026, 2026",
+    "year": "2026",
+    "citations": ""
+  },
+  {
+    "title": "Techno-Economic Optimisation of Green Mobile Energy Services in Bucharest",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:K3LRdlH-MEoC",
+    "authors": "CD Mihai, ID Mihalache, A Frăţilă, BA Enache",
+    "venue": "2026 18th International Conference on Electronics, Computers and Artificial …, 2026",
+    "year": "2026",
+    "citations": ""
+  },
+  {
+    "title": "Energy-Aware A* Path Planning for Indoor Automated Guided Vehicles",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:u9iWguZQMMsC",
+    "authors": "BA Enache, SD Grigorescu, FC Adochiei, FC Argatu, GC Seritan, ...",
+    "venue": "2025 14th International Symposium on Advanced Topics in Electrical …, 2025",
+    "year": "2025",
+    "citations": ""
+  },
+  {
+    "title": "Performance Evaluation of Wavelet and Adaptive Filters for ECG Denoising in the LabVIEW Environment",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:p2g8aNsByqUC",
+    "authors": "A Nistor, GC Serițan, FC Adochiei, FC Argatu, BA Enache",
+    "venue": "2025 14th International Symposium on Advanced Topics in Electrical …, 2025",
+    "year": "2025",
+    "citations": ""
+  },
+  {
+    "title": "Classification Method Based on Thevenin Model and Partial Discharge Voltage Profiles for Battery State of Health Estimation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:OU6Ihb5iCvQC",
+    "authors": "E Fiorentis, BA Enache",
+    "venue": "2025 14th International Symposium on Advanced Topics in Electrical …, 2025",
+    "year": "2025",
+    "citations": ""
+  },
+  {
+    "title": "Real-Time Environmental Parameter Monitoring and Temperature Forecasting Using a Custom IoT Weather Station and Linear Regression",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:uWQEDVKXjbEC",
+    "authors": "CA Niculescu, FC Argatu, GC Serițan, FC Adochiei, BA Enache",
+    "venue": "2025 14th International Symposium on Advanced Topics in Electrical …, 2025",
+    "year": "2025",
+    "citations": ""
+  },
+  {
+    "title": "Embedded Power Management and State-of-Charge Estimation in Modular Robotic Platforms: Experimental Validation and Web-Based Monitoring",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:KxtntwgDAa4C",
+    "authors": "FC Argatu, IR Adochiei, BA Enache, CK Banica, GC Serițan, FC Adochiei",
+    "venue": "International Conference on Nanotechnologies and Biomedical Engineering, 635-644, 2025",
+    "year": "2025",
+    "citations": ""
+  },
+  {
+    "title": "Lithium-Ion battery state of health estimation enhanced with faults indicator",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:UxriW0iASnsC",
+    "authors": "E Fiorentis, BA Enache",
+    "venue": "2025 IEEE 15th International Workshop on Applied Measurements for Power …, 2025",
+    "year": "2025",
+    "citations": ""
+  },
+  {
+    "title": "Hardware-Accelerated SMV Subscriber: Energy Quality Pre-Processed Metrics and Analysis",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:P5F9QuxV20EC",
+    "authors": "MA Pisla, BA Enache, V Argyriou, P Sarigiannidis, GC Seritan",
+    "venue": "Electronics 14 (16), 3297, 2025",
+    "year": "2025",
+    "citations": ""
+  },
+  {
+    "title": "Digital Stethoscope with Signal Processing Capabilities for IoMT Applications",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:b0M2c_1WBrUC",
+    "authors": "EVȘGC Serițan, BA Enache",
+    "venue": "Advances in Digital Health and Medical Bioengineering: Proceedings of the …, 2024",
+    "year": "2024",
+    "citations": ""
+  },
+  {
+    "title": "GUIDELINES FOR DEVELOPING AN IOT-ENABLED APPLICATION FOR ENHANCED HOSPITAL MANAGEMENT",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:f2IySw72cVMC",
+    "authors": "TI VOICILA, AG BOGDAN, BA ENACHE",
+    "venue": "University of Pitesti Scientific Bulletin Series: Electronics and Computer …, 2023",
+    "year": "2023",
+    "citations": ""
+  },
+  {
+    "title": "COMPARATIVE ANALYSIS OF MEDICAL EQUIPMENT IDENTIFICATION TECHNIQUES: A MULTIFACETED APPROACH FOR ENHANCED HOSPITAL OPERATIONS",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:dfsIfKJdRG4C",
+    "authors": "TI VOICILA, AG BOGDAN, BA ENACHE",
+    "venue": "University of Pitesti Scientific Bulletin Series: Electronics and Computer …, 2023",
+    "year": "2023",
+    "citations": ""
+  },
+  {
+    "title": "Cross-Platform Weather Data Acquisition and Visualization",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:rO6llkc54NcC",
+    "authors": "BA Enache, CK Banica, GB Ana",
+    "venue": "Journal of Electrical Engineering, Electronics, Control and Computer Science …, 2023",
+    "year": "2023",
+    "citations": ""
+  },
+  {
+    "title": "Intelligent Monitoring System for Stress Levels",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:EUQCXRtRnyEC",
+    "authors": "A Manea, FC Argatu, GC Serițan, BA Enache, IR Adochiei, FC Adochiei",
+    "venue": "International Conference on e-Health and Bioengineering, 59-67, 2023",
+    "year": "2023",
+    "citations": ""
+  },
+  {
+    "title": "Digital Stethoscope with Signal Processing Capabilities for IoMT Applications",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:ZHo1McVdvXMC",
+    "authors": "EV Șerbănescu, GC Serițan, BA Enache",
+    "venue": "International Conference on e-Health and Bioengineering, 35-42, 2023",
+    "year": "2023",
+    "citations": ""
+  },
+  {
+    "title": "SMART SYSTEM FOR STANDBY POWER CONSUMPTION REDUCTION OF HOUSEHOLD EQUIPMENT",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:u_35RYKgDlwC",
+    "authors": "AC Gheorghe, H Andrei, E Diaconu, G Seritan, B Enache",
+    "venue": "REVUE ROUMAINE DES SCIENCES TECHNIQUES-SERIE ELECTROTECHNIQUE ET ENERGETIQUE …, 2023",
+    "year": "2023",
+    "citations": ""
+  },
+  {
+    "title": "Design and Implementation of an Experimental Model for the Control and Telemonitoring of a 27.5 kV High Voltage Bipolar Circuit Breaker with Vacuum Switching",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:2P1L_qKh6hAC",
+    "authors": "CG Sărăcin, BA Enache",
+    "venue": "2023 15th International Conference on Electronics, Computers and Artificial …, 2023",
+    "year": "2023",
+    "citations": ""
+  },
+  {
+    "title": "POWER LED EFFICIENCY FOR AUTOMOTIVE HEADLIGHTS.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:ldfaerwXgEUC",
+    "authors": "CC RAICU, GC SERIȚAN, BA ENACHE",
+    "venue": "EMERG: Energy. Environment. Efficiency. Resources. Globalization 9 (2), 107, 2023",
+    "year": "2023",
+    "citations": ""
+  },
+  {
+    "title": "A Multipurpose Video Immersion Laboratory",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:BqipwSGYUEgC",
+    "authors": "SD Grigorescu, GC Seritan, BA Enache, FC Adochiei, FC Argatu, I Vilciu, ...",
+    "venue": "2022 E-Health and Bioengineering Conference (EHB), 1-4, 2022",
+    "year": "2022",
+    "citations": ""
+  },
+  {
+    "title": "The Influence of the Generator Signal Parameters Over the AntiBubbles Formation",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:M3NEmzRMIkIC",
+    "authors": "FC Adochiei, GC Seritan, BA Enache, FC Argatu, AR Dobre",
+    "venue": "2020 International Symposium on Fundamentals of Electrical Engineering …, 2020",
+    "year": "2020",
+    "citations": ""
+  },
+  {
+    "title": "Computing the Caloric Expenditure During Kick Scooter Activity",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:R3hNpaxXUhUC",
+    "authors": "GC Seritan, BA Enache, FC Adochiei, FC Argatu, AS Petrescu, ...",
+    "venue": "2020 International Conference on e-Health and Bioengineering (EHB), 1-4, 2020",
+    "year": "2020",
+    "citations": ""
+  },
+  {
+    "title": "Didactic Implementation of a Real-Time Biomonitoring Platform",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:mB3voiENLucC",
+    "authors": "BA Enache, SD Grigorescu, IR Adochiei, CD Eanche, DI Voiculescu, ...",
+    "venue": "2020 12th International Conference on Electronics, Computers and Artificial …, 2020",
+    "year": "2020",
+    "citations": ""
+  },
+  {
+    "title": "A Didactic Implementation of a Minimalist Compiler",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:ufrVoPGSRksC",
+    "authors": "B Florin-Marian, M Cosmin-Ionut, E Bogdan-Adrian",
+    "venue": "Journal of Electrical Engineering, Electronics, Control and Computer Science …, 2015",
+    "year": "2015",
+    "citations": ""
+  }
+]

@@ -1,0 +1,2549 @@
+[
+  [
+    {
+      "title": "Voltage oriented control of three-phase PWM rectifier using space vector modulation and input output feedback linearization theory",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:LkGwnXOMwfcC",
+      "authors": "M Jamma, M Barara, M Akherraz, BA Enache",
+      "venue": "2016 8th International Conference on Electronics, Computers and Artificial …, 2016",
+      "year": "2016",
+      "citations": "38"
+    },
+    {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2026-04-01T22:17:04Z",
+        "timestamp": 1775081824561,
+        "version": "3.50.1"
+      },
+      "reference-count": 14,
+      "publisher": "IEEE",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2016-06-01T00:00:00Z",
+            "timestamp": 1464739200000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2016-06-01T00:00:00Z",
+            "timestamp": 1464739200000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-037"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2016,
+            6
+          ]
+        ]
+      },
+      "DOI": "10.1109/ecai.2016.7861085",
+      "type": "proceedings-article",
+      "created": {
+        "date-parts": [
+          [
+            2017,
+            2,
+            23
+          ]
+        ],
+        "date-time": "2017-02-23T19:39:14Z",
+        "timestamp": 1487878754000
+      },
+      "page": "1-8",
+      "source": "Crossref",
+      "is-referenced-by-count": 20,
+      "title": [
+        "Voltage oriented control of three-phase PWM rectifier using space vector modulation and input output feedback linearization theory"
+      ],
+      "prefix": "10.1109",
+      "author": [
+        {
+          "given": "M.",
+          "family": "Jamma",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Mohammadia School's of Engineers, The University of Mohammed V, Rabat, Morocco"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "M.",
+          "family": "Barara",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Mohammadia School's of Engineers, The University of Mohammed V, Rabat, Morocco"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "M.",
+          "family": "Akherraz",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Mohammadia School's of Engineers, The University of Mohammed V, Rabat, Morocco"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "B. A.",
+          "family": "Enache",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Electronics, Computer and Electrical Engineering Department, University of Pitesti"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "member": "263",
+      "reference": [
+        {
+          "key": "ref10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TIE.2004.825278"
+        },
+        {
+          "key": "ref11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.15676/ijeei.2014.6.2.8"
+        },
+        {
+          "key": "ref12",
+          "author": "gaynor",
+          "year": "2013",
+          "journal-title": "Direct Power Control Space Vector Modulation Technique Suitable for Turbines Operating at Variable Speeds"
+        },
+        {
+          "key": "ref13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ACEMP.2007.4510606"
+        },
+        {
+          "key": "ref14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.renene.2011.04.027"
+        },
+        {
+          "key": "ref4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TPEL.2009.2028731"
+        },
+        {
+          "key": "ref3",
+          "first-page": "1114",
+          "article-title": "Direct power control of three-phase PWM rectifier using space vector modulation-simulation study",
+          "volume": "4",
+          "author": "kazmierkowski",
+          "year": "2002",
+          "journal-title": "Industrial Electronics 2002 ISIE 2002 Proceedings of the 2002 IEEE International Symposium on"
+        },
+        {
+          "key": "ref6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/28.673716"
+        },
+        {
+          "key": "ref5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TPEL.2003.818871"
+        },
+        {
+          "key": "ref8",
+          "doi-asserted-by": "crossref",
+          "first-page": "3489",
+          "DOI": "10.1109/TIE.2011.2171172",
+          "article-title": "Input-output feedback linearization and speed control of a surface permanent-magnet synchronous wind generator with the boost-chopper converter",
+          "volume": "59",
+          "author": "xia",
+          "year": "2012",
+          "journal-title": "Industrial Electronics IEEE Transactions on"
+        },
+        {
+          "key": "ref7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ISIE.2006.295792"
+        },
+        {
+          "key": "ref2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0378-4754(03)00081-8"
+        },
+        {
+          "key": "ref1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ICACTE.2008.36"
+        },
+        {
+          "key": "ref9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/PEDG.2015.7223072"
+        }
+      ],
+      "event": {
+        "name": "2016 8th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
+        "location": "Ploiesti, Romania",
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              6,
+              30
+            ]
+          ]
+        },
+        "end": {
+          "date-parts": [
+            [
+              2016,
+              7,
+              2
+            ]
+          ]
+        }
+      },
+      "container-title": [
+        "2016 8th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)"
+      ],
+      "link": [
+        {
+          "URL": "http://xplorestaging.ieee.org/ielx7/7843798/7861062/07861085.pdf?arnumber=7861085",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2026-04-01T20:10:52Z",
+        "timestamp": 1775074252000
+      },
+      "score": 95.991745,
+      "resource": {
+        "primary": {
+          "URL": "https://ieeexplore.ieee.org/document/7861085/"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2016,
+            6
+          ]
+        ]
+      },
+      "references-count": 14,
+      "URL": "https://doi.org/10.1109/ecai.2016.7861085",
+      "published": {
+        "date-parts": [
+          [
+            2016,
+            6
+          ]
+        ]
+      }
+    },
+    1.0
+  ],
+  [
+    {
+      "title": "Robotic platform with medical applications in the smart city environment",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:ULOm3_A8WrAC",
+      "authors": "SD Grigorescu, FC Argatu, SV Paturca, C Cepisca, GC Seritan, ...",
+      "venue": "2019 11th International Symposium on Advanced Topics in Electrical …, 2019",
+      "year": "2019",
+      "citations": "34"
+    },
+    {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            28
+          ]
+        ],
+        "date-time": "2026-08-28T06:37:09Z",
+        "timestamp": 1787899029957,
+        "version": "build-2784847793"
+      },
+      "reference-count": 25,
+      "publisher": "IEEE",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                3,
+                1
+              ]
+            ],
+            "date-time": "2019-03-01T00:00:00Z",
+            "timestamp": 1551398400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                3,
+                1
+              ]
+            ],
+            "date-time": "2019-03-01T00:00:00Z",
+            "timestamp": 1551398400000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                3,
+                1
+              ]
+            ],
+            "date-time": "2019-03-01T00:00:00Z",
+            "timestamp": 1551398400000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-037"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            3
+          ]
+        ]
+      },
+      "DOI": "10.1109/atee.2019.8724993",
+      "type": "proceedings-article",
+      "created": {
+        "date-parts": [
+          [
+            2019,
+            5,
+            30
+          ]
+        ],
+        "date-time": "2019-05-30T18:41:56Z",
+        "timestamp": 1559241716000
+      },
+      "page": "1-6",
+      "source": "Crossref",
+      "is-referenced-by-count": 25,
+      "title": [
+        "Robotic Platform with Medical Applications in the Smart City Environment"
+      ],
+      "prefix": "10.1109",
+      "author": [
+        {
+          "given": "S.D.",
+          "family": "Grigorescu",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "F.C.",
+          "family": "Argatu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "S.V.",
+          "family": "Paturca",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "C.",
+          "family": "Cepisca",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "G.C.",
+          "family": "Seritan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "F.C.",
+          "family": "Adochiei",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "B.",
+          "family": "Enache",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "263",
+      "reference": [
+        {
+          "key": "ref10",
+          "article-title": "Smart Cities - How rapid advances in technology are reshaping our economy and society",
+          "year": "2015"
+        },
+        {
+          "key": "ref11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s13174-015-0041-5"
+        },
+        {
+          "key": "ref12",
+          "article-title": "Global Health Governance: The Framework Convention on Tobacco Control. What is being governed? Who governs? How does governance take place?",
+          "author": "ristov",
+          "year": "2018"
+        },
+        {
+          "key": "ref13",
+          "volume": "25",
+          "year": "2011",
+          "journal-title": "National Safety and Quality Health Service Standards Standard 4 - Medication Safety"
+        },
+        {
+          "key": "ref14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1097/01.NPR.0000391179.47878.3a"
+        },
+        {
+          "key": "ref15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5815/ijcnis.2018.01.03"
+        },
+        {
+          "key": "ref16",
+          "article-title": "Artificial Intelligence and Robotics and Their Impact on the Workplace",
+          "author": "wisskirch",
+          "year": "2017",
+          "journal-title": "IBA Global Employment Institute"
+        },
+        {
+          "key": "ref17",
+          "article-title": "Automation McKinsey",
+          "author": "summary",
+          "year": "2017"
+        },
+        {
+          "key": "ref18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/robotics6040022"
+        },
+        {
+          "key": "ref19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/jsan5040020"
+        },
+        {
+          "key": "ref4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/IEMECON.2017.8079565"
+        },
+        {
+          "key": "ref3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/BL-07-2018-0033"
+        },
+        {
+          "key": "ref6",
+          "article-title": "Shaping the Digital Single Market",
+          "year": "2018",
+          "journal-title": "European Commission"
+        },
+        {
+          "key": "ref5",
+          "article-title": "Why we need a Digital Single Market",
+          "year": "2015"
+        },
+        {
+          "key": "ref8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/MITP.2016.63"
+        },
+        {
+          "key": "ref7",
+          "article-title": "Cisco smart city it strategy",
+          "author": "robyn",
+          "year": "2018"
+        },
+        {
+          "key": "ref2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ISNCC.2018.8530997"
+        },
+        {
+          "key": "ref9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/LATW.2015.7102527"
+        },
+        {
+          "key": "ref1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.23991/ef.v45i0.68961"
+        },
+        {
+          "key": "ref20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10676-018-9446-8"
+        },
+        {
+          "key": "ref22",
+          "article-title": "Social Robots 2016&#x2019;s new breed of social robots is ready to enter your world",
+          "author": "wagenmakers",
+          "year": "2016",
+          "journal-title": "KPMG"
+        },
+        {
+          "key": "ref21",
+          "author": "golnazarian",
+          "year": "2002",
+          "journal-title": "Intelligent Industrial Robots"
+        },
+        {
+          "key": "ref24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/EUM0000000007068"
+        },
+        {
+          "key": "ref23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.bica.2017.12.001"
+        },
+        {
+          "key": "ref25",
+          "article-title": "Development of an Automated Healthcare Kiosk for the Management of Chronic Disease Patients in the Primary Care Setting",
+          "volume": "40",
+          "author": "grace ng",
+          "year": "2016",
+          "journal-title": "J Med Syst"
+        }
+      ],
+      "event": {
+        "name": "2019 11th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
+        "location": "Bucharest, Romania",
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              3,
+              28
+            ]
+          ]
+        },
+        "end": {
+          "date-parts": [
+            [
+              2019,
+              3,
+              30
+            ]
+          ]
+        }
+      },
+      "container-title": [
+        "2019 11th International Symposium on Advanced Topics in Electrical Engineering (ATEE)"
+      ],
+      "link": [
+        {
+          "URL": "http://xplorestaging.ieee.org/ielx7/8718102/8724732/08724993.pdf?arnumber=8724993",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2022,
+            7,
+            18
+          ]
+        ],
+        "date-time": "2022-07-18T11:19:44Z",
+        "timestamp": 1658143184000
+      },
+      "score": 36.307205,
+      "resource": {
+        "primary": {
+          "URL": "https://ieeexplore.ieee.org/document/8724993/"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2019,
+            3
+          ]
+        ]
+      },
+      "references-count": 25,
+      "URL": "https://doi.org/10.1109/atee.2019.8724993",
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            3
+          ]
+        ]
+      }
+    },
+    1.0
+  ],
+  null,
+  {
+    "title": "Improvement of teaching activities in higher education",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  null,
+  null,
+  null,
+  [
+    {
+      "title": "Open source architecture for iot based SCADA system for smart home",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:iH-uZ7U-co4C",
+      "authors": "SD Grigorescu, GC Seritan, BA Enache, FC Argatu, FC Adochiei",
+      "venue": "The Scientific Bulletin of Electrical Engineering Faculty 20 (1), 33-36, 2020",
+      "year": "2020",
+      "citations": "12"
+    },
+    {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            25
+          ]
+        ],
+        "date-time": "2026-07-25T16:19:32Z",
+        "timestamp": 1784996372046,
+        "version": "3.55.0"
+      },
+      "reference-count": 19,
+      "publisher": "Walter de Gruyter GmbH",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2020,
+                4,
+                1
+              ]
+            ],
+            "date-time": "2020-04-01T00:00:00Z",
+            "timestamp": 1585699200000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            4,
+            1
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The Internet of Things is considered an emerging technology with the potential to penetrate all aspects of our lives. However, with great power comes great responsibility and the privacy and security needed for critical infrastructure or sensitive commercial operations is very different than the needs of a Smart Home. Additionally, the available security resources from the private sector are totally different than the ones available to a homeowner. In this context, we developed an open source architecture for IoT which is based on the advantages of a SCADA system and can be easily applied to a Smart Home. This architecture assures a high-security level, even for low technical skills homeowners, with minimal costs.</jats:p>",
+      "DOI": "10.2478/sbeef-2020-0107",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2020,
+            11,
+            6
+          ]
+        ],
+        "date-time": "2020-11-06T12:08:32Z",
+        "timestamp": 1604664512000
+      },
+      "page": "33-36",
+      "source": "Crossref",
+      "is-referenced-by-count": 7,
+      "title": [
+        "Open Source Architecture for Iot Based SCADA System for Smart Home"
+      ],
+      "prefix": "10.2478",
+      "volume": "20",
+      "author": [
+        {
+          "given": "S. D.",
+          "family": "Grigorescu",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Measurements, Apparatus and Static Converters, Electrical Engineering Faculty , University POLITEHNICA of Bucharest , Romania"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "G. C.",
+          "family": "Seritan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Measurements, Apparatus and Static Converters, Electrical Engineering Faculty , University POLITEHNICA of Bucharest , Romania"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "B. A.",
+          "family": "Enache",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Measurements, Apparatus and Static Converters, Electrical Engineering Faculty , University POLITEHNICA of Bucharest , Romania"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "F. C.",
+          "family": "Argatu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Measurements, Apparatus and Static Converters, Electrical Engineering Faculty , University POLITEHNICA of Bucharest , Romania"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "F. C.",
+          "family": "Adochiei",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Measurements, Apparatus and Static Converters, Electrical Engineering Faculty , University POLITEHNICA of Bucharest , Romania"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "374",
+      "published-online": {
+        "date-parts": [
+          [
+            2020,
+            10,
+            1
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "2026042917300841526_j_sbeef-2020-0107_ref_001",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[1] H. Lin and N. W. Bergmann, “IoT privacy and security challenges for smart home environments,” Inf., vol. 7, no. 3, 2016.",
+          "DOI": "10.3390/info7030044"
+        },
+        {
+          "key": "2026042917300841526_j_sbeef-2020-0107_ref_002",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[2] F.-C. Argatu, V. Brezoianu, V. V. Argatu, B.-A. Enache, F.-C. Adochiei, and T. Icleanu, “Power Quality Analyzer for Smart Grid-Smart Home Applications,” in 2019 54th International Universities Power Engineering Conference (UPEC), 2019, pp. 1–4.",
+          "DOI": "10.1109/UPEC.2019.8893501"
+        },
+        {
+          "key": "2026042917300841526_j_sbeef-2020-0107_ref_003",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[3] S. D. Grigorescu et al., “Robotic Platform with Medical Applications in the Smart City Environment,” in 2019 11th International Symposium on Advanced Topics in Electrical Engineering (ATEE), 2019, pp. 1–6.",
+          "DOI": "10.1109/ATEE.2019.8724993"
+        },
+        {
+          "key": "2026042917300841526_j_sbeef-2020-0107_ref_004",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[4] C. Cepisca, F. C. Adochiei, S. Potlog, C. K. Banica, and G. C. Seritan, “Platform for bio-monitoring of vital parameters in critical infrastructures operation,” in 2015 7th International Conference on Electronics, Computers and Artificial Intelligence (ECAI), 2015, p. E--7.",
+          "DOI": "10.1109/ECAI.2015.7301144"
+        },
+        {
+          "key": "2026042917300841526_j_sbeef-2020-0107_ref_005",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[5] T. Cazangiu, F.-C. Argatu, B.-A. Enache, V. Vita, and G. Stavros, “Device for monitoring people with Alzheimer’s disease,” in 2018 International Symposium on Fundamentals of Electrical Engineering, ISFEE 2018, 2018.",
+          "DOI": "10.1109/ISFEE.2018.8742451"
+        },
+        {
+          "key": "2026042917300841526_j_sbeef-2020-0107_ref_006",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[6] O. Drosu and M. Stanculescu, “Cardiac Stimulation Through Induced Currents,” Sci. Bull. Electr. Eng. Fac., vol. 17, no. 2, pp. 25–29, 2017.",
+          "DOI": "10.1515/sbeef-2017-0006"
+        },
+        {
+          "key": "2026042917300841526_j_sbeef-2020-0107_ref_007",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[7] R.-I. Ciucu, D.-A. Dragomir, I.-R. Adochiei, G.-C. Seri\\ctan, C. Cepi\\csc\\ua, and F.-C. Adochiei, “A non-contact heart-rate monitoring system for long-term assessments of HRV,” in 2017 10th International Symposium on Advanced Topics in Electrical Engineering (ATEE), 2017, pp. 5–8.",
+          "DOI": "10.1109/ATEE.2017.7905060"
+        },
+        {
+          "key": "2026042917300841526_j_sbeef-2020-0107_ref_008",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[8] O. E. Dragomir and F. Dragomir, “Development of User-friendly Tool for Energy Behavioral Change of Consumers,” in The Scientific Bulletin of Electrical Engineering Faculty, 2016, no. 0, pp. 1–6.",
+          "DOI": "10.1515/sbeef-2016-0011"
+        },
+        {
+          "key": "2026042917300841526_j_sbeef-2020-0107_ref_009",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[9] M. S. Hossain, M. Rahman, M. T. Sarker, M. E. Haque, and A. Jahid, “A smart IoT based system for monitoring and controlling the sub-station equipment,” Internet of Things, vol. 7, p. 100085, 2019.",
+          "DOI": "10.1016/j.iot.2019.100085"
+        },
+        {
+          "key": "2026042917300841526_j_sbeef-2020-0107_ref_010",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[10] D. Mocrii, Y. Chen, and P. Musilek, “IoT-based smart homes: A review of system architecture, software, communications, privacy and security,” Internet of Things, vol. 1–2, pp. 81–98, 2018.",
+          "DOI": "10.1016/j.iot.2018.08.009"
+        },
+        {
+          "key": "2026042917300841526_j_sbeef-2020-0107_ref_011",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[11] R. Ciucu et al., “Innovative Devops for Artificial Intelligence,” Sci. Bull. Electr. Eng. Fac., vol. 19, no. 1, pp. 58–63, 2019.",
+          "DOI": "10.1515/sbeef-2019-0011"
+        },
+        {
+          "key": "2026042917300841526_j_sbeef-2020-0107_ref_012",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[12] J. Arshad, M. A. Azad, M. M. Abdeltaif, and K. Salah, “An intrusion detection framework for energy constrained IoT devices,” Mech. Syst. Signal Process., vol. 136, p. 106436, 2020.",
+          "DOI": "10.1016/j.ymssp.2019.106436"
+        },
+        {
+          "key": "2026042917300841526_j_sbeef-2020-0107_ref_013",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[13] S. Huda, J. Yearwood, M. M. Hassan, and A. Almogren, “Securing the operations in SCADAIoT platform based industrial control system using ensemble of deep belief networks,” Appl. Soft Comput. J., vol. 71, pp. 66–77, 2018.",
+          "DOI": "10.1016/j.asoc.2018.06.017"
+        },
+        {
+          "key": "2026042917300841526_j_sbeef-2020-0107_ref_014",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[14] H. Saputra and Z. Zhao, “Long term key management architecture for SCADA systems,” IEEE World Forum Internet Things, WF-IoT 2018 - Proc., vol. 2018-Janua, pp. 314–319, 2018.",
+          "DOI": "10.1109/WF-IoT.2018.8355183"
+        },
+        {
+          "key": "2026042917300841526_j_sbeef-2020-0107_ref_015",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[15] L. O. Aghenta and M. T. Iqbal, “Low-cost, open source IoT-based SCADA system design using thinger.IO and ESP32 thing,” Electron., vol. 8, no. 8, pp. 1–24, 2019.",
+          "DOI": "10.3390/electronics8080822"
+        },
+        {
+          "key": "2026042917300841526_j_sbeef-2020-0107_ref_016",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[16] L. O. Aghenta and M. T. Iqbal, “Development of an IoT Based Open Source SCADA System for PV System Monitoring,” 2019 IEEE Can. Conf. Electr. Comput. Eng. CCECE 2019, pp. 1–4, 2019.",
+          "DOI": "10.1109/CCECE.2019.8861827"
+        },
+        {
+          "key": "2026042917300841526_j_sbeef-2020-0107_ref_017",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[17] P. Nguyen-Hoang and P. Vo-Tan, “Development an Open-Source Industrial IoT Gateway,” Proc. - 2019 19th Int. Symp. Commun. Inf. Technol. Isc. 2019, pp. 201–204, 2019.",
+          "DOI": "10.1109/ISCIT.2019.8905157"
+        },
+        {
+          "key": "2026042917300841526_j_sbeef-2020-0107_ref_018",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[18] A. Gavlas, J. Zwierzyna, and J. Koziorek, “Possibilities of transfer process data from PLC to Cloud platforms based on IoT,” IFACPapersOnLine, vol. 51, no. 6, pp. 156–161, 2018.",
+          "DOI": "10.1016/j.ifacol.2018.07.146"
+        },
+        {
+          "key": "2026042917300841526_j_sbeef-2020-0107_ref_019",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[19] M. Hemmatpour, M. Ghazivakili, B. Montrucchio, and M. Rebaudengo, “DIIG: a distributed industrial IoT gateway,” in 2017 IEEE 41st Annual Computer Software and Applications Conference (COMPSAC), 2017, vol. 1, pp. 755–759.",
+          "DOI": "10.1109/COMPSAC.2017.110"
+        }
+      ],
+      "container-title": [
+        "The Scientific Bulletin of Electrical Engineering Faculty"
+      ],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://content.sciendo.com/view/journals/sbeef/20/1/article-p33.xml",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://reference-global.com/pdf/10.2478/sbeef-2020-0107",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            4,
+            29
+          ]
+        ],
+        "date-time": "2026-04-29T20:05:56Z",
+        "timestamp": 1777493156000
+      },
+      "score": 49.3189,
+      "resource": {
+        "primary": {
+          "URL": "https://reference-global.com/article/10.2478/sbeef-2020-0107"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2020,
+            4,
+            1
+          ]
+        ]
+      },
+      "references-count": 19,
+      "journal-issue": {
+        "issue": "1",
+        "published-online": {
+          "date-parts": [
+            [
+              2020,
+              10,
+              1
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              1
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.2478/sbeef-2020-0107"
+      ],
+      "URL": "https://doi.org/10.2478/sbeef-2020-0107",
+      "ISSN": [
+        "2286-2455"
+      ],
+      "issn-type": [
+        {
+          "value": "2286-2455",
+          "type": "electronic"
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            4,
+            1
+          ]
+        ]
+      }
+    },
+    1.0
+  ],
+  [
+    {
+      "title": "Brain mapping using a Blockchain approach",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:dhFuZR0502QC",
+      "authors": "FC Adochiei, R Ciucu, IR Adochiei, FC Argatu, B Enache, C Miron, ...",
+      "venue": "2019 E-Health and Bioengineering Conference (EHB), 1-4, 2019",
+      "year": "2019",
+      "citations": "12"
+    },
+    {
+      "indexed": {
+        "date-parts": [
+          [
+            2025,
+            6,
+            24
+          ]
+        ],
+        "date-time": "2025-06-24T13:27:05Z",
+        "timestamp": 1750771625786,
+        "version": "3.28.0"
+      },
+      "reference-count": 32,
+      "publisher": "IEEE",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            11
+          ]
+        ]
+      },
+      "DOI": "10.1109/ehb47216.2019.8970089",
+      "type": "proceedings-article",
+      "created": {
+        "date-parts": [
+          [
+            2020,
+            1,
+            31
+          ]
+        ],
+        "date-time": "2020-01-31T07:02:13Z",
+        "timestamp": 1580454133000
+      },
+      "page": "1-4",
+      "source": "Crossref",
+      "is-referenced-by-count": 8,
+      "title": [
+        "Brain Mapping using a Blockchain Approach"
+      ],
+      "prefix": "10.1109",
+      "author": [
+        {
+          "given": "Felix-Constantin",
+          "family": "Adochiei",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Radu",
+          "family": "Ciucu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Ioana Raluca",
+          "family": "Adochiei",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Florin Ciprian",
+          "family": "Argatu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Bogdan",
+          "family": "Enache",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Casian",
+          "family": "Miron",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "George",
+          "family": "Seritan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "member": "263",
+      "reference": [
+        {
+          "key": "ref32",
+          "article-title": "Experimental Study On Mode I Fracture Of Fibredux Unidirectional Prepeg",
+          "author": "larco",
+          "year": "0",
+          "journal-title": "APPLIED MATHEMATICS AND COMPUTER SCIENCE 1st International Conference on Applied Mathematics and Computer Science (ICAMCS)"
+        },
+        {
+          "key": "ref31",
+          "article-title": "Preliminary design of aeroelastically tailored wing box structures with bend-twist coupling, International Conference on Applied Mathematics",
+          "author": "mihaila-andres",
+          "year": "0",
+          "journal-title": "Computational Science and Systems Engineering (AMCSE)"
+        },
+        {
+          "key": "ref30",
+          "article-title": "Experimental Characterisation of Hyperelastic Materials for Use in a Passive-Adaptive Membrane on MAVs Wing",
+          "author": "radu",
+          "year": "0",
+          "journal-title": "Jurnal MATERIALE PLASTICE"
+        },
+        {
+          "key": "ref10",
+          "first-page": "437",
+          "volume": "63",
+          "author": "seritan",
+          "year": "2018",
+          "journal-title": "Improvment of teaching activities in higher education Revue Roum des Sciences Technique-&#x00C9;lectrotechn et &#x00C9;nerg"
+        },
+        {
+          "article-title": "Model DB",
+          "year": "0",
+          "author": "shepherd",
+          "key": "ref11"
+        },
+        {
+          "key": "ref12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ECAI.2015.7301144"
+        },
+        {
+          "key": "ref13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ATEE.2019.8724901"
+        },
+        {
+          "key": "ref14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.200033797"
+        },
+        {
+          "journal-title": "Complex Embedded System for Stress Quantification 2019 (ATEE)",
+          "year": "0",
+          "author": "adochiei",
+          "key": "ref15"
+        },
+        {
+          "key": "ref16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.neuroimage.2017.12.072"
+        },
+        {
+          "key": "ref17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.neuroimage.2008.01.027"
+        },
+        {
+          "key": "ref18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/1097-0193(200009)11:1<12::AID-HBM20>3.0.CO;2-K"
+        },
+        {
+          "key": "ref19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.neuroimage.2004.07.045"
+        },
+        {
+          "key": "ref28",
+          "article-title": "E-health system for medical telesurveillance of patients with neurological dysfunctions",
+          "author": "andruseac",
+          "year": "2011",
+          "journal-title": "2011 EHB"
+        },
+        {
+          "journal-title": "Encyclopaedia Britannica",
+          "article-title": "Brain Scanning",
+          "year": "2008",
+          "key": "ref4"
+        },
+        {
+          "journal-title": "Automatic Analysis of the Fetal Heart Rate Variability and Uterine Contractions (EPE)",
+          "year": "2014",
+          "author": "rotariu",
+          "key": "ref27"
+        },
+        {
+          "journal-title": "\"Allen Brain Atlas Mouse Brain 7/15/2008",
+          "year": "0",
+          "key": "ref3"
+        },
+        {
+          "year": "0",
+          "key": "ref6",
+          "article-title": "Child Psychiatry Branch"
+        },
+        {
+          "key": "ref29",
+          "article-title": "TELEMON - A Complex System for Real Time Medical Telemonitoring",
+          "author": "costin",
+          "year": "2009",
+          "journal-title": "11th International Congress of the IUPESM/World Congress on Medical Physics and Biomedical Engineering"
+        },
+        {
+          "key": "ref5",
+          "article-title": "Enache B - Robotic Platform with Medical Applications in the Smart City Environment",
+          "author": "grigorescu",
+          "year": "0",
+          "journal-title": "2019 11th International Symposium on Advanced Topics in Electrical Engineering (ATEE)"
+        },
+        {
+          "key": "ref8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0166-2236(98)01300-9"
+        },
+        {
+          "key": "ref7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/sj.npp.1301553"
+        },
+        {
+          "first-page": "1",
+          "year": "0",
+          "author": "ciucu",
+          "key": "ref2"
+        },
+        {
+          "key": "ref9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ATEE.2019.8724963"
+        },
+        {
+          "journal-title": "\"Human Cortex Cortical Gene Expression 7/15/2019",
+          "year": "0",
+          "key": "ref1"
+        },
+        {
+          "key": "ref20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1006/nimg.1999.0534"
+        },
+        {
+          "key": "ref22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/cercor/bhp026"
+        },
+        {
+          "key": "ref21",
+          "first-page": "5",
+          "article-title": "A Non-Contact Heart-Rate Monitoring System for Long-Term Assessments of HRV - 10th",
+          "author": "ciucu",
+          "year": "0"
+        },
+        {
+          "key": "ref24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.neuroimage.2009.12.028"
+        },
+        {
+          "key": "ref23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.95.3.788"
+        },
+        {
+          "key": "ref26",
+          "article-title": "IEEE Spectrum Magazine Special Edition &#x201C;Blockchain World",
+          "author": "peck",
+          "year": "2017",
+          "journal-title": "REINFORCING THE LINKS OF THE BLOCKCHAIN"
+        },
+        {
+          "key": "ref25",
+          "article-title": "Device for monitoring people with Alzheimer&#x2019;s disease",
+          "author": "cazangiu",
+          "year": "2018",
+          "journal-title": "Isfe"
+        }
+      ],
+      "event": {
+        "name": "2019 E-Health and Bioengineering Conference (EHB)",
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              11,
+              21
+            ]
+          ]
+        },
+        "location": "Iasi, Romania",
+        "end": {
+          "date-parts": [
+            [
+              2019,
+              11,
+              23
+            ]
+          ]
+        }
+      },
+      "container-title": [
+        "2019 E-Health and Bioengineering Conference (EHB)"
+      ],
+      "link": [
+        {
+          "URL": "http://xplorestaging.ieee.org/ielx7/8961953/8969868/08970089.pdf?arnumber=8970089",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2020,
+            8,
+            24
+          ]
+        ],
+        "date-time": "2020-08-24T02:21:56Z",
+        "timestamp": 1598235716000
+      },
+      "score": 26.704538,
+      "resource": {
+        "primary": {
+          "URL": "https://ieeexplore.ieee.org/document/8970089/"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2019,
+            11
+          ]
+        ]
+      },
+      "references-count": 32,
+      "URL": "https://doi.org/10.1109/ehb47216.2019.8970089",
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            11
+          ]
+        ]
+      }
+    },
+    1.0
+  ],
+  null,
+  {
+    "title": "Comparative study of screening methods for second life LiFePO4 batteries",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  null,
+  {
+    "title": "A LiFePO4battery discharge simulator for EV applications — Part 1: Determining the optimal circuit based battery model",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  [
+    {
+      "title": "Load Monitoring Solutions for the Smart Buildings–An Overview",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:bEWYMUwI8FkC",
+      "authors": "FC Argatu, V Argatu, BA Enache, C Cepisca, GC Seritan, PC Andrei",
+      "venue": "The Scientific Bulletin of Electrical Engineering Faculty 18 (2), 1-6, 2018",
+      "year": "2018",
+      "citations": "4"
+    },
+    {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            4,
+            4
+          ]
+        ],
+        "date-time": "2026-04-04T01:49:31Z",
+        "timestamp": 1775267371628,
+        "version": "3.50.1"
+      },
+      "reference-count": 41,
+      "publisher": "Walter de Gruyter GmbH",
+      "issue": "2",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2018-10-01T00:00:00Z",
+            "timestamp": 1538352000000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/3.0"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            10,
+            1
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The development of intelligent smart grids requires new electrical monitoring solutions in order to optimize power consumption. The implementation of intelligent energy-monitors leads to new technical developments to optimize consumption using intrusive and non-intrusive techniques. This paper makes a review of the main methods used for load monitoring systems, indicating their advantages and disadvantages. The emergence of high-harmonic consumer electronics in electrical networks such as LED lighting sources implies the choice of the appropriate method and equipment for optimizing energy consumption based on energy signatures.</jats:p>",
+      "DOI": "10.1515/sbeef-2017-0026",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2018,
+            11,
+            10
+          ]
+        ],
+        "date-time": "2018-11-10T07:30:03Z",
+        "timestamp": 1541835003000
+      },
+      "page": "1-6",
+      "source": "Crossref",
+      "is-referenced-by-count": 1,
+      "title": [
+        "Load Monitoring Solutions for the Smart Buildings – An Overview"
+      ],
+      "prefix": "10.1515",
+      "volume": "18",
+      "author": [
+        {
+          "given": "F.C.",
+          "family": "Argatu",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "University POLITEHNICA of Bucharest , Splaiul Independentei nr. 313, Bucharest , Romania"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Violeta",
+          "family": "Argatu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University POLITEHNICA of Bucharest , Splaiul Independentei nr. 313, Bucharest , Romania"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "B.A.",
+          "family": "Enache",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University POLITEHNICA of Bucharest , Splaiul Independentei nr. 313, Bucharest , Romania"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "C.",
+          "family": "Cepisca",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University POLITEHNICA of Bucharest , Splaiul Independentei nr. 313, Bucharest , Romania"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "G.C.",
+          "family": "Seritan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University POLITEHNICA of Bucharest , Splaiul Independentei nr. 313, Bucharest , Romania"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "P.C.",
+          "family": "Andrei",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University POLITEHNICA of Bucharest , Splaiul Independentei nr. 313, Bucharest , Romania"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "member": "374",
+      "published-online": {
+        "date-parts": [
+          [
+            2018,
+            11,
+            2
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_001_w2aab3b7b1b1b6b1ab1ab1Aa",
+          "unstructured": "[1] C. Fischer.Feedback on household electricity consumption: a tool for saving energy. Energy Effic: vol. 1, no. 1, pp. 79–104, 2008."
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_002_w2aab3b7b1b1b6b1ab1ab2Aa",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[2] S. Barker, S. Kalra, and D. Irwin. PowerPlay : Creating Virtual Power Meters through Online Load Tracking. 1st ACM Int. Conf. Embed. Syst. Energy-Efficient Build., pp. 60–69, 2014.",
+          "DOI": "10.1145/2674061.2674068"
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_003_w2aab3b7b1b1b6b1ab1ab3Aa",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[3] M. Temneanu and A.S. Ardeleanu. Hardware and software architecture of a smart meter based on electrical signature analysis, 8th International Symposium on Advanced Topics in Electrical Engineering (ATEE), pp.1-6, 2013.",
+          "DOI": "10.1109/ATEE.2013.6563499"
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_004_w2aab3b7b1b1b6b1ab1ab4Aa",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[4] M. Temneanu and A. Ardeleanu. Non-intrusive Hybrid Energy Monitoring System. Advanced Materials Research, vol. 837, pp. 495-499, 2014.",
+          "DOI": "10.4028/www.scientific.net/AMR.837.495"
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_005_w2aab3b7b1b1b6b1ab1ab5Aa",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[5] G. Seritan, I.Triştiu, O.Ceaki and T.Boboc. Power quality assessment for microgrid scenarios. Electrical and Power Engineering (EPE), 2016 International Conference and Exposition, pp. 723-727, 2016.",
+          "DOI": "10.1109/ICEPE.2016.7781434"
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_006_w2aab3b7b1b1b6b1ab1ab6Aa",
+          "unstructured": "[6] S. Darby. The Effectiveness of Feedback on Energy Consumption a Review for Defra of the Literature on Metering, Billing. Environ. Chang. Inst. Univ. Oxford, vol. 22, no. April, pp. 1–21, 2006."
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_007_w2aab3b7b1b1b6b1ab1ab7Aa",
+          "unstructured": "[7] A. K. Ehrhardt-Martinez and K. Donnelly. Advanced Metering Initiatives and Residential Feedback Programs : A Meta-Review for Household Electricity-Saving Opportunities. Energy, vol. 123, no. 6, p. 128, 2010."
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_008_w2aab3b7b1b1b6b1ab1ab8Aa",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[8] K. D. Lee, S. B. Leeb, L. K. Norford, P. R. Armstrong, J. Holloway, and S. R. Shaw. Estimation of variable-speed-drive power consumption from harmonic content. IEEE Trans. Energy Convers., vol. 20, no. 3, pp. 566–574, 2005.",
+          "DOI": "10.1109/TEC.2005.852963"
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_009_w2aab3b7b1b1b6b1ab1ab9Aa",
+          "unstructured": "[9] W. Wichakool, A. T. Avestruz, R. W. Cox, and S. B. Leeb. Modelling and estimating current harmonics of variable electronic loads. IEEE Trans. Power Electron., vol. 24, no. 12, pp. 2803–2811, 2009."
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_010_w2aab3b7b1b1b6b1ab1ac10Aa",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[10] Z. Wang and G. Zheng. Residential appliances identification and monitoring by a nonintrusive method. IEEE Trans. Smart Grid, vol. 3, no. 1, pp. 80–92, 2012.",
+          "DOI": "10.1109/TSG.2011.2163950"
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_011_w2aab3b7b1b1b6b1ab1ac11Aa",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[11] Y. K. Cho and M. Gai. Projection-Recognition-Projection Method for Automatic Object Recognition and Registration for Dynamic Heavy Equipment Operations. J. Comput. Civ. Eng., vol. 28, no. 5, pp. 1–9, 2013.",
+          "DOI": "10.1061/(ASCE)CP.1943-5487.0000332"
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_012_w2aab3b7b1b1b6b1ab1ac12Aa",
+          "unstructured": "[12] A. Zoha, A. Gluhak, M. A. Imran, and S. Rajasegarar. Non-Intrusive Load Monitoring Approaches for Disaggregated Energy Sensing: A Survey. no. 11, pp. 16838–16866, 2012."
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_013_w2aab3b7b1b1b6b1ab1ac13Aa",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[13] M. Zeifman and K. Roth. Nonintrusive appliance load monitoring: Review and outlook. IEEE Trans. Consum. Electron., vol. 57, no. 1, pp. 76–84, 2011.",
+          "DOI": "10.1109/TCE.2011.5735484"
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_014_w2aab3b7b1b1b6b1ab1ac14Aa",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[14] M. Baranski and J. Voss. Nonintrusive appliance load monitoring based on an optical sensor. in 2003 IEEE Bologna Power Tech Conference Proceedings, 2003, vol. 4, p. 8 pp. Vol.4.",
+          "DOI": "10.1109/PTC.2003.1304732"
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_015_w2aab3b7b1b1b6b1ab1ac15Aa",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[15] G. W. Hart. Nonintrusive appliance load monitoring, Proc. IEEE, vol. 80, no. 12, pp. 1870–1891, 1992.",
+          "DOI": "10.1109/5.192069"
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_016_w2aab3b7b1b1b6b1ab1ac16Aa",
+          "unstructured": "[16] C. Klemenjak and P. Goldsborough. Non-Intrusive Load Monitoring: A Review and Outlook. 2016."
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_017_w2aab3b7b1b1b6b1ab1ac17Aa",
+          "unstructured": "[17] W. K. Lee, G. S. K. Fung, H. Y. Lam, F. H. Y. Chan, and M. Lucente. Exploration on Load Signatures. Electr. Eng., no. 725, p. 5, 2004."
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_018_w2aab3b7b1b1b6b1ab1ac18Aa",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[18] F. Sultanem. Using appliance signatures for monitoring residential loads at meter panel level. IEEE Trans. Power Deliv., vol. 6, no. 4, pp. 1380–1385, 1991.",
+          "DOI": "10.1109/61.97667"
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_019_w2aab3b7b1b1b6b1ab1ac19Aa",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[19] J. Liang, S. K. K. Ng, G. Kendall, and J. W. M. Cheng. Load Signature Study — Part I : Basic Concept, Structure, and Methodology. vol. 25, no. 2, pp. 551–560, 2010.",
+          "DOI": "10.1109/TPWRD.2009.2033799"
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_020_w2aab3b7b1b1b6b1ab1ac20Aa",
+          "unstructured": "[20] P. Electronics and S. Conference. A Taxonomy of Load Signatures for Single-Phase Electric Appliances. System, vol. 1, no. July 2004, pp. 24–29, 2005."
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_021_w2aab3b7b1b1b6b1ab1ac21Aa",
+          "unstructured": "[21] H. Lam, K. Ting, and W. Lee. Building a vector-based load taxonomy using electrical load signatures. Conf. Electr., no. June, 2005."
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_022_w2aab3b7b1b1b6b1ab1ac22Aa",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[22] H. Lam, G. Fung, and W. Lee. A Novel Method to Construct Taxonomy Electrical Appliances Based on Load Signatures. IEEE Trans. Consum. Electron., vol. 53, no. 2, pp. 653–660, 2007.",
+          "DOI": "10.1109/TCE.2007.381742"
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_023_w2aab3b7b1b1b6b1ab1ac23Aa",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[23] H. Najmeddine et al. State of art on load monitoring methods, Proc. 2nd IEEE Int. Conf. Power Energy (PECon 2008), no. PECon 08, pp. 1256–1258, 2008.",
+          "DOI": "10.1109/PECON.2008.4762669"
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_024_w2aab3b7b1b1b6b1ab1ac24Aa",
+          "unstructured": "[24] J. Paris. A Framework for Non-Intrusive Load Monitoring and Diagnostics. Archives, p. 260, 2006."
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_025_w2aab3b7b1b1b6b1ab1ac25Aa",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[25] M. Baranski and J. Voss. Detecting patterns of appliances from total load data using a dynamic programming approach, Proc. - Fourth IEEE Int. Conf. Data Mining, ICDM 2004, pp. 327–330, 2004.",
+          "DOI": "10.1109/ICDM.2004.10003"
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_026_w2aab3b7b1b1b6b1ab1ac26Aa",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[26] A. Schoofs, A. Guerrieri, D. T. Delaney, G. M. P. O’Hare, and A. G. Ruzzelli. ANNOT: Automated Electricity Data Annotation Using Wireless Sensor Networks, in 2010 7th Annual IEEE Communications Society Conference on Sensor, Mesh and Ad Hoc Communications and Networks (SECON), 2010, pp. 1–9.",
+          "DOI": "10.1109/SECON.2010.5508248"
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_027_w2aab3b7b1b1b6b1ab1ac27Aa",
+          "unstructured": "[27] S. Park, H. Kim, H. Moon, J. Heo, and S. Yoon. Concurrent simulation platform for energy-aware smart metering systems. IEEE Trans. Consum. Electron., vol. 56, no. 3, pp. 1918–1926, 2010."
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_028_w2aab3b7b1b1b6b1ab1ac28Aa",
+          "unstructured": "[28] T. Kato, H. S. Cho, D. Lee, T. Toyomura, and T. Yamazaki. Appliance recognition from electric current signals for information-energy integrated network in home environments. Lect. Notes Comput. Sci., vol. 5597 LNCS, pp. 150–157, 2009."
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_029_w2aab3b7b1b1b6b1ab1ac29Aa",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[29] M. E. Berges, E. Goldman, H. S. Matthews, and L. Soibelman. Enhancing electricity audits in residential buildings with nonintrusive load monitoring. J. Ind. Ecol., vol. 14, no. 5, pp. 844–858, 2010.",
+          "DOI": "10.1111/j.1530-9290.2010.00280.x"
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_030_w2aab3b7b1b1b6b1ab1ac30Aa",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[30] L. Farinaccio and R. Zmeureanu. Using a pattern recognition approach to disaggregate the total electricity consumption in a house into the major end-uses. Energy Build., vol. 30, no. 3, pp. 245–259, Aug. 1999.",
+          "DOI": "10.1016/S0378-7788(99)00007-9"
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_031_w2aab3b7b1b1b6b1ab1ac31Aa",
+          "unstructured": "[31] M. T. Fitta. Load Classification and Appliance Fingerprinting for Residential Load Monitoring System. English, p. 100, 2010."
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_032_w2aab3b7b1b1b6b1ab1ac32Aa",
+          "unstructured": "[32] C. Cepisca, S. Ganatsios, H.Andrei, S.D. Grigorescu, and N. Taousanidis, Methods for power measurements in energy meters, The Scientific Bulletin of Electrical Engineering Faculty, 2008, year 8, no. 2, pp. 7-13."
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_033_w2aab3b7b1b1b6b1ab1ac33Aa",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[33] C. Laughman et al. Power signature analysis. IEEE Power Energy Mag., vol. 1, no. 2, pp. 56–63, 2003.",
+          "DOI": "10.1109/MPAE.2003.1192027"
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_034_w2aab3b7b1b1b6b1ab1ac34Aa",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[34] M. Berges, E. Goldman, H. S. Matthews, and L. Soibelman. Training Load Monitoring Algorithms on Highly Sub-Metered Home Electricity Consumption Data. Tsinghua Sci. Technol., vol. 13, no. SUPPL. 1, pp. 406–411, 2008.",
+          "DOI": "10.1016/S1007-0214(08)70182-2"
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_035_w2aab3b7b1b1b6b1ab1ac35Aa",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[35] M. Hazas, A. Friday, and J. Scott. Look back before leaping forward: Four decades of domestic energy inquiry. IEEE Pervasive Comput., vol. 10, no. 1, pp. 13–19, 2011.",
+          "DOI": "10.1109/MPRV.2010.89"
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_036_w2aab3b7b1b1b6b1ab1ac36Aa",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[36] D. D. Sabin, D. L. Brooks, and A. Sundaram. Indices for assessing harmonic distortion from power quality measurements: definitions and benchmark data. IEEE Trans. Power Deliv., vol. 14, no. 2, pp. 489–496, 1999.",
+          "DOI": "10.1109/61.754093"
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_037_w2aab3b7b1b1b6b1ab1ac37Aa",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[37] D. Srinivasan, W. S. Ng, and A. C. Liew. Neural-network-based signature recognition for harmonic source identification. IEEE Trans. Power Deliv., vol. 21, no. 1, pp. 398–405, 2006.",
+          "DOI": "10.1109/TPWRD.2005.852370"
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_038_w2aab3b7b1b1b6b1ab1ac38Aa",
+          "unstructured": "[38] J. Z. Kolter and M. J. Johnson. REDD : A Public Data Set for Energy Disaggregation Research. SustKDD Work., vol. xxxxx, no. 1, pp. 1–6, 2011."
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_039_w2aab3b7b1b1b6b1ab1ac39Aa",
+          "doi-asserted-by": "crossref",
+          "unstructured": "[39] S. Gupta, M. S. Reynolds, and S. N. Patel. ElectriSense: single-point sensing using EMI for electrical event detection and classification in the home. Proc. 12th ACM Int. Conf. Ubiquitous Comput., pp. 139–148, 2010.",
+          "DOI": "10.1145/1864349.1864375"
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_040_w2aab3b7b1b1b6b1ab1ac40Aa",
+          "unstructured": "[40] J. Z. Kolter, S. Batra, and A. Y. Ng. Energy disaggregation via discriminative sparse coding. Adv. Neural Inf. Process. Syst., pp. 1153–1161, 2010."
+        },
+        {
+          "key": "2021040914360211161_j_sbeef-2017-0026_ref_041_w2aab3b7b1b1b6b1ab1ac41Aa",
+          "unstructured": "[41] O.M. Ghita, S.D. Grigorescu, H. Andrei, and N. Calin, Solution for inspection of Power Energy Equipment Using Augmented Reality, The Scientific Bulletin of Electrical Engineering Faculty, 2017, no. 1, https://doi.org/10.1515/sbeef-2016-0007.10.1515/sbeef-2016-0007"
+        }
+      ],
+      "container-title": [
+        "The Scientific Bulletin of Electrical Engineering Faculty"
+      ],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://content.sciendo.com/view/journals/sbeef/18/2/article-p1.xml",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.sciendo.com/article/10.1515/sbeef-2017-0026",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            4,
+            4
+          ]
+        ],
+        "date-time": "2026-04-04T00:57:05Z",
+        "timestamp": 1775264225000
+      },
+      "score": 38.682682,
+      "resource": {
+        "primary": {
+          "URL": "https://www.sciendo.com/article/10.1515/sbeef-2017-0026"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2018,
+            10,
+            1
+          ]
+        ]
+      },
+      "references-count": 41,
+      "journal-issue": {
+        "issue": "2",
+        "published-online": {
+          "date-parts": [
+            [
+              2018,
+              11,
+              2
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2018,
+              10,
+              1
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1515/sbeef-2017-0026"
+      ],
+      "URL": "https://doi.org/10.1515/sbeef-2017-0026",
+      "ISSN": [
+        "2286-2455"
+      ],
+      "issn-type": [
+        {
+          "value": "2286-2455",
+          "type": "electronic"
+        }
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            10,
+            1
+          ]
+        ]
+      }
+    },
+    1.0
+  ],
+  null,
+  null,
+  null,
+  {
+    "title": "Batteries for Electrical Vehicles: A Review",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "title": "A LiFePO4 battery discharge simulator for EV applications — Part 2: Developing the battery simulator",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "title": "Low-Temperature Capacity Loss in LCO and LFP Cells and Packs dedicated to automotive applications",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "title": "GUIDELINES FOR DEVELOPING AN IOT-ENABLED APPLICATION FOR ENHANCED HOSPITAL MANAGEMENT",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "title": "COMPARATIVE ANALYSIS OF MEDICAL EQUIPMENT IDENTIFICATION TECHNIQUES: A MULTIFACETED APPROACH FOR ENHANCED HOSPITAL OPERATIONS",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  null,
+  {
+    "title": "SMART SYSTEM FOR STANDBY POWER CONSUMPTION REDUCTION OF HOUSEHOLD EQUIPMENT",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "title": "POWER LED EFFICIENCY FOR AUTOMOTIVE HEADLIGHTS.",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "title": "A Didactic Implementation of a Minimalist Compiler",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  [
+    {
+      "title": "A TinyML-Driven Edge Computing Framework for State of Health Estimation of Second-Life Li-Ion Battery",
+      "scholar_url": ""
+    },
+    {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            2,
+            3
+          ]
+        ],
+        "date-time": "2026-02-03T09:45:46Z",
+        "timestamp": 1770111946173,
+        "version": "3.49.0"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "group-title": "SSRN",
+      "reference-count": 41,
+      "publisher": "Elsevier BV",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "abstract": "<jats:p>Accurate estimation of the State of Health (SoH) of lithium-ion batteries is a key requirement for ensuring the reliability, safety, and longevity of modern energy storage systems (ESS). As large numbers of cells reach the end of their initial service life, repurposing them for second-life applications such as stationary and renewable energy storage introduces new diagnostic challenges. In these cases, the original manufacturing data and degradation history are often unknown, making conventional model-based or laboratory-based SoH evaluation impractical. Traditional approaches based on equivalent circuit or electrochemical models offer physical interpretability but are computationally intensive and highly sensitive to parameter uncertainty. Data-driven techniques, particularly those employing machine learning (ML), have emerged as flexible alternatives capable of capturing the nonlinear relationships between measurable electrical signals and degradation states. Among them, artificial neural networks (ANNs) achieve a favorable compromise between predictive accuracy and computational efficiency. This paper presents the design, implementation, and validation of a lightweight ANN-based method for SoH estimation of second-life Li-ion cells using partial discharge voltage data. The model architecture, optimized for embedded deployment, balances accuracy with memory and processing efficiency. Experimental validation demonstrates that the proposed ANN achieves robust SoH prediction performance while remaining compatible with resource-constrained Tiny Machine Learning (TinyML) platforms. The results confirm that accurate and scalable battery health assessment can be achieved through compact neural architectures operating directly at the edge, offering a practical solution for distributed, autonomous, and sustainable energy storage management.</jats:p>",
+      "DOI": "10.2139/ssrn.6169928",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            2,
+            2
+          ]
+        ],
+        "date-time": "2026-02-02T22:08:23Z",
+        "timestamp": 1770070103000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "A TinyML-Driven Edge Computing Framework for State of Health Estimation of Second-Life Li-Ion Battery"
+      ],
+      "prefix": "10.2139",
+      "author": [
+        {
+          "given": "Efstathios",
+          "family": "Fiorentis",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9979-3837",
+          "authenticated-orcid": true,
+          "given": "Bogdan-Adrian",
+          "family": "Enache",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Mihaela-Marilena",
+          "family": "Albu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "ref1",
+          "first-page": "1486",
+          "article-title": "Smart storage for active distribution networks estimation and measurement solutions",
+          "author": "M Albu",
+          "year": "2010",
+          "journal-title": "IEEE Instrumentation & Measurement Technology Conference Proceedings, IEEE"
+        },
+        {
+          "key": "ref2",
+          "first-page": "1",
+          "article-title": "Storage selection for DG applications containing virtual synchronous generators",
+          "author": "M Albu",
+          "year": "2009",
+          "journal-title": "IEEE Bucharest PowerTech"
+        },
+        {
+          "key": "ref3",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.rineng.2024.103047",
+          "article-title": "Understanding lithium-ion battery management systems in electric vehicles: Environmental and health impacts, comparative study, and future trends: A review",
+          "volume": "24",
+          "author": "R Suganya",
+          "year": "2024",
+          "journal-title": "Results Eng"
+        },
+        {
+          "key": "ref4",
+          "doi-asserted-by": "crossref",
+          "first-page": "680",
+          "DOI": "10.1016/j.jpowsour.2013.05.040",
+          "article-title": "A review on lithium-ion battery ageing mechanisms and estimations for automotive applications",
+          "volume": "241",
+          "author": "A Barr�",
+          "year": "2013",
+          "journal-title": "J. Power Sources"
+        },
+        {
+          "key": "ref5",
+          "doi-asserted-by": "crossref",
+          "first-page": "1575",
+          "DOI": "10.1016/j.apenergy.2013.09.003",
+          "article-title": "Lithium iron phosphate based battery-Assessment of the aging parameters and development of cycle life model",
+          "volume": "113",
+          "author": "N Omar",
+          "year": "2014",
+          "journal-title": "Appl. Energy"
+        },
+        {
+          "issue": "7",
+          "key": "ref6",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3390/en11071820",
+          "article-title": "State of the art of lithium-ion battery SOC estimation for electrical vehicles",
+          "volume": "11",
+          "author": "R Zhang",
+          "year": "2018",
+          "journal-title": "Energies"
+        },
+        {
+          "issue": "11",
+          "key": "ref7",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3390/en13112715",
+          "article-title": "Evaluation of the Instantaneous Power Demand of an Electric Charging Station in an Urban Scenario",
+          "volume": "13",
+          "author": "N Andrenacci",
+          "year": "2020",
+          "journal-title": "Energies"
+        },
+        {
+          "key": "ref8",
+          "article-title": "Battery state of health modeling and remaining useful life prediction through time series model",
+          "volume": "275",
+          "author": "C.-P Lin",
+          "year": "2020",
+          "journal-title": "Appl. Energy"
+        },
+        {
+          "key": "ref9",
+          "doi-asserted-by": "crossref",
+          "first-page": "489",
+          "DOI": "10.1016/j.jpowsour.2018.09.069",
+          "article-title": "Understanding the trilemma of fast charging, energy density and cycle life of lithium-ion batteries",
+          "volume": "402",
+          "author": "X.-G Yang",
+          "year": "2018",
+          "journal-title": "J. Power Sources"
+        },
+        {
+          "key": "ref10",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.compeleceng.2024.109167",
+          "article-title": "State of health estimation of lithium-ion batteries based on multiple health factors and BO-Seq2Seq model",
+          "volume": "116",
+          "author": "Q Wang",
+          "year": "2024",
+          "journal-title": "Comput. Electr. Eng"
+        },
+        {
+          "key": "ref11",
+          "article-title": "Comparative study of screening methods for second life LiFePO4 batteries",
+          "volume": "5",
+          "author": "B.-A Enache",
+          "year": "2020",
+          "journal-title": "screening"
+        },
+        {
+          "issue": "10",
+          "key": "ref12",
+          "article-title": "Robust Data-Driven State of Health Estimation of Lithium-Ion Batteries Based on Reconstructed Signals",
+          "volume": "18",
+          "author": "B A A Acurio",
+          "year": "2025",
+          "journal-title": "Energies"
+        },
+        {
+          "key": "ref13",
+          "doi-asserted-by": "crossref",
+          "first-page": "359",
+          "DOI": "10.1016/j.jpowsour.2011.10.013",
+          "article-title": "A comparative study of equivalent circuit models for Li-ion batteries",
+          "volume": "198",
+          "author": "X Hu",
+          "year": "2012",
+          "journal-title": "J. Power Sources"
+        },
+        {
+          "key": "ref14",
+          "doi-asserted-by": "crossref",
+          "first-page": "572",
+          "DOI": "10.1016/j.rser.2015.11.042",
+          "article-title": "Critical review of state of health estimation methods of Li-ion batteries for real applications",
+          "volume": "56",
+          "author": "M Berecibar",
+          "year": "2016",
+          "journal-title": "Renew. Sustain. Energy Rev"
+        },
+        {
+          "issue": "3",
+          "key": "ref15",
+          "first-page": "311",
+          "article-title": "ANALYSIS OF BIDIRECTIONAL DC-DC POWER CONVERTERS FOR SCREENING SYSTEMS OF RETIRED BATTERIES",
+          "volume": "69",
+          "author": "T.-I Voicila",
+          "year": "2024",
+          "journal-title": "Rev. Roum. Sci. Tech. �LECTROTECHNIQUE �NERG�TIQUE"
+        },
+        {
+          "key": "ref16",
+          "first-page": "1",
+          "article-title": "Design and implementation of a multi-battery, multi-chemistry state of health screening system",
+          "author": "T.-I Voicila",
+          "year": "2023",
+          "journal-title": "2023 10th International Conference on Modern Power Systems (MPS)"
+        },
+        {
+          "issue": "4",
+          "key": "ref17",
+          "first-page": "483",
+          "article-title": "Comparison study of top development boards in the context of iot",
+          "volume": "67",
+          "author": "G.-C Seri?an",
+          "year": "2022",
+          "journal-title": "Rev. Roum. Sci. Tech. �LECTROTECHNIQUE �NERG�TIQUE"
+        },
+        {
+          "key": "ref18",
+          "doi-asserted-by": "crossref",
+          "first-page": "791",
+          "DOI": "10.1016/j.jpowsour.2014.12.048",
+          "article-title": "A control-oriented lithium-ion battery pack model for plug-in hybrid electric vehicle cycle-life studies and system design with consideration of health management",
+          "volume": "279",
+          "author": "A Cordoba-Arenas",
+          "year": "2015",
+          "journal-title": "J. Power Sources"
+        },
+        {
+          "key": "ref19",
+          "article-title": "Dual-time scale collaborative estimation of SOC and SOH for lithium-ion batteries based on FOMIRUKF-EKF",
+          "volume": "123",
+          "author": "W Guo",
+          "year": "2025",
+          "journal-title": "Comput. Electr. Eng"
+        },
+        {
+          "issue": "1",
+          "key": "ref20",
+          "article-title": "Deep learning to estimate lithium-ion battery state of health without additional degradation experiments",
+          "volume": "14",
+          "author": "J Lu",
+          "year": "2023",
+          "journal-title": "Nat. Commun"
+        },
+        {
+          "key": "ref21",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.compeleceng.2024.109416",
+          "article-title": "Privacy-preserving State of Health prediction for electric vehicle batteries: A comprehensive review",
+          "volume": "118",
+          "author": "V S Naresh",
+          "year": "2024",
+          "journal-title": "Comput. Electr. Eng"
+        },
+        {
+          "key": "ref22",
+          "article-title": "A data-driven approach for diagnosing degradation in lithium-ion batteries using data transformation techniques and a novel deep neural network",
+          "volume": "117",
+          "author": "A A Al-Dulaimi",
+          "year": "2024",
+          "journal-title": "Comput. Electr. Eng"
+        },
+        {
+          "key": "ref23",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.est.2023.106836",
+          "article-title": "State-of-charge estimation for lithium-ion batteries based on attentional sequence-to-sequence architecture",
+          "volume": "62",
+          "author": "Y Tian",
+          "year": "2023",
+          "journal-title": "J. Energy Storage"
+        },
+        {
+          "key": "ref24",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.jpowsour.2025.237568",
+          "article-title": "TinyML models for SoH estimation of lithium-ion batteries based on Electrochemical Impedance Spectroscopy",
+          "volume": "653",
+          "author": "S Giazitzis",
+          "year": "2025",
+          "journal-title": "J. Power Sources"
+        },
+        {
+          "key": "ref25",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.apenergy.2022.120026",
+          "article-title": "Degradation characteristics investigation for lithium-ion cells with NCA cathode during overcharging",
+          "volume": "327",
+          "author": "L Zhang",
+          "year": "2022",
+          "journal-title": "Appl. Energy"
+        },
+        {
+          "issue": "3",
+          "key": "ref26",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3390/electronics13030587",
+          "article-title": "Battery state-of-health estimation: A step towards battery digital twins",
+          "volume": "13",
+          "author": "V Safavi",
+          "year": "2024",
+          "journal-title": "Electronics"
+        },
+        {
+          "key": "ref27",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.est.2021.103857",
+          "article-title": "Robust State of Health estimation of lithium-ion batteries using convolutional neural network and random forest",
+          "volume": "48",
+          "author": "N Yang",
+          "year": "2022",
+          "journal-title": "J. Energy Storage"
+        },
+        {
+          "issue": "1",
+          "key": "ref28",
+          "article-title": "Multi-modal framework for battery state of health evaluation using open-source electric vehicle data",
+          "volume": "16",
+          "author": "H Liu",
+          "year": "2025",
+          "journal-title": "Nat. Commun"
+        },
+        {
+          "key": "ref29",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.compeleceng.2024.109930",
+          "article-title": "A lithium-ion battery SOH estimation method based on temporal pattern attention mechanism and CNN-LSTM model",
+          "volume": "122",
+          "author": "J Huang",
+          "year": "2025",
+          "journal-title": "Comput. Electr. Eng"
+        },
+        {
+          "key": "ref30",
+          "article-title": "An overview of gradient descent optimization algorithms",
+          "volume": "160904747",
+          "author": "S Ruder",
+          "year": "2016",
+          "journal-title": "ArXiv Prepr. ArXiv"
+        },
+        {
+          "key": "ref31",
+          "article-title": "Nano 33 BLE Sense",
+          "year": "2023",
+          "journal-title": "Arduino.cc"
+        },
+        {
+          "key": "ref32",
+          "article-title": "Implementation of tiny machine learning models on arduino 33 ble for gesture and speech recognition",
+          "author": "R Prasanna",
+          "year": "2022",
+          "journal-title": "ArXiv Prepr. ArXiv"
+        },
+        {
+          "key": "ref33",
+          "article-title": "Tinyml for speech recognition",
+          "author": "A Barovic",
+          "year": "2025",
+          "journal-title": "ArXiv Prepr. ArXiv"
+        },
+        {
+          "key": "ref34",
+          "doi-asserted-by": "crossref",
+          "first-page": "671",
+          "DOI": "10.1016/j.procs.2024.04.065",
+          "article-title": "Federated learning on low-power Arduino Nano33 BLE Sense to predict the length of stay using a linear regression model",
+          "volume": "235",
+          "author": "S Sriram",
+          "year": "2024",
+          "journal-title": "Procedia Comput. Sci"
+        },
+        {
+          "key": "ref35",
+          "first-page": "502",
+          "article-title": "Advancing Air Quality Monitoring: TinyML-Based Real-Time Ozone Prediction with Cost-Effective Edge Devices",
+          "author": "H M Ken",
+          "year": "2024",
+          "journal-title": "International Conference on Intelligent Manufacturing and Robotics"
+        },
+        {
+          "key": "ref36",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.iot.2023.100729",
+          "article-title": "An evaluation methodology to determine the actual limitations of a tinyml-based solution",
+          "volume": "22",
+          "author": "G Delnevo",
+          "year": "2023",
+          "journal-title": "Internet Things"
+        },
+        {
+          "key": "ref37",
+          "author": "S Chiurato",
+          "year": "2023",
+          "journal-title": "Neural Network-Based Classification of Electric Vehicle Acceleration Pedal Signals: From Training to Microcontroller Deployment"
+        },
+        {
+          "key": "ref38",
+          "article-title": "State of health estimation for lithium-ion battery by combining incremental capacity analysis with gaussian process regression",
+          "author": "X Li",
+          "year": "2019",
+          "journal-title": "ArXiv Prepr. ArXiv"
+        },
+        {
+          "key": "ref39",
+          "first-page": "1",
+          "article-title": "Practical battery health monitoring using uncertainty-aware bayesian neural network",
+          "author": "Y Zhao",
+          "year": "2024",
+          "journal-title": "2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall)"
+        },
+        {
+          "key": "ref40",
+          "author": "I Goodfellow",
+          "year": "2016"
+        },
+        {
+          "key": "ref41",
+          "article-title": "Discharge curve data at 0.5 A for Samsung INR18650-25R Li-ion cells",
+          "author": "Efstathios Fiorentis",
+          "year": "2025",
+          "journal-title": "IEEE Dataport"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            2,
+            2
+          ]
+        ],
+        "date-time": "2026-02-02T22:11:05Z",
+        "timestamp": 1770070265000
+      },
+      "score": 81.342445,
+      "resource": {
+        "primary": {
+          "URL": "https://www.ssrn.com/abstract=6169928"
+        }
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "references-count": 41,
+      "URL": "https://doi.org/10.2139/ssrn.6169928",
+      "published": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    },
+    1.0
+  ],
+  {
+    "title": "Improvement of teaching activities in higher education: a case study",
+    "error": "HTTP Error 429: Too Many Requests"
+  }
+]
