@@ -108,11 +108,18 @@ for label,title,key in [('Academic career','University appointments','appointmen
 body+='<section class="wrap section">'+section_heading('Professional community','Memberships & qualifications')+affiliations()+'<p style="margin-top:30px">'+e(C['languages'])+'</p></section>'
 write('about.html','About & experience','about',body)
 
-# Teaching content only from documented appointments; no invented course downloads.
+# Teaching content from the supplied CV and subsequent owner-confirmed updates.
 body=intro('Teaching & mentoring','Learning through signals,<br>instruments and experiments.','Teaching experience across electrical measurements, signal processing, virtual instrumentation and automotive electrical systems.')
 body+='<section class="wrap section">'+section_heading('POLITEHNICA Bucharest','Current teaching')+'<div class="course-list">'
-for title,kind,desc in [('Signal Processing','Course · Associate Professor appointment','Delivery of the Signal Processing course, connecting mathematical methods with the analysis of measured signals.'),('Electrical Measurement','Laboratory teaching','Laboratory instruction in electrical measurement and practical measurement methods.'),('Electrical & Electronic Measurements','Laboratory teaching','Practical instruction in electrical and electronic measurement techniques.'),('Virtual Instrumentation','Laboratory teaching','Laboratory instruction in computer-based instrumentation and measurement systems.')]:
- body+=f'<article class="course"><small>{kind}</small><h3>{title}</h3><p>{desc}</p></article>'
+for title,kind,desc in [
+ ('Signal Processing','Course & laboratory','Course and laboratory teaching in signal processing and the analysis of measured signals.'),
+ ('Virtual Instrumentation','Course & laboratory','Course and laboratory teaching in computer-based instrumentation and measurement systems.'),
+ ('Sensors and Transducers for Vehicles','Course & laboratory','Course and laboratory teaching in sensors and transducers for vehicle applications.'),
+ ('Electrical and Electronic Equipment for Vehicles','Course & laboratory','Course and laboratory teaching in electrical and electronic equipment used in vehicles.'),
+ ('Electrical Measurement','Laboratory teaching','Laboratory instruction in electrical measurement and practical measurement methods.'),
+ ('Electrical & Electronic Measurements','Laboratory teaching','Practical instruction in electrical and electronic measurement techniques.')
+]:
+ body+=f'<article class="course"><small>{e(kind)}</small><h3>{e(title)}</h3><p>{e(desc)}</p></article>'
 body+='</div></section><section class="wrap section">'+section_heading('Teaching experience','Earlier courses & laboratories')+timeline(C['appointments'][1:])+'</section>'
 body+='<section class="wrap section">'+section_heading('Education research','Teaching as a research practice')+'<div class="pub-list">'+''.join(pubrow(p,False) for p in P if any(s in p['title'].lower() for s in ['teaching activities','didactic implementation']))+'</div></section>'
 body+='<section class="wrap section"><div class="callout"><div><h2>Academic enquiries</h2><p>For course information and research discussions, use the university email.</p></div>'+link('mailto:'+EMAIL,'Contact by email','button secondary')+'</div></section>'
