@@ -115,9 +115,7 @@ for title,kind,desc in [
  ('Signal Processing','Course & laboratory','Course and laboratory teaching in signal processing and the analysis of measured signals.'),
  ('Virtual Instrumentation','Course & laboratory','Course and laboratory teaching in computer-based instrumentation and measurement systems.'),
  ('Sensors and Transducers for Vehicles','Course & laboratory','Course and laboratory teaching in sensors and transducers for vehicle applications.'),
- ('Electrical and Electronic Equipment for Vehicles','Course & laboratory','Course and laboratory teaching in electrical and electronic equipment used in vehicles.'),
- ('Electrical Measurement','Laboratory teaching','Laboratory instruction in electrical measurement and practical measurement methods.'),
- ('Electrical & Electronic Measurements','Laboratory teaching','Practical instruction in electrical and electronic measurement techniques.')
+ ('Electrical and Electronic Equipment for Vehicles','Course & laboratory','Course and laboratory teaching in electrical and electronic equipment used in vehicles.')
 ]:
  body+=f'<article class="course"><small>{e(kind)}</small><h3>{e(title)}</h3><p>{e(desc)}</p></article>'
 body+='</div></section><section class="wrap section">'+section_heading('Teaching experience','Earlier courses & laboratories')+timeline(C['appointments'][1:])+'</section>'
