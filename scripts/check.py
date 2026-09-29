@@ -2,8 +2,13 @@
 from pathlib import Path
 from html.parser import HTMLParser
 from urllib.parse import urlsplit, unquote
-import json,re
-ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/'dist'
+import argparse,json,re
+parser=argparse.ArgumentParser(description=__doc__)
+parser.add_argument('--public',action='store_true')
+parser.add_argument('--output',choices=['dist','docs'],default='dist')
+args=parser.parse_args()
+PUBLIC=args.public
+ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/args.output
 class Page(HTMLParser):
  def __init__(self,path):
   super().__init__();self.links=[];self.ids=set();self.h1=0;self.noindex=False;self.feed(path.read_text())
@@ -19,7 +24,11 @@ class Page(HTMLParser):
    if a.get(key):self.links.append(a[key])
 pages={p.name:Page(p) for p in OUT.glob('*.html')}
 for name,page in pages.items():
- assert page.h1==1 and page.noindex,name
+ assert page.h1==1 and page.noindex is not PUBLIC,name
+ if PUBLIC:
+  html=(OUT/name).read_text()
+  assert 'PRIVATE REVIEW' not in html and 'chatgpt.com/share/' not in html,name
+  assert '<link rel="canonical"' in html,name
  for link in page.links:
   url=urlsplit(link)
   if url.scheme or url.netloc:continue
@@ -30,6 +39,10 @@ pubs=json.loads((ROOT/'data/publications.json').read_text());projects=json.loads
 assert len(pubs)==len({p['id'] for p in pubs})
 dois=[p['doi'].lower() for p in pubs if p['doi']];assert len(dois)==len(set(dois))
 assert len(projects)==12 and len(pages)==20
+assert ('sources.html' in pages and 'review.html' not in pages) if PUBLIC else ('review.html' in pages and 'sources.html' not in pages)
+if PUBLIC:
+ assert (OUT/'sitemap.xml').is_file()
+ assert 'Disallow: /' not in (OUT/'robots.txt').read_text()
 scholar=json.loads((ROOT/'research/scholar.json').read_text())
 urls={s['url'] for p in pubs for s in p['sources']}
 assert all(r['scholar_url'] in urls for r in scholar),'Scholar source entry omitted'

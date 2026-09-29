@@ -1,0 +1,23 @@
+{
+ "appointments":[
+ ["October 2023 – present","Associate Professor","National University of Science and Technology POLITEHNICA Bucharest","Department of Measurements, Electrical Apparatus and Static Converters. Courses and laboratories in Signal Processing, Virtual Instrumentation, Sensors and Transducers for Vehicles, and Electrical and Electronic Equipment for Vehicles. Research in energy and measurement systems."],
+ ["February 2020 – September 2023","Lecturer","Politehnica University of Bucharest","Legal Metrology course and laboratories in Legal Metrology, Electrical Measurement, Electrical and Electronic Measurements, and Virtual Instrumentation."],
+ ["November 2017 – February 2020","Assistant Professor","Politehnica University of Bucharest","Laboratory teaching in Electrical Measurement, Measurement Systems and Biomedical Sensors."],
+ ["2012 – October 2017","Assistant Professor","University of Pitești","Faculty of Electronics, Communications and Computers; Department of Electronics, Computers and Electrical Engineering. Laboratories in Automotive Electrical and Electronic Equipment, Automotive Electrical Systems, and Electrotechnics and Electrical Machines."]
+ ],
+ "industry":[
+ ["2011 – 2017","Civil Networks Engineer","SC ROMARG PROIECT CENTER SRL","Computer-aided design of district utility networks."],
+ ["2007 – 2011","Head of Design Department","SC BUILDING DESIGN 2000 SRL","Coordinated the design process and computer-aided design of district utility networks. Managed a team of five design engineers."],
+ ["2006 – 2007","AutoCAD Designer","SC BUILDING DESIGN 2000 SRL","Technical drawing using AutoCAD graphic-design software."]
+ ],
+ "education":[
+ ["2019 – 2021","Postdoctoral Researcher · Electrical Engineering","Politehnica University of Bucharest · Doctoral School of Electrical Engineering","Research: Method and Automated System for Sorting Used Li-Ion Batteries from Electric Vehicles for Reuse in Other Energy Applications."],
+ ["2019 – 2020","Postdoctoral Entrepreneurial Researcher","Politehnica University of Bucharest","A-Success — The Key to Career Success. Entrepreneurial-skills development for doctoral and postdoctoral researchers; Human Capital Operational Programme 2014–2020, Priority Axis 6 — Education and Skills, MySMIS 125125."],
+ ["2012 – 2015","Doctoral studies · Electrical Engineering","Politehnica University of Bucharest · Faculty of Electrical Engineering","Thesis: Research on the Use of LiFePO4 Batteries in the Automotive Industry. Department of Measurements, Apparatus and Static Converters."],
+ ["2010 – 2012","Master’s Degree · Electronics","University of Pitești","Specialisation: Electronic Systems for Industrial Process Control. Dissertation: Adaptive System for Online Learning of the Java Language. GPA 9.24; ranked 3rd of 25 graduates."],
+ ["2002 – 2007","Bachelor’s Degree · Engineering","University of Pitești","Specialisation: Metrology in the Electrical Industry. Graduation project: Detection of Bearing Defects Using Vibration Analysis. GPA 9.14; ranked 1st of 12 graduates."]
+ ],
+ "affiliations":[["IEEE","Senior Member · Membership No. 92551910 · Region 8, Romania"],["AGIR","Member · General Association of Engineers in Romania"],["ANRE","Authorisation grades IIA and IIB · No. 201915391 · Valid until 15 November 2029"]],
+ "ieeeSocieties":["IEEE Instrumentation and Measurement Society","IEEE Power & Energy Society","IEEE Signal Processing Society"],
+ "languages":"Romanian (native); British English (C1, advanced, across listening, reading, speaking and writing)."
+}

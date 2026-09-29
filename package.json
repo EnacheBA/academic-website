@@ -1,1 +1,12 @@
-{"name":"bogdan-adrian-enache-academic-site","version":"1.0.0","private":true,"description":"Private academic portfolio of Bogdan-Adrian Enache","scripts":{"build":"python3 scripts/build.py","preview":"python3 -m http.server 4173 --bind 127.0.0.1 --directory dist"}}
+{
+  "name": "bogdan-adrian-enache-academic-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Academic and research portfolio of Bogdan-Adrian Enache",
+  "scripts": {
+    "build": "python3 scripts/build.py --public --output docs",
+    "preview": "python3 -m http.server 4173 --bind 127.0.0.1 --directory docs",
+    "build:review": "python3 scripts/build.py",
+    "check": "python3 scripts/check.py --public --output docs"
+  }
+}
