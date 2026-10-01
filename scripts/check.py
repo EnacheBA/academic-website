@@ -38,8 +38,12 @@ for name,page in pages.items():
 pubs=json.loads((ROOT/'data/publications.json').read_text());projects=json.loads((ROOT/'data/projects.json').read_text())
 assert len(pubs)==len({p['id'] for p in pubs})
 dois=[p['doi'].lower() for p in pubs if p['doi']];assert len(dois)==len(set(dois))
-assert len(projects)==12 and len(pages)==20
-assert ('sources.html' in pages and 'review.html' not in pages) if PUBLIC else ('review.html' in pages and 'sources.html' not in pages)
+assert len(projects)==12 and len(pages)==19
+assert not {'sources.html','review.html'} & pages.keys()
+assert not (OUT/'data/supplementary.json').exists()
+exported_pubs=json.loads((OUT/'data/publications.json').read_text())
+assert len(exported_pubs)==len(pubs)
+assert all('sources' not in p and 'notes' not in p for p in exported_pubs)
 if PUBLIC:
  assert (OUT/'sitemap.xml').is_file()
  assert 'Disallow: /' not in (OUT/'robots.txt').read_text()

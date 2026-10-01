@@ -29,7 +29,7 @@ for i,r in enumerate(rows):
  if not m:p['notes'].append('Bibliographic record from Google Scholar; fields not independently resolved with publisher metadata are retained as listed.')
  if '...' in p['authors']:p['notes'].append('The source abbreviates the author list. Follow the source link for the complete list.')
  works.append(p)
-# Source-specific corrections backed by ResearchGate/CV and supplied publisher records.
+# Bibliographic corrections supported by academic profiles and publisher metadata.
 for p in works:
  t=norm(p['title'])
  if t.startswith('modelingaspectsofanelectricstartersystemforaninternalcombustionengine'):
@@ -80,7 +80,5 @@ for p in unique:
  if not p['topics']:p['topics']=['Applied engineering']
 unique.sort(key=lambda p:(-(p['year'] or 0),p['title'].lower()))
 (ROOT/'data/publications.json').write_text(json.dumps(unique,ensure_ascii=False,indent=2))
-# Supplementary upload retained explicitly, without calling it an extra paper.
-(ROOT/'data/supplementary.json').write_text(json.dumps([{'title':'Chapter — supplementary ResearchGate upload','date':'January 2015','authors':'Bogdan-Adrian Enache; Emilian Lefter; Costin Cepisca','type':'Data / supplementary upload','url':'https://www.researchgate.net/publication/271521697_Chapter','note':'ResearchGate labels this upload “Data”. Its description corresponds to Batteries for Electrical Vehicles: A Review. It is preserved here separately and is not counted as an additional paper.'}],ensure_ascii=False,indent=2))
 print(len(unique),'distinct works; DOI records',sum(bool(p['doi']) for p in unique),'full authors',sum('...' not in p['authors'] and 'et al.' not in p['authors'] for p in unique))
 print('Missing DOI:',json.dumps([p['title'] for p in unique if not p['doi']],ensure_ascii=False))

@@ -10,17 +10,6 @@
     "url": "https://www.researchgate.net/publication/400391780_A_TinyML-Driven_Edge_Computing_Framework_for_State_of_Health_Estimation_of_Second-Life_Li-Ion_Battery",
     "summary": "A compact neural-network approach estimates the health of second-life lithium-ion cells from partial-discharge voltages, with an architecture intended for resource-constrained edge devices.",
     "id": "pub-rg-1",
-    "sources": [
-      {
-        "name": "ResearchGate",
-        "url": "https://www.researchgate.net/publication/400391780_A_TinyML-Driven_Edge_Computing_Framework_for_State_of_Health_Estimation_of_Second-Life_Li-Ion_Battery"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.2139/ssrn.6169928"
-      }
-    ],
-    "notes": [],
     "publisher": "",
     "volume": "",
     "issue": "",
@@ -36,21 +25,6 @@
     "authors": "Șerban-Teodor Nicolescu; Felix-Constantin Adochiei; Florin-Ciprian Argatu; Bogdan-Adrian Enache; George-Călin Serițan",
     "venue": "Sensors",
     "year": 2026,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:Tiz5es2fbqcC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.3390/s26031027"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Journal article",
     "citations": "2",
     "doi": "10.3390/s26031027",
@@ -69,21 +43,6 @@
     "authors": "Oana-Isabela Știrbu; Florin-Ciprian Argatu; Felix-Constantin Adochiei; Bogdan-Adrian Enache; George-Călin Serițan",
     "venue": "Sensors",
     "year": 2026,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:WbkHhVStYXYC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.3390/s26051417"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Journal article",
     "citations": "2",
     "doi": "10.3390/s26051417",
@@ -102,16 +61,6 @@
     "authors": "BA Enache, A Clenci, LM Constantinescu",
     "venue": "CAR 2026, 2026",
     "year": 2026,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:l7t_Zn2s7bgC"
-      }
-    ],
-    "notes": [
-      "Bibliographic record from Google Scholar; fields not independently resolved with publisher metadata are retained as listed.",
-      "Listed on Google Scholar as CAR 2026. Publication status and final proceedings details need confirmation."
-    ],
     "type": "Conference paper",
     "citations": "",
     "doi": "",
@@ -131,17 +80,6 @@
     "authors": "Corina Daniela Mihai; Iuliana Diana Mihalache; Alexandra Frăţilă; Bogdan-Adrian Enache",
     "venue": "2026 18th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
     "year": 2026,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:K3LRdlH-MEoC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/ecai69016.2026.11613808"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "",
     "doi": "10.1109/ecai69016.2026.11613808",
@@ -160,21 +98,6 @@
     "authors": "Efstathios Fiorentis; Bogdan-Adrian Enache",
     "venue": "2025 14th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
     "year": 2025,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:OU6Ihb5iCvQC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/atee66006.2025.11299935"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "",
     "doi": "10.1109/atee66006.2025.11299935",
@@ -194,21 +117,6 @@
     "authors": "Gheorghe Radulescu; Gabriel-Vasile Iana; Bogdan-Adrian Enache; Emil Pricop; Mihai Oproescu; Ioan Lita; Ovidiu Constantin Novac; Mihaela Cornelia Novac",
     "venue": "2025 17th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
     "year": 2025,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:1sJd4Hv_s6UC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/ecai65401.2025.11095498"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "1",
     "doi": "10.1109/ecai65401.2025.11095498",
@@ -228,21 +136,6 @@
     "authors": "Florin Ciprian Argatu; Ioana-Raluca Adochiei; Bogdan-Adrian Enache; Cosmin Karl Banica; George-Călin Serițan; Felix-Constantin Adochiei",
     "venue": "IFMBE Proceedings; 7th International Conference on Nanotechnologies and Biomedical Engineering",
     "year": 2025,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:KxtntwgDAa4C"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1007/978-3-032-06497-4_62"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Book chapter",
     "citations": "",
     "doi": "10.1007/978-3-032-06497-4_62",
@@ -264,21 +157,6 @@
     "authors": "Bogdan-Adrian Enache; Sorin-Dan Grigorescu; Felix Constantin Adochiei; Florin Ciprian Argatu; George Calin Seritan; Cosmin Karl Banica",
     "venue": "2025 14th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
     "year": 2025,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:u9iWguZQMMsC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/atee66006.2025.11299871"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "",
     "doi": "10.1109/atee66006.2025.11299871",
@@ -298,21 +176,6 @@
     "authors": "Teodor-Iulian Voicila; Bogdan-Adrian Enache; Vasilis Argyriou; Panagiotis Sarigiannidis; Mihai-Alexandru Pisla; George-Calin Seritan",
     "venue": "Batteries",
     "year": 2025,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:NhqRSupF_l8C"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.3390/batteries11050186"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Journal article",
     "citations": "1",
     "doi": "10.3390/batteries11050186",
@@ -331,21 +194,6 @@
     "authors": "Mihai-Alexandru Pisla; Bogdan-Adrian Enache; Vasilis Argyriou; Panagiotis Sarigiannidis; George-Calin Seritan",
     "venue": "Electronics",
     "year": 2025,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:P5F9QuxV20EC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.3390/electronics14163297"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Journal article",
     "citations": "",
     "doi": "10.3390/electronics14163297",
@@ -364,21 +212,6 @@
     "authors": "Mihai-Alexandru Pisla; Bogdan-Adrian Enache; Vasilis Argyriou; Panagiotis Sarigiannidis; Teodor-Iulian Voicila; George-Calin Seritan",
     "venue": "Electronics",
     "year": 2025,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:xtRiw3GOFMkC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.3390/electronics14112135"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Journal article",
     "citations": "3",
     "doi": "10.3390/electronics14112135",
@@ -397,21 +230,6 @@
     "authors": "Efstathios Fiorentis; Bogdan-Adrian Enache",
     "venue": "2025 IEEE 15th International Workshop on Applied Measurements for Power Systems (AMPS)",
     "year": 2025,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:UxriW0iASnsC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/amps66841.2025.11219910"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "",
     "doi": "10.1109/amps66841.2025.11219910",
@@ -430,21 +248,6 @@
     "authors": "Ioana-Raluca Adochiei; Florin Ciprian Argatu; Bogdan-Adrian Enache; Cosmin Karl Banica; Sorin Dan Grigorescu; Felix-Constantin Adochiei",
     "venue": "IFMBE Proceedings; 7th International Conference on Nanotechnologies and Biomedical Engineering",
     "year": 2025,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:nb7KW1ujOQ8C"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1007/978-3-032-06497-4_61"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Book chapter",
     "citations": "1",
     "doi": "10.1007/978-3-032-06497-4_61",
@@ -463,21 +266,6 @@
     "authors": "Alexandra Nistor; George-Călin Serițan; Felix Constantin Adochiei; Florin-Ciprian Argatu; Bogdan-Adrian Enache",
     "venue": "2025 14th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
     "year": 2025,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:p2g8aNsByqUC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/atee66006.2025.11299944"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "",
     "doi": "10.1109/atee66006.2025.11299944",
@@ -496,21 +284,6 @@
     "authors": "Cătălin Andrei Niculescu; Florin Ciprian Argatu; George Călin Serițan; Felix Constantin Adochiei; Bogdan-Adrian Enache",
     "venue": "2025 14th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
     "year": 2025,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:uWQEDVKXjbEC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/atee66006.2025.11299969"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "",
     "doi": "10.1109/atee66006.2025.11299969",
@@ -529,25 +302,6 @@
     "authors": "Teodor-Iulian Voicila; George-Calin Seritan; Bogdan-Adrian Enache",
     "venue": "Revue Roumaine des Sciences Techniques – Série Électrotechnique et Énergétique",
     "year": 2024,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:_xSYboBqXhAC"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      },
-      {
-        "name": "Publisher / institutional bibliography",
-        "url": "https://journal.iem.pub.ro/rrst-ee/en/article/view/813"
-      },
-      {
-        "name": "DOI",
-        "url": "https://doi.org/10.59277/RRST-EE.2024.69.3.10"
-      }
-    ],
-    "notes": [],
     "type": "Journal article",
     "citations": "8",
     "doi": "10.59277/RRST-EE.2024.69.3.10",
@@ -568,21 +322,6 @@
     "authors": "George-Călin Seriţan; Bogdan-Adrian Enache; Radu Porumb; Daniel Balaci; Irina Clima; Cristinel-Bogdan Bărbulescu",
     "venue": "2024 16th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
     "year": 2024,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:bFI3QPDXJZMC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/ecai61503.2024.10607426"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "2",
     "doi": "10.1109/ecai61503.2024.10607426",
@@ -601,27 +340,6 @@
     "authors": "Elena-Valentina Șerbănescu; George- Călin Serițan; Bogdan-Adrian Enache",
     "venue": "IFMBE Proceedings; Advances in Digital Health and Medical Bioengineering",
     "year": 2024,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:b0M2c_1WBrUC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1007/978-3-031-62523-7_4"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      },
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:ZHo1McVdvXMC"
-      }
-    ],
-    "notes": [
-      "Duplicate or alternate profile entry combined; source links retained. Citation counts are not summed."
-    ],
     "type": "Book chapter",
     "citations": "",
     "doi": "10.1007/978-3-031-62523-7_4",
@@ -640,19 +358,6 @@
     "authors": "Andreea Manea; Florin Ciprian Argatu; George Călin Serițan; Bogdan Adrian Enache; Ioana Raluca Adochiei; Felix Constantin Adochiei",
     "venue": "IFMBE Proceedings; Advances in Digital Health and Medical Bioengineering",
     "year": 2024,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:EUQCXRtRnyEC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1007/978-3-031-62523-7_7"
-      }
-    ],
-    "notes": [
-      "Google Scholar lists 2023; publisher metadata lists 2024."
-    ],
     "type": "Book chapter",
     "citations": "",
     "doi": "10.1007/978-3-031-62523-7_7",
@@ -671,21 +376,6 @@
     "authors": "Bogdan-Adrian Enache; Cosmin-Karl Banica; Ana Geroge Bogdan",
     "venue": "The Scientific Bulletin of Electrical Engineering Faculty",
     "year": 2024,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:D03iK_w7-QYC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.2478/sbeef-2024-0010"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Journal article",
     "citations": "1",
     "doi": "10.2478/sbeef-2024-0010",
@@ -704,21 +394,6 @@
     "authors": "Felix-Constantin Adochiei; David-Andrei Dumitrescu; George Calin Seritan; Florin Ciprian Argatu; Bogdan-Adrian Enache; Ioana - Raluca Adochiei",
     "venue": "2024 E-Health and Bioengineering Conference (EHB)",
     "year": 2024,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:abG-DnoFyZgC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/ehb64556.2024.10805722"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "4",
     "doi": "10.1109/ehb64556.2024.10805722",
@@ -737,21 +412,6 @@
     "authors": "Bogdan-Adrian Enache; Cosmin-Karl Banica; Ana Geroge Bogdan",
     "venue": "The Scientific Bulletin of Electrical Engineering Faculty",
     "year": 2024,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:pyW8ca7W8N0C"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.2478/sbeef-2024-0011"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Journal article",
     "citations": "3",
     "doi": "10.2478/sbeef-2024-0011",
@@ -770,15 +430,6 @@
     "authors": "E Fiorentis, I Vîlciu, OM Ghiță, L Lipan, BA Enache",
     "venue": "UPB Sci. Bull., Series C 86 (2), 369-382, 2024",
     "year": 2024,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:yD5IFk8b50cC"
-      }
-    ],
-    "notes": [
-      "Bibliographic record from Google Scholar; fields not independently resolved with publisher metadata are retained as listed."
-    ],
     "type": "Journal article",
     "citations": "3",
     "doi": "",
@@ -797,21 +448,6 @@
     "authors": "BOGDAN LEU; GEORGE SERIȚAN; BOGDAN ENACHE",
     "venue": "REVUE ROUMAINE DES SCIENCES TECHNIQUES — SÉRIE ÉLECTROTECHNIQUE ET ÉNERGÉTIQUE",
     "year": 2023,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:HoB7MX3m0LUC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.59277/rrst-ee.2023.3.5"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Journal article",
     "citations": "4",
     "doi": "10.59277/rrst-ee.2023.3.5",
@@ -830,21 +466,6 @@
     "authors": "Irina Vîlciu; Bogdan-Adrian Enache; George-Călin Serițan; Teodor-Iulian Voicilă",
     "venue": "2023 13th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
     "year": 2023,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:RGFaLdJalmkC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/atee58038.2023.10108307"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "2",
     "doi": "10.1109/atee58038.2023.10108307",
@@ -863,15 +484,6 @@
     "authors": "TI VOICILA, AG BOGDAN, BA ENACHE",
     "venue": "University of Pitesti Scientific Bulletin Series: Electronics and Computer …, 2023",
     "year": 2023,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:dfsIfKJdRG4C"
-      }
-    ],
-    "notes": [
-      "Bibliographic record from Google Scholar; fields not independently resolved with publisher metadata are retained as listed."
-    ],
     "type": "Journal article",
     "citations": "",
     "doi": "",
@@ -890,17 +502,6 @@
     "authors": "Bogdan-Adrian Enache; Cosmin Karl Banica; Geroge Bogdan Ana",
     "venue": "Journal of Electrical Engineering, Electronics, Control and Computer Science",
     "year": 2023,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:rO6llkc54NcC"
-      },
-      {
-        "name": "Publisher / institutional bibliography",
-        "url": "https://mail.jeeeccs.net/index.php/journal/article/view/352/0"
-      }
-    ],
-    "notes": [],
     "type": "Journal article",
     "citations": "",
     "doi": "",
@@ -919,21 +520,6 @@
     "authors": "Teodor-Iulian Voicila; George-Calin Seritan; Bogdan-Adrian Enache; Marilena Stanculescu; Radu-Florin Porumb",
     "venue": "2023 10th International Conference on Modern Power Systems (MPS)",
     "year": 2023,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:vV6vV6tmYwMC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/mps58874.2023.10187442"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "4",
     "doi": "10.1109/mps58874.2023.10187442",
@@ -952,21 +538,6 @@
     "authors": "Cristina-Gabriela Sărăcin; Bogdan-Adrian Enache",
     "venue": "2023 15th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
     "year": 2023,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:2P1L_qKh6hAC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/ecai58194.2023.10194189"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "",
     "doi": "10.1109/ecai58194.2023.10194189",
@@ -986,21 +557,6 @@
     "authors": "Teodor-Iulian Voicilă; George-Călin Serițan; Bogdan-Adrian Enache; Radu Porumb; Marilena Stănculescu",
     "venue": "2023 13th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
     "year": 2023,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:ns9cj8rnVeAC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/atee58038.2023.10108169"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "2",
     "doi": "10.1109/atee58038.2023.10108169",
@@ -1019,21 +575,6 @@
     "authors": "George-Cãilin Seriţan; Bogdan-Adrian Enache; Radu Porumb; Daniel Balaci; Irina Clima; Cristinel-Bogdan Bărbulescu",
     "venue": "2023 15th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
     "year": 2023,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:70eg2SAEIzsC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/ecai58194.2023.10194166"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "1",
     "doi": "10.1109/ecai58194.2023.10194166",
@@ -1052,15 +593,6 @@
     "authors": "TI VOICILA, AG BOGDAN, BA ENACHE",
     "venue": "University of Pitesti Scientific Bulletin Series: Electronics and Computer …, 2023",
     "year": 2023,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:f2IySw72cVMC"
-      }
-    ],
-    "notes": [
-      "Bibliographic record from Google Scholar; fields not independently resolved with publisher metadata are retained as listed."
-    ],
     "type": "Journal article",
     "citations": "",
     "doi": "",
@@ -1079,21 +611,6 @@
     "authors": "SORIN-DAN GRIGORESCU; GEORGE-CALIN SERITAN; BOGDAN-ADRIAN ENACHE; FLORIN-CIPRIAN ARGATU; FELIX-CONSTANTIN ADOCHIEI; VICTOR STANCIU",
     "venue": "REVUE ROUMAINE DES SCIENCES TECHNIQUES — SÉRIE ÉLECTROTECHNIQUE ET ÉNERGÉTIQUE",
     "year": 2023,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:RYcK_YlVTxYC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.59277/rrst-ee.2023.68.2.19"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Journal article",
     "citations": "1",
     "doi": "10.59277/rrst-ee.2023.68.2.19",
@@ -1112,21 +629,6 @@
     "authors": "B.A. Enache; C.K. Banica; Ana Geroge Bogdan",
     "venue": "The Scientific Bulletin of Electrical Engineering Faculty",
     "year": 2023,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:738O_yMBCRsC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.2478/sbeef-2023-0009"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Journal article",
     "citations": "2",
     "doi": "10.2478/sbeef-2023-0009",
@@ -1145,21 +647,6 @@
     "authors": "Mihai Alexandru Pisla; Marilena Stanculescu; Radu Florin Porumb; Bogdan-Adrian Enache; George-Calin Seritan",
     "venue": "2023 13th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
     "year": 2023,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:O3NaXMp0MMsC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/atee58038.2023.10108304"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "4",
     "doi": "10.1109/atee58038.2023.10108304",
@@ -1178,21 +665,6 @@
     "authors": "B.A. Enache; C.K. Banica; Ana Geroge Bogdan",
     "venue": "The Scientific Bulletin of Electrical Engineering Faculty",
     "year": 2023,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:SP6oXDckpogC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.2478/sbeef-2023-0008"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Journal article",
     "citations": "16",
     "doi": "10.2478/sbeef-2023-0008",
@@ -1211,25 +683,6 @@
     "authors": "Costel-Ciprian Raicu; George-Călin Serițan; Bogdan-Adrian Enache",
     "venue": "EMERG: Energy. Environment. Efficiency. Resources. Globalization",
     "year": 2023,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:ldfaerwXgEUC"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      },
-      {
-        "name": "Publisher / institutional bibliography",
-        "url": "https://emerg.ro/files/power-led-efficiency-for-automotive-headlights/"
-      },
-      {
-        "name": "DOI",
-        "url": "https://doi.org/10.37410/EMERG.2023.2.07"
-      }
-    ],
-    "notes": [],
     "type": "Journal article",
     "citations": "",
     "doi": "10.37410/EMERG.2023.2.07",
@@ -1250,21 +703,6 @@
     "authors": "Bogdan Leu; George Seritan; Bogdan Enache; Gabriel Tănăsescu; Radu Porumb; Irina Vilciu",
     "venue": "2023 15th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
     "year": 2023,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:35N4QoGY0k4C"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/ecai58194.2023.10193960"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "3",
     "doi": "10.1109/ecai58194.2023.10193960",
@@ -1283,21 +721,6 @@
     "authors": "George-Călin Seriţan; Costel-Ciprian Raicu; Bogdan-Adrian Enache",
     "venue": "Sensors",
     "year": 2023,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:lSLTfruPkqcC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.3390/s23146521"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Journal article",
     "citations": "8",
     "doi": "10.3390/s23146521",
@@ -1316,21 +739,6 @@
     "authors": "Luminita–Mirela Constantinescu; Bogdan–Adrian Enache; Violeta–Georgiana Dogaru; Teodor Iulian Voicila; Irina Vilciu; Silvia–Carmen Vasile",
     "venue": "2023 15th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
     "year": 2023,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:M05iB0D1s5AC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/ecai58194.2023.10193945"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "2",
     "doi": "10.1109/ecai58194.2023.10193945",
@@ -1349,27 +757,6 @@
     "authors": "ANDREI-COSMIN GHOERGHE; HORIA ANDREI; EMIL DIACONU; GEORGE SERITAN; Bogdan Enache",
     "venue": "REVUE ROUMAINE DES SCIENCES TECHNIQUES — SÉRIE ÉLECTROTECHNIQUE ET ÉNERGÉTIQUE",
     "year": 2023,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:zA6iFVUQeVQC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.59277/rrst-ee.2023.4.15"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      },
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:u_35RYKgDlwC"
-      }
-    ],
-    "notes": [
-      "Duplicate or alternate profile entry combined; source links retained. Citation counts are not summed."
-    ],
     "type": "Journal article",
     "citations": "4",
     "doi": "10.59277/rrst-ee.2023.4.15",
@@ -1389,21 +776,6 @@
     "authors": "Valeri Mladenov; Vesselin Chobanov; George Calin Seritan; Radu Florin Porumb; Bogdan-Adrian Enache; Vasiliki Vita; Marilena Stănculescu; Thong Vu Van; Dimitrios Bargiotas",
     "venue": "Energies",
     "year": 2022,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:maZDTaKrznsC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.3390/en15020539"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Journal article",
     "citations": "43",
     "doi": "10.3390/en15020539",
@@ -1422,21 +794,6 @@
     "authors": "Sorin Dan Grigorescu; George-Calin Seritan; Bogdan-Adrian Enache; Felix-Constantin Adochiei; Florin-Ciprian Argatu; Irina Vilciu; Teodor-Iulian Voicila",
     "venue": "2022 E-Health and Bioengineering Conference (EHB)",
     "year": 2022,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:BqipwSGYUEgC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/ehb55594.2022.9991365"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "",
     "doi": "10.1109/ehb55594.2022.9991365",
@@ -1455,21 +812,6 @@
     "authors": "Sarah. H. Harbi; George-Calin Seritan; Bogdan-Adrian Enache; Sorin-Dan Grigorescu",
     "venue": "2022 14th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
     "year": 2022,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:hMod-77fHWUC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/ecai54874.2022.9847481"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "6",
     "doi": "10.1109/ecai54874.2022.9847481",
@@ -1488,17 +830,6 @@
     "authors": "George-Călin Serițan; Bogdan-Adrian Enache; Irina Vîlciu; Sorin-Dan Grigorescu; Valeri Mladenov",
     "venue": "Revue Roumaine des Sciences Techniques – Série Électrotechnique et Énergétique",
     "year": 2022,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:YFjsv_pBGBYC"
-      },
-      {
-        "name": "Publisher / institutional bibliography",
-        "url": "https://journal.iem.pub.ro/rrst-ee/en/article/view/181"
-      }
-    ],
-    "notes": [],
     "type": "Journal article",
     "citations": "13",
     "doi": "",
@@ -1518,21 +849,6 @@
     "authors": "Bogdan-Adrian Enache; Sorin-Dan Grigorescu; Florin-Ciprian Argatu; Felix-Constantin Adochiei; Irina Vilciu; Teodor-Iulian Voicila",
     "venue": "2022 14th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
     "year": 2022,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:NMxIlDl6LWMC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/ecai54874.2022.9847441"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "2",
     "doi": "10.1109/ecai54874.2022.9847441",
@@ -1560,15 +876,6 @@
     "pages": "231–236",
     "publisher": "",
     "citations": "",
-    "sources": [
-      {
-        "name": "Institutional bibliography",
-        "url": "https://www.sdie.upb.ro/wp-content/uploads/2025/08/SERITAN-George_LL.pdf"
-      }
-    ],
-    "notes": [
-      "Additional article identified in an institutional coauthor publication list. The source prints “lightning systems”; the title is rendered as “lighting systems”, consistent with the automotive-lighting context. WOS:000754884700004."
-    ],
     "topics": [
       "Robotics & mobility"
     ]
@@ -1579,21 +886,6 @@
     "authors": "Bogdan Leu; Bogdan-Adrian Enache; Florin-Ciprian Argatu; Marilena Stanculescu",
     "venue": "2021 International Conference on Electromechanical and Energy Systems (SIELMEN)",
     "year": 2021,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:isC4tDSrTZIC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/sielmen53755.2021.9600439"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "2",
     "doi": "10.1109/sielmen53755.2021.9600439",
@@ -1612,21 +904,6 @@
     "authors": "Fetcu David Andrei; George Seritan; Bogdan Enache; Florin Ciprian Argatu; Felix - Constantin Adochiei",
     "venue": "2021 International Conference on e-Health and Bioengineering (EHB)",
     "year": 2021,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:k_IJM867U9cC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/ehb52898.2021.9657663"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "5",
     "doi": "10.1109/ehb52898.2021.9657663",
@@ -1645,21 +922,6 @@
     "authors": "Costel-Ciprian Raicu; George-Călin Seriţan; Bogdan-Adrian Enache; Marilena Stănculescu",
     "venue": "Applied Sciences",
     "year": 2021,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:TFP_iSt0sucC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.3390/app112210581"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Journal article",
     "citations": "11",
     "doi": "10.3390/app112210581",
@@ -1678,21 +940,6 @@
     "authors": "Bogdan-Adrian Enache; George-Calin Seritan; Costin Cepisca; Sorin-Dan Grigorescu; Florin-Ciprian Argatu; Felix-Constantin Adochiei; Teodor-Iulian Voicila",
     "venue": "2021 12th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
     "year": 2021,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:_Qo2XoVZTnwC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/atee52255.2021.9425205"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "5",
     "doi": "10.1109/atee52255.2021.9425205",
@@ -1712,21 +959,6 @@
     "authors": "Cristian Pirvu; Bogdan-Adrian Enache; Costin Cepisca; Mihalache Diana Iuliana; Neculita Andreea",
     "venue": "2021 12th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
     "year": 2021,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:RHpTSmoSYBkC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/atee52255.2021.9425241"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "2",
     "doi": "10.1109/atee52255.2021.9425241",
@@ -1745,21 +977,6 @@
     "authors": "Oana Lebedov; Bogdan-Adrian Enache; Florin-Ciprian Argatu",
     "venue": "2021 9th International Conference on Modern Power Systems (MPS)",
     "year": 2021,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:r0BpntZqJG4C"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/mps52805.2021.9492522"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "3",
     "doi": "10.1109/mps52805.2021.9492522",
@@ -1778,21 +995,6 @@
     "authors": "Bogdan-Adrian Enache; George-Calin Seritan; Sorin-Dan Grigorescu; Costin Cepisca; Felix-Constantin Adochiei; Violeta-Vasilica Argatu; Teodor Iulian Voicila",
     "venue": "2020 International Conference and Exposition on Electrical And Power Engineering (EPE)",
     "year": 2020,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:e5wmG9Sq2KIC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/epe50722.2020.9305538"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "16",
     "doi": "10.1109/epe50722.2020.9305538",
@@ -1811,21 +1013,6 @@
     "authors": "Bogdan-Adrian Enache; George-Calin Seritan; Costin Cepisca; Sorin-Dan Grigorescu; Florin-Ciprian Argatu; Felix-Constantin Adochiei; Teodor-Iulian Voicila",
     "venue": "Revue Roumaine des Sciences Techniques – Série Électrotechnique et Énergétique",
     "year": 2020,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:-f6ydRqryjwC"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      },
-      {
-        "name": "Publisher / institutional bibliography",
-        "url": "https://www.sdie.upb.ro/wp-content/uploads/2025/08/SERITAN-George_LL.pdf"
-      }
-    ],
-    "notes": [],
     "type": "Journal article",
     "citations": "8",
     "doi": "",
@@ -1844,21 +1031,6 @@
     "authors": "George-Calin Seritan; Bogdan-Adrian Enache; Felix-Constantin Adochiei; Florin-Ciprian Argatu; Andrei-Sebastian Petrescu; Ioana-Raluca Adochiei; Daniel Iulian Voiculescu",
     "venue": "2020 International Conference on e-Health and Bioengineering (EHB)",
     "year": 2020,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:R3hNpaxXUhUC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/ehb50910.2020.9280259"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "",
     "doi": "10.1109/ehb50910.2020.9280259",
@@ -1877,21 +1049,6 @@
     "authors": "Bogdan-Adrian Enache; Sorin-Dan Grigorescu; Ioana-Raluca Adochiei; Cristina-Daniela Eanche; Daniel Iulian Voiculescu; Violeta Argatu; Alexandra Nistor; Luminita-Mirela Constatinescu; Constantin Stoica",
     "venue": "2020 12th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
     "year": 2020,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:mB3voiENLucC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/ecai50035.2020.9223202"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "",
     "doi": "10.1109/ecai50035.2020.9223202",
@@ -1911,21 +1068,6 @@
     "authors": "Felix-Constantin Adochiei; Serban - Teodor Nicolescu; Ioana-Raluca Adochiei; George-Calin Seritan; Bogdan-Adrian Enache; Florin-Ciprian Argatu; Diana Costin",
     "venue": "2020 International Conference on e-Health and Bioengineering (EHB)",
     "year": 2020,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:HDshCWvjkbEC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/ehb50910.2020.9280192"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "42",
     "doi": "10.1109/ehb50910.2020.9280192",
@@ -1944,21 +1086,6 @@
     "authors": "S. D. Grigorescu; G. C. Seritan; B. A. Enache; F. C. Argatu; F. C. Adochiei",
     "venue": "The Scientific Bulletin of Electrical Engineering Faculty",
     "year": 2020,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:iH-uZ7U-co4C"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.2478/sbeef-2020-0107"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Journal article",
     "citations": "12",
     "doi": "10.2478/sbeef-2020-0107",
@@ -1977,16 +1104,6 @@
     "authors": "GC Seritan, BA Enache, FC Adochiei, FC Argatu, C Christodoulou, V Vita, ...",
     "venue": "Rev. Roum. Sci. Tech.-Ser. Electrotech. Energetique 65, 67-70, 2020",
     "year": 2020,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:hC7cP41nSMkC"
-      }
-    ],
-    "notes": [
-      "Bibliographic record from Google Scholar; fields not independently resolved with publisher metadata are retained as listed.",
-      "The source abbreviates the author list. Follow the source link for the complete list."
-    ],
     "type": "Journal article",
     "citations": "13",
     "doi": "",
@@ -2005,21 +1122,6 @@
     "authors": "Sorin-Dan Grigorescu; George-Calin Seritan; Bogdan-Adrian Enache; Felix-Constantin Adochiei; Florin-Ciprian Argatu; Andreea Stavre",
     "venue": "2020 International Conference on e-Health and Bioengineering (EHB)",
     "year": 2020,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:TQgYirikUcIC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/ehb50910.2020.9280273"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "8",
     "doi": "10.1109/ehb50910.2020.9280273",
@@ -2038,21 +1140,6 @@
     "authors": "Felix-Constantin Adochiei; George-Calin Seritan; Bogdan-Adrian Enache; Florin-Ciprian Argatu; Andreea Roxanda Dobre",
     "venue": "2020 International Symposium on Fundamentals of Electrical Engineering (ISFEE)",
     "year": 2020,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:M3NEmzRMIkIC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/isfee51261.2020.9756158"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "",
     "doi": "10.1109/isfee51261.2020.9756158",
@@ -2072,21 +1159,6 @@
     "authors": "Felix-Constantin Adochiei; Radu Ciucu; Ioana Raluca Adochiei; Florin Ciprian Argatu; Bogdan Enache; Casian Miron; George Seritan",
     "venue": "2019 E-Health and Bioengineering Conference (EHB)",
     "year": 2019,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:dhFuZR0502QC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/ehb47216.2019.8970089"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "12",
     "doi": "10.1109/ehb47216.2019.8970089",
@@ -2105,21 +1177,6 @@
     "authors": "Florin-Ciprian Argatu; Florentin-Daniel Tarcau; Violeta-Vasilica Argatu; Sorin-Dan Grigorescu; Bogdan-Adrian Enache; Luminita-Mirela Constantinescu",
     "venue": "2019 11th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
     "year": 2019,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:qUcmZB5y_30C"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/ecai46879.2019.9041949"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "3",
     "doi": "10.1109/ecai46879.2019.9041949",
@@ -2138,21 +1195,6 @@
     "authors": "Ioana-Raluca Adochiei; Felix Adochiei; Costin Cepisca; George Seritan; Bogdan Enache; Florin Argatu; Radu Ciucu",
     "venue": "2019 11th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
     "year": 2019,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:YOwf2qJgpHMC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/atee.2019.8724892"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "20",
     "doi": "10.1109/atee.2019.8724892",
@@ -2171,21 +1213,6 @@
     "authors": "George Calin Seritan; Felix-Constantin Adochiei; Bogdan-Adrian Enache; Gladiola Petroiu-Andruseac; Cristina-Daniela Enache; Dana Adriana Dascultu; Cristina Adriana Becheanu; Alexandru Ulmeanu",
     "venue": "2019 E-Health and Bioengineering Conference (EHB)",
     "year": 2019,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:7PzlFSSx8tAC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/ehb47216.2019.8970086"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "13",
     "doi": "10.1109/ehb47216.2019.8970086",
@@ -2209,17 +1236,6 @@
     "url": "https://www.researchgate.net/publication/336686566_IMPROVEMENT_OF_TEACHING_ACTIVITIES_IN_HIGHER_EDUCATION_A_CASE_STUDY",
     "summary": "A case study of objective-oriented, web-based engineering laboratory teaching.",
     "id": "pub-rg-2",
-    "sources": [
-      {
-        "name": "ResearchGate",
-        "url": "https://www.researchgate.net/publication/336686566_IMPROVEMENT_OF_TEACHING_ACTIVITIES_IN_HIGHER_EDUCATION_A_CASE_STUDY"
-      },
-      {
-        "name": "Publisher / institutional bibliography",
-        "url": "https://upb.ro/wp-content/uploads/2020/01/Enache-B-Lista-lucr%C4%83ri.pdf"
-      }
-    ],
-    "notes": [],
     "publisher": "",
     "volume": "64",
     "issue": "2",
@@ -2235,20 +1251,6 @@
     "authors": "R Ciucu, FC Adochiei, IR Adochiei, F Argatu, GC Seriţan, B Enache, ...",
     "venue": "The Scientific Bulletin of Electrical Engineering Faculty 19 (1), 58-63, 2019",
     "year": 2019,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:Zph67rFs4hoC"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [
-      "Bibliographic record from Google Scholar; fields not independently resolved with publisher metadata are retained as listed.",
-      "The source abbreviates the author list. Follow the source link for the complete list."
-    ],
     "type": "Journal article",
     "citations": "17",
     "doi": "",
@@ -2267,21 +1269,6 @@
     "authors": "Bogdan-Adrian Enache; Sorin-Dan Grigorescu; George-Calin Seritan; Florin-Ciprian Argatu; Felix-Constantin Adochiei; Luminita-Mirela Constantinescu",
     "venue": "2019 11th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
     "year": 2019,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:_kc_bZDykSQC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/atee.2019.8724901"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "11",
     "doi": "10.1109/atee.2019.8724901",
@@ -2300,21 +1287,6 @@
     "authors": "George-Calin Seritan; Sorin-Dan Grigorescu; Bogdan-Adrian Enache; Florin Ciprian Argatu; Felix Constantin Adochiei; Teodor Icleanu",
     "venue": "2019 54th International Universities Power Engineering Conference (UPEC)",
     "year": 2019,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:9ZlFYXVOiuMC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/upec.2019.8893437"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "3",
     "doi": "10.1109/upec.2019.8893437",
@@ -2333,21 +1305,6 @@
     "authors": "Florin-Ciprian Argatu; Vlad Brezoianu; Violeta Vasilica Argatu; Bogdan-Adrian Enache; Felix-Constantin Adochiei; Teodor Icleanu",
     "venue": "2019 54th International Universities Power Engineering Conference (UPEC)",
     "year": 2019,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:mVmsd5A6BfQC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/upec.2019.8893501"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "14",
     "doi": "10.1109/upec.2019.8893501",
@@ -2366,21 +1323,6 @@
     "authors": "Felix-Constantin Adochiei; Razvan-Constantin Stefan; Ioana-Raluca Adochiei; Bogdan-Adrian Enache; Luminita-Mirela Constantinescu; Marius-Ciprian Larco",
     "venue": "2019 11th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
     "year": 2019,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:ZeXyd9-uunAC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/ecai46879.2019.9042067"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "2",
     "doi": "10.1109/ecai46879.2019.9042067",
@@ -2399,21 +1341,6 @@
     "authors": "S.D. Grigorescu; F.C. Argatu; S.V. Paturca; C. Cepisca; G.C. Seritan; F.C. Adochiei; B. Enache",
     "venue": "2019 11th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
     "year": 2019,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:ULOm3_A8WrAC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/atee.2019.8724993"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "34",
     "doi": "10.1109/atee.2019.8724993",
@@ -2432,21 +1359,6 @@
     "authors": "Iulian-Dan Stanescu; Bogdan-Adrian Enache; George-Calin Seritan; Sorin-Dan Grigorescu; Florin-Ciprian Argatu; Felix-Constantin Adochiei",
     "venue": "2018 International Symposium on Fundamentals of Electrical Engineering (ISFEE)",
     "year": 2018,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:4TOpqqG69KYC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/isfee.2018.8742409"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "3",
     "doi": "10.1109/isfee.2018.8742409",
@@ -2465,21 +1377,6 @@
     "authors": "Teodor Cazangiu; Florin-Ciprian Argatu; Bogdan-Adrian Enache; Vasiliki Vita; Ganatsios Stavros",
     "venue": "2018 International Symposium on Fundamentals of Electrical Engineering (ISFEE)",
     "year": 2018,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:qxL8FJ1GzNcC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/isfee.2018.8742451"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "24",
     "doi": "10.1109/isfee.2018.8742451",
@@ -2498,21 +1395,6 @@
     "authors": "Bogdan Enache; Paul Cristian Andrei; Costin Cepisca; Horia Andrei",
     "venue": "2018 10th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
     "year": 2018,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:kNdYIx-mwKoC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/ecai.2018.8678942"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "2",
     "doi": "10.1109/ecai.2018.8678942",
@@ -2531,20 +1413,6 @@
     "authors": "GC Seritan, BA Enache, R Porumb, FC Argatu, FC Adochiei, V Vasiliki",
     "venue": "Rev. Roum. Sci. Techn.–Électrotechn. et Énerg 63 (4), 437-440, 2018",
     "year": 2018,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:CHSYGLWDkRkC"
-      },
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:3fE2CSJIrl8C"
-      }
-    ],
-    "notes": [
-      "Bibliographic record from Google Scholar; fields not independently resolved with publisher metadata are retained as listed.",
-      "Duplicate or alternate profile entry combined; source links retained. Citation counts are not summed."
-    ],
     "type": "Journal article",
     "citations": "16",
     "doi": "",
@@ -2563,21 +1431,6 @@
     "authors": "F.C. Argatu; Violeta Argatu; B.A. Enache; C. Cepisca; G.C. Seritan; P.C. Andrei",
     "venue": "The Scientific Bulletin of Electrical Engineering Faculty",
     "year": 2018,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:bEWYMUwI8FkC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1515/sbeef-2017-0026"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Journal article",
     "citations": "4",
     "doi": "10.1515/sbeef-2017-0026",
@@ -2596,21 +1449,6 @@
     "authors": "George Calin Seritan; Bogdan-Adrian Enache; Florin Ciprian Argatau; Felix Constantin Adochiei; Stefan Toader",
     "venue": "2018 IEEE International Conference on Automation, Quality and Testing, Robotics (AQTR)",
     "year": 2018,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:8k81kl-MbHgC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/aqtr.2018.8402704"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "18",
     "doi": "10.1109/aqtr.2018.8402704",
@@ -2629,21 +1467,6 @@
     "authors": "Bogdan-Adrian Enache",
     "venue": "Lecture Notes in Energy; Energy Harvesting and Energy Efficiency",
     "year": 2017,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:UebtZRa9Y70C"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1007/978-3-319-49875-1_19"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Book chapter",
     "citations": "1",
     "doi": "10.1007/978-3-319-49875-1_19",
@@ -2662,21 +1485,6 @@
     "authors": "Bogdan-Adrian Enache; Luminita-Mirela Constantinescu",
     "venue": "2017 10th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
     "year": 2017,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:hqOjcs7Dif8C"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/atee.2017.7905117"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "1",
     "doi": "10.1109/atee.2017.7905117",
@@ -2695,21 +1503,6 @@
     "authors": "Nicolae Diga; Bogdan-Adrian Enache; Constantin Ghita; Silvia-Maria Diga",
     "venue": "2016 International Conference on Applied and Theoretical Electricity (ICATE)",
     "year": 2016,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:roLk4NBRz8UC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/icate.2016.7754646"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "5",
     "doi": "10.1109/icate.2016.7754646",
@@ -2728,21 +1521,6 @@
     "authors": "Florin-Marian Birleanu; Bogdan-Adrian Enache; Magdalena Alexandra",
     "venue": "2016 International Conference on Communications (COMM)",
     "year": 2016,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:_FxGoFyzp5QC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/iccomm.2016.7528313"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "3",
     "doi": "10.1109/iccomm.2016.7528313",
@@ -2761,21 +1539,6 @@
     "authors": "Bogdan-Adrian Enache; Florin-Marian Birleanu; Marin Radut",
     "venue": "2016 8th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
     "year": 2016,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:Se3iqnhoufwC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/ecai.2016.7861108"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "11",
     "doi": "10.1109/ecai.2016.7861108",
@@ -2794,21 +1557,6 @@
     "authors": "M. Jamma; M. Barara; M. Akherraz; B. A. Enache",
     "venue": "2016 8th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
     "year": 2016,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:LkGwnXOMwfcC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/ecai.2016.7861085"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "38",
     "doi": "10.1109/ecai.2016.7861085",
@@ -2827,19 +1575,6 @@
     "authors": "B Florin-Marian, M Cosmin-Ionut, E Bogdan-Adrian",
     "venue": "Journal of Electrical Engineering, Electronics, Control and Computer Science …, 2015",
     "year": 2015,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:ufrVoPGSRksC"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [
-      "Bibliographic record from Google Scholar; fields not independently resolved with publisher metadata are retained as listed."
-    ],
     "type": "Journal article",
     "citations": "",
     "doi": "",
@@ -2858,25 +1593,6 @@
     "authors": "Bogdan-Adrian Enache; Magdalena Emilia Alexandru; Luminita-Mirela Constantinescu",
     "venue": "2015 9th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
     "year": 2015,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:zYLM7Y9cAGgC"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      },
-      {
-        "name": "Publisher / institutional bibliography",
-        "url": "https://www.upit.ro/_document/236175/lista_de_lucrari_constantinescu_luminita_mirela_2022.pdf"
-      },
-      {
-        "name": "DOI",
-        "url": "https://doi.org/10.1109/ATEE.2015.7133925"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "7",
     "doi": "10.1109/ATEE.2015.7133925",
@@ -2895,25 +1611,6 @@
     "authors": "Bogdan-Adrian Enache; Magdalena Emilia Alexandru; Luminita-Mirela Constantinescu",
     "venue": "2015 9th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
     "year": 2015,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:Tyk-4Ss8FVUC"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      },
-      {
-        "name": "Publisher / institutional bibliography",
-        "url": "https://www.upit.ro/_document/236175/lista_de_lucrari_constantinescu_luminita_mirela_2022.pdf"
-      },
-      {
-        "name": "DOI",
-        "url": "https://doi.org/10.1109/ATEE.2015.7133926"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "1",
     "doi": "10.1109/ATEE.2015.7133926",
@@ -2932,21 +1629,6 @@
     "authors": "Bogdan-Adrian Enache; Magdalena Emilia Alexandru; Luminita-Mirela Constantinescu",
     "venue": "2015 7th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
     "year": 2015,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:Y0pCki6q_DkC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/ecai.2015.7301178"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "3",
     "doi": "10.1109/ecai.2015.7301178",
@@ -2965,19 +1647,6 @@
     "authors": "Emilian Lefter; Bogdan-Adrian Enache; Ionuț Bogdan Maria; Cătălin Goia",
     "venue": "UPB Scientific Bulletin, Series C: Electrical Engineering 77 (3), 293-304, 2015",
     "year": 2015,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:eQOLeE2rZwMC"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [
-      "Bibliographic record from Google Scholar; fields not independently resolved with publisher metadata are retained as listed."
-    ],
     "type": "Journal article",
     "citations": "4*",
     "doi": "",
@@ -2996,20 +1665,6 @@
     "authors": "BA Enache, LM Constantinescu, FM Barleanu",
     "venue": "University of Pitesti Scientific Bulletin Series: Electronics and Computer …, 2015",
     "year": 2015,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:QIV2ME_5wuYC"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [
-      "Bibliographic record from Google Scholar; fields not independently resolved with publisher metadata are retained as listed.",
-      "Date discrepancy: Google Scholar lists 2015; ResearchGate lists January 2016. Retained as 2015 pending confirmation."
-    ],
     "type": "Journal article",
     "citations": "2",
     "doi": "",
@@ -3028,21 +1683,6 @@
     "authors": "Emilian Lefter; Bogdan-Adrian Enache; Luminita-Mirela Constantinescu; Constantin Stoica",
     "venue": "Proceedings of the 2014 6th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
     "year": 2014,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:UeHWp8X0CEIC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/ecai.2014.7090176"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "4*",
     "doi": "10.1109/ecai.2014.7090176",
@@ -3061,23 +1701,6 @@
     "authors": "Bogdan-Adrian Enache; Emilian Lefter; Costin Cepisca",
     "venue": "Autonomous Vehicles: Intelligent Transport Systems and Smart Technologies",
     "year": 2014,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:0EnyYjriUFMC"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      },
-      {
-        "name": "Publisher / institutional bibliography",
-        "url": "https://upb.ro/wp-content/uploads/2020/01/Enache-B-Lista-lucr%C4%83ri.pdf"
-      }
-    ],
-    "notes": [
-      "Pagination differs across sources: Google Scholar lists 409–429; the author’s institutional publication list identifies Chapter 15, pp. 323–345. Pagination is left unresolved pending confirmation."
-    ],
     "type": "Book chapter",
     "citations": "2",
     "doi": "",
@@ -3098,21 +1721,6 @@
     "authors": "Bogdan-Adrian Enache; Eugen Diaconescu",
     "venue": "2014 International Symposium on Fundamentals of Electrical Engineering (ISFEE)",
     "year": 2014,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:9yKSN-GCB0IC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/isfee.2014.7050636"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "17",
     "doi": "10.1109/isfee.2014.7050636",
@@ -3131,21 +1739,6 @@
     "authors": "Mohamed Barara; Ahmed Abbou; Mohamed Akherraz; Abderrahim Bennassar; Silviu Ionita; Emilian Lefter; Bogdan Enache",
     "venue": "2014 International Conference on Development and Application Systems (DAS)",
     "year": 2014,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:2osOgNQ5qMEC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/daas.2014.6842423"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "3",
     "doi": "10.1109/daas.2014.6842423",
@@ -3164,27 +1757,6 @@
     "authors": "Bogdan-Adrian Enache; Luminita-Mirela Constantinescu; Emilian Lefter",
     "venue": "Proceedings of the 2014 6th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)",
     "year": 2014,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:YsMSGLbcyi4C"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/ecai.2014.7090177"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      },
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:aqlVkmm33-oC"
-      }
-    ],
-    "notes": [
-      "Duplicate or alternate profile entry combined; source links retained. Citation counts are not summed."
-    ],
     "type": "Conference paper",
     "citations": "9*",
     "doi": "10.1109/ecai.2014.7090177",
@@ -3203,21 +1775,6 @@
     "authors": "Bogdan Enache; Emilian Lefter; Constantin Stoica",
     "venue": "2013 8TH INTERNATIONAL SYMPOSIUM ON ADVANCED TOPICS IN ELECTRICAL ENGINEERING (ATEE)",
     "year": 2013,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:u-x6o8ySG0sC"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/atee.2013.6563497"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "34",
     "doi": "10.1109/atee.2013.6563497",
@@ -3238,21 +1795,6 @@
     "authors": "Constantin Stoica; Luminita Mirela Constantinescu; Emilian Lefter; Bogdan Enache",
     "venue": "Proceedings of the International Conference on ELECTRONICS, COMPUTERS and ARTIFICIAL INTELLIGENCE - ECAI-2013",
     "year": 2013,
-    "sources": [
-      {
-        "name": "Google Scholar",
-        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=MZdHJ7MAAAAJ&pagesize=100&citation_for_view=MZdHJ7MAAAAJ:d1gkVwhDpl0C"
-      },
-      {
-        "name": "Publisher / DOI",
-        "url": "https://doi.org/10.1109/ecai.2013.6636196"
-      },
-      {
-        "name": "ResearchGate profile",
-        "url": "https://www.researchgate.net/profile/Bogdan-Adrian-Enache"
-      }
-    ],
-    "notes": [],
     "type": "Conference paper",
     "citations": "5",
     "doi": "10.1109/ecai.2013.6636196",
