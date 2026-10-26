@@ -2,7 +2,7 @@
 
 Public academic website, with bibliographic data compiled on 29 September 2026.
 
-Website: https://enacheba.github.io/academic-website/ A dependency-free, responsive static website with 22 pages, 15 detailed research projects, 99 bibliography records, career and teaching profiles, a portrait, and a printable professional CV.
+Website: https://enacheba.github.io/academic-website/ A dependency-free, responsive static website with 23 pages, 16 detailed research projects, 99 bibliography records, career and teaching profiles, a portrait, and a printable professional CV.
 
 ## Build and preview
 
