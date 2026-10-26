@@ -38,7 +38,8 @@ for name,page in pages.items():
 pubs=json.loads((ROOT/'data/publications.json').read_text());projects=json.loads((ROOT/'data/projects.json').read_text())
 assert len(pubs)==len({p['id'] for p in pubs})
 dois=[p['doi'].lower() for p in pubs if p['doi']];assert len(dois)==len(set(dois))
-assert len(projects)==12 and len(pages)==19
+assert len(projects)==len({p['id'] for p in projects})
+assert len(pages)==7+len(projects)
 assert not {'sources.html','review.html'} & pages.keys()
 assert not (OUT/'data/supplementary.json').exists()
 exported_pubs=json.loads((OUT/'data/publications.json').read_text())
